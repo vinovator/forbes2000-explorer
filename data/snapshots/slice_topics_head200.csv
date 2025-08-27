@@ -1,0 +1,201 @@
+industry,region,top_terms
+Aerospace & Defense,APAC,"['aerospace' 'aircraft' 'aviation' 'company' 'engineering' 'equipment'
+ 'parts' 'products' 'segment' 'services']"
+Aerospace & Defense,Americas,"['aerospace' 'aircraft' 'commercial' 'defense' 'mission' 'power'
+ 'products' 'segment' 'services' 'systems']"
+Aerospace & Defense,Europe,"['aircraft' 'bank' 'company' 'defense' 'engines' 'holding' 'military'
+ 'security' 'segment' 'systems']"
+Aerospace & Defense,MEA/Other,"['airborne' 'applications' 'commercial' 'company' 'defense' 'engages'
+ 'homeland' 'security' 'systems' 'technology']"
+Automotive (Automotive and Suppliers),Americas,"['consists' 'design' 'distribution' 'manufacture' 'modules' 'products'
+ 'seat' 'seating' 'segment' 'systems']"
+Banking,APAC,"['bank' 'banking' 'business' 'corporate' 'financial' 'investment' 'loans'
+ 'retail' 'segment' 'services']"
+Banking,Americas,"['bank' 'banking' 'commercial' 'company' 'consumer' 'financial'
+ 'insurance' 'management' 'segment' 'services']"
+Banking,Europe,"['banking' 'business' 'commercial' 'corporate' 'financial' 'management'
+ 'private' 'retail' 'segment' 'services']"
+Banking,MEA/Other,"['bank' 'banking' 'business' 'corporate' 'investment' 'management'
+ 'retail' 'segment' 'services' 'treasury']"
+Business Services & Supplies,APAC,"['business' 'company' 'finance' 'financial' 'founded' 'headquartered'
+ 'investment' 'leasing' 'segment' 'services']"
+Business Services & Supplies,Americas,"['company' 'engages' 'global' 'insurance' 'loans' 'provides' 'rental'
+ 'segment' 'services' 'solutions']"
+Business Services & Supplies,Europe,"['aircraft' 'analytics' 'business' 'certification' 'company' 'legal'
+ 'outsourcing' 'security' 'segment' 'services']"
+Capital Goods,APAC,"['business' 'construction' 'division' 'energy' 'equipment' 'machinery'
+ 'power' 'products' 'segment' 'systems']"
+Capital Goods,Americas,"['company' 'control' 'equipment' 'industrial' 'manufacturing' 'segment'
+ 'services' 'solutions' 'systems' 'water']"
+Capital Goods,Europe,"['automation' 'energy' 'equipment' 'industrial' 'power' 'products'
+ 'segment' 'services' 'solutions' 'systems']"
+Chemicals,APAC,"['business' 'chemical' 'chemicals' 'company' 'includes' 'materials'
+ 'paints' 'products' 'provides' 'segment']"
+Chemicals,Americas,"['coatings' 'crop' 'global' 'industrial' 'materials' 'nitrogen' 'potash'
+ 'products' 'segment' 'specialty']"
+Chemicals,Europe,"['chemicals' 'coatings' 'company' 'industrial' 'performance' 'production'
+ 'products' 'segment' 'solutions' 'specialty']"
+Chemicals,MEA/Other,"['chemicals' 'company' 'electricity' 'exploration' 'group' 'markets'
+ 'mining' 'performance' 'production' 'segment']"
+Conglomerates,APAC,"['company' 'corp' 'engages' 'following' 'founded' 'gas' 'headquartered'
+ 'include' 'media' 'subsidiaries']"
+Conglomerates,Americas,"['consists' 'consumer' 'health' 'jardine' 'materials' 'packaging'
+ 'products' 'safety' 'segment' 'solutions']"
+Conglomerates,MEA/Other,"['abu' 'acquisition' 'arab' 'asset' 'businesses' 'company' 'dhabi'
+ 'diversified' 'services' 'united']"
+Construction,APAC,"['construction' 'development' 'engineering' 'estate' 'investment'
+ 'management' 'property' 'real' 'segment' 'services']"
+Construction,Americas,"['company' 'construction' 'homebuilding' 'homes' 'infrastructure'
+ 'management' 'products' 'segment' 'segments' 'services']"
+Construction,Europe,"['activities' 'building' 'company' 'concessions' 'construction'
+ 'development' 'engages' 'segment' 'services' 'systems']"
+Construction,MEA/Other,"['activities' 'commercial' 'develops' 'estate' 'headquartered' 'hotels'
+ 'leasing' 'properties' 'real' 'segment']"
+"Construction, Chemicals, Raw Materials",Americas,"['air' 'corporate' 'distribution' 'emea' 'equipment' 'gases' 'helium'
+ 'industrial' 'processing' 'segment']"
+Consumer Durables,APAC,"['automobile' 'automotive' 'business' 'company' 'manufacture' 'parts'
+ 'products' 'segment' 'services' 'vehicles']"
+Consumer Durables,Americas,"['company' 'equipment' 'ford' 'power' 'products' 'segment' 'storage'
+ 'systems' 'tools' 'vehicles']"
+Consumer Durables,Europe,"['automotive' 'cars' 'commercial' 'company' 'manufacture' 'products'
+ 'segment' 'services' 'systems' 'vehicles']"
+Diversified Financials,APAC,"['asset' 'banking' 'brokerage' 'business' 'financial' 'investment'
+ 'management' 'securities' 'segment' 'services']"
+Diversified Financials,Americas,"['business' 'company' 'estate' 'financial' 'investment' 'management'
+ 'operates' 'real' 'segment' 'services']"
+Diversified Financials,Europe,"['asset' 'banking' 'company' 'corporate' 'investment' 'management'
+ 'private' 'segment' 'services' 'wealth']"
+Diversified Financials,MEA/Other,"['bank' 'banking' 'commercial' 'financing' 'management' 'offers' 'qatar'
+ 'segment' 'services' 'subsidiaries']"
+Drugs & Biotechnology,APAC,"['company' 'development' 'drugs' 'engages' 'manufacture' 'pharmaceutical'
+ 'pharmaceuticals' 'products' 'research' 'segment']"
+Drugs & Biotechnology,Americas,"['company' 'development' 'diseases' 'founded' 'headquartered' 'health'
+ 'pharmaceutical' 'products' 'segment' 'services']"
+Drugs & Biotechnology,Europe,"['company' 'consumer' 'founded' 'headquartered' 'healthcare'
+ 'pharmaceutical' 'products' 'research' 'segment' 'treatment']"
+Drugs & Biotechnology,MEA/Other,"['cancer' 'cardiovascular' 'care' 'colds' 'company' 'coughs' 'diseases'
+ 'immunodeficiency' 'medicines' 'viruses']"
+"Engineering, Manufacturing",Americas,"['applications' 'construction' 'customers' 'engines' 'financial' 'gas'
+ 'industries' 'machinery' 'product' 'segment']"
+Food Markets,APAC,"['business' 'coles' 'convenience' 'food' 'group' 'includes' 'segment'
+ 'services' 'store' 'stores']"
+Food Markets,Americas,"['canada' 'company' 'food' 'foods' 'foodservice' 'founded' 'headquartered'
+ 'operations' 'products' 'segment']"
+Food Markets,Europe,"['company' 'europe' 'food' 'metro' 'plc' 'portugal' 'retail' 'segment'
+ 'services' 'trade']"
+"Food, Drink & Tobacco",APAC,"['beverages' 'business' 'company' 'engages' 'food' 'founded'
+ 'headquartered' 'production' 'products' 'segment']"
+"Food, Drink & Tobacco",Americas,"['america' 'beverages' 'brands' 'company' 'food' 'foods' 'operates'
+ 'products' 'retail' 'segment']"
+"Food, Drink & Tobacco",Europe,"['america' 'company' 'engages' 'europe' 'following' 'headquartered'
+ 'markets' 'nutrition' 'products' 'segment']"
+"Food, Drink & Tobacco",MEA/Other,"['brands' 'dairy' 'food' 'includes' 'investments' 'juice' 'poultry'
+ 'products' 'retail' 'segment']"
+Health Care Equipment & Services,APAC,"['business' 'company' 'imaging' 'information' 'medical' 'pharmaceutical'
+ 'products' 'segment' 'solutions' 'wholesale']"
+Health Care Equipment & Services,Americas,"['care' 'company' 'health' 'healthcare' 'medical' 'pharmaceutical'
+ 'products' 'segment' 'services' 'solutions']"
+Health Care Equipment & Services,Europe,"['care' 'equipment' 'fresenius' 'group' 'hearing' 'ireland' 'products'
+ 'sales' 'segment' 'surgical']"
+Health Care Equipment & Services,MEA/Other,[]
+"Hotels, Restaurants & Leisure",APAC,"['company' 'gaming' 'hut' 'international' 'management' 'operates' 'pizza'
+ 'segment' 'segments' 'systems']"
+"Hotels, Restaurants & Leisure",Americas,"['brands' 'company' 'cruise' 'cruises' 'international' 'management'
+ 'operates' 'segment' 'service' 'services']"
+"Hotels, Restaurants & Leisure",Europe,"['care' 'founded' 'group' 'headquartered' 'hotel' 'hotels'
+ 'intercontinental' 'operates' 'services' 'sodexo']"
+"Hotels, Restaurants & Leisure",MEA/Other,"['africa' 'australasia' 'bid' 'brian' 'business' 'company' 'corp'
+ 'corporate' 'south' 'united']"
+Household & Personal Products,APAC,"['care' 'fiber' 'materials' 'pet' 'polyester' 'products' 'provides' 'sale'
+ 'segment' 'yarn']"
+Household & Personal Products,Americas,"['america' 'care' 'company' 'consumer' 'personal' 'products' 'sales'
+ 'segment' 'stores' 'wholesale']"
+Household & Personal Products,Europe,"['care' 'company' 'engages' 'goods' 'health' 'home' 'hygiene' 'luxury'
+ 'products' 'segment']"
+IT Software & Services,APAC,"['business' 'company' 'development' 'information' 'online' 'securities'
+ 'segment' 'services' 'solutions' 'technology']"
+IT Software & Services,Americas,"['business' 'cloud' 'company' 'founded' 'management' 'segment' 'services'
+ 'software' 'solutions' 'technology']"
+IT Software & Services,Europe,"['business' 'casino' 'company' 'live' 'music' 'online' 'segment'
+ 'services' 'solutions' 'technology']"
+IT Software & Services,MEA/Other,"['company' 'following' 'founded' 'headquartered' 'internet' 'point'
+ 'security' 'software' 'solutions' 'technology']"
+Insurance,APAC,"['business' 'company' 'financial' 'insurance' 'life' 'management'
+ 'property' 'reinsurance' 'segment' 'services']"
+Insurance,Americas,"['company' 'financial' 'insurance' 'life' 'lines' 'products' 'property'
+ 'reinsurance' 'segment' 'services']"
+Insurance,Europe,"['activities' 'business' 'company' 'insurance' 'life' 'management' 'non'
+ 'property' 'segment' 'services']"
+Insurance,MEA/Other,"['africa' 'banking' 'company' 'financial' 'insurance' 'life' 'management'
+ 'momentum' 'savings' 'services']"
+Materials,APAC,"['china' 'coal' 'company' 'copper' 'gold' 'iron' 'mining' 'products'
+ 'segment' 'steel']"
+Materials,Americas,"['america' 'beverage' 'company' 'copper' 'gold' 'operations' 'packaging'
+ 'products' 'segment' 'steel']"
+Materials,Europe,"['company' 'copper' 'materials' 'metals' 'mining' 'packaging' 'products'
+ 'segment' 'steel' 'upm']"
+Materials,MEA/Other,"['africa' 'company' 'founded' 'gold' 'johannesburg' 'mines' 'mining'
+ 'sheet' 'south' 'steel']"
+Media,APAC,"['hotel' 'japan' 'management' 'operation' 'parks' 'segment' 'services'
+ 'shenzhen' 'theme' 'tokyo']"
+Media,Americas,"['cbs' 'communications' 'company' 'corporate' 'entertainment' 'marketing'
+ 'networks' 'news' 'segment' 'services']"
+Media,Europe,"['agencies' 'communications' 'company' 'engages' 'founded' 'headquartered'
+ 'management' 'public' 'relations' 'services']"
+Oil & Gas Operations,APAC,"['business' 'energy' 'exploration' 'gas' 'natural' 'oil' 'petroleum'
+ 'production' 'products' 'segment']"
+Oil & Gas Operations,Americas,"['company' 'crude' 'exploration' 'gas' 'marketing' 'natural' 'oil'
+ 'production' 'products' 'segment']"
+Oil & Gas Operations,Europe,"['company' 'exploration' 'gas' 'marketing' 'natural' 'oil' 'production'
+ 'products' 'refining' 'segment']"
+Oil & Gas Operations,MEA/Other,"['corporate' 'crude' 'downstream' 'exploration' 'gas' 'natural' 'oil'
+ 'production' 'segment' 'upstream']"
+Retail and Wholesale,Americas,"['amazon' 'america' 'focused' 'international' 'north' 'retail' 'sales'
+ 'segment' 'services' 'websites']"
+Retailing,APAC,"['business' 'company' 'engages' 'goods' 'headquartered' 'investment'
+ 'products' 'retail' 'segment' 'services']"
+Retailing,Americas,"['apparel' 'automotive' 'company' 'home' 'operates' 'products' 'retail'
+ 'segment' 'services' 'stores']"
+Retailing,Europe,"['company' 'engages' 'following' 'founded' 'headquartered' 'home'
+ 'operates' 'retail' 'segments' 'stores']"
+Semiconductors,APAC,"['chips' 'circuits' 'company' 'engages' 'founded' 'headquartered'
+ 'integrated' 'inverters' 'products' 'semiconductor']"
+Semiconductors,Americas,"['analog' 'embedded' 'group' 'power' 'products' 'segment' 'semiconductor'
+ 'solutions' 'systems' 'technology']"
+Semiconductors,Europe,"['automotive' 'chips' 'group' 'markets' 'power' 'products' 'segment'
+ 'semiconductor' 'solutions' 'transportation']"
+Technology Hardware & Equipment,APAC,"['business' 'company' 'computers' 'devices' 'electronic' 'electronics'
+ 'equipment' 'products' 'segment' 'services']"
+Technology Hardware & Equipment,Americas,"['commercial' 'data' 'devices' 'industrial' 'products' 'segment'
+ 'services' 'software' 'solutions' 'systems']"
+Technology Hardware & Equipment,Europe,"['company' 'enterprise' 'logitech' 'networks' 'nokia' 'products' 'segment'
+ 'services' 'software' 'solutions']"
+Telecommunications Services,APAC,"['business' 'china' 'communications' 'company' 'internet' 'mobile'
+ 'provides' 'segment' 'services' 'telecommunications']"
+Telecommunications Services,Americas,"['broadband' 'business' 'communications' 'company' 'data' 'media'
+ 'products' 'segment' 'services' 'wireless']"
+Telecommunications Services,Europe,"['company' 'fixed' 'group' 'headquartered' 'mobile' 'network' 'operations'
+ 'segment' 'segments' 'services']"
+Telecommunications Services,MEA/Other,"['company' 'engages' 'founded' 'headquartered' 'mobile' 'products' 'saudi'
+ 'services' 'telecommunication' 'telecommunications']"
+Trading Companies,APAC,"['business' 'company' 'engages' 'founded' 'headquartered' 'oil' 'products'
+ 'related' 'segment' 'services']"
+Trading Companies,Americas,"['components' 'distribution' 'electrical' 'electronic' 'global'
+ 'materials' 'products' 'segment' 'services' 'solutions']"
+Trading Companies,Europe,"['asia' 'company' 'equipment' 'following' 'kingdom' 'marketing' 'products'
+ 'segment' 'supply' 'united']"
+Transportation,APAC,"['air' 'business' 'company' 'container' 'logistics' 'operation' 'railway'
+ 'segment' 'services' 'transportation']"
+Transportation,Americas,"['air' 'company' 'engages' 'founded' 'freight' 'intermodal' 'rail'
+ 'segment' 'services' 'transportation']"
+Transportation,Europe,"['activities' 'air' 'company' 'france' 'freight' 'international'
+ 'logistics' 'related' 'segment' 'services']"
+Transportation,MEA/Other,[]
+Utilities,APAC,"['business' 'coal' 'company' 'electric' 'electricity' 'energy'
+ 'generation' 'power' 'segment' 'services']"
+Utilities,Americas,"['company' 'distribution' 'electric' 'electricity' 'energy' 'gas'
+ 'generation' 'regulated' 'segment' 'transmission']"
+Utilities,Europe,"['distribution' 'electricity' 'energy' 'gas' 'generation' 'networks'
+ 'power' 'segment' 'services' 'transmission']"
+Utilities,MEA/Other,"['arabia' 'electricity' 'gas' 'generation' 'oil' 'power' 'saudi' 'segment'
+ 'united' 'water']"

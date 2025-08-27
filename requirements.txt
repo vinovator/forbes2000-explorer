@@ -1,0 +1,8 @@
+pydantic-settings
+pandas
+numpy
+streamlit
+plotly
+faiss-cpu
+sentence-transformers
+google-generativeai

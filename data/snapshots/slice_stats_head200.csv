@@ -1,0 +1,1438 @@
+industry,region,n,total_revenue,total_profits,total_mktcap,median_margin,median_roa,top5_mv_share,leaders_roa,laggards_roa,leaders_margin,leaders_mktcap
+Aerospace & Defense,APAC,5,64718.0,4802.1,136438.0,0.06228517245466398,0.04419308720881339,1.0,"[{'company': 'AviChina Industry & Technology', 'naturalId': 'fred/companies/F2K/2025/102820', 'roa': 0.010979046242774565}
+ {'company': 'Mitsubishi Heavy Industries', 'naturalId': 'fred/companies/F2K/2025/2892', 'roa': 0.03892419637100488}
+ {'company': 'ST Engineering', 'naturalId': 'fred/companies/F2K/2025/3941', 'roa': 0.04419308720881339}
+ {'company': 'Hanwha Aerospace', 'naturalId': 'fred/companies/F2K/2025/3727', 'roa': 0.057266118622189006}
+ {'company': 'Bharat Electronics', 'naturalId': 'fred/companies/F2K/2025/105169', 'roa': 0.12557894736842104}]","[{'company': 'AviChina Industry & Technology', 'naturalId': 'fred/companies/F2K/2025/102820', 'roa': 0.010979046242774565}
+ {'company': 'Mitsubishi Heavy Industries', 'naturalId': 'fred/companies/F2K/2025/2892', 'roa': 0.03892419637100488}
+ {'company': 'ST Engineering', 'naturalId': 'fred/companies/F2K/2025/3941', 'roa': 0.04419308720881339}
+ {'company': 'Hanwha Aerospace', 'naturalId': 'fred/companies/F2K/2025/3727', 'roa': 0.057266118622189006}
+ {'company': 'Bharat Electronics', 'naturalId': 'fred/companies/F2K/2025/105169', 'roa': 0.12557894736842104}]","[{'company': 'AviChina Industry & Technology', 'naturalId': 'fred/companies/F2K/2025/102820', 'profit_margin': 0.025308127914723515}
+ {'company': 'Mitsubishi Heavy Industries', 'naturalId': 'fred/companies/F2K/2025/2892', 'profit_margin': 0.051795563181762476}
+ {'company': 'ST Engineering', 'naturalId': 'fred/companies/F2K/2025/3941', 'profit_margin': 0.06228517245466398}
+ {'company': 'Hanwha Aerospace', 'naturalId': 'fred/companies/F2K/2025/3727', 'profit_margin': 0.19014211594856756}
+ {'company': 'Bharat Electronics', 'naturalId': 'fred/companies/F2K/2025/105169', 'profit_margin': 0.21526524720317575}]","[{'company': 'AviChina Industry & Technology', 'marketValue': 3690.0, 'naturalId': 'fred/companies/F2K/2025/102820'}
+ {'company': 'ST Engineering', 'marketValue': 17125.0, 'naturalId': 'fred/companies/F2K/2025/3941'}
+ {'company': 'Bharat Electronics', 'marketValue': 25444.0, 'naturalId': 'fred/companies/F2K/2025/105169'}
+ {'company': 'Hanwha Aerospace', 'marketValue': 26071.0, 'naturalId': 'fred/companies/F2K/2025/3727'}
+ {'company': 'Mitsubishi Heavy Industries', 'marketValue': 64108.0, 'naturalId': 'fred/companies/F2K/2025/2892'}]"
+Aerospace & Defense,Americas,14,426348.0,20809.9,1062065.0,0.08637472136526045,0.06323400047194888,0.6612288325102512,"[{'company': 'Boeing', 'naturalId': 'fred/companies/F2K/2025/653', 'roa': -0.07355553567548916}
+ {'company': 'RTX', 'naturalId': 'fred/companies/F2K/2025/3558', 'roa': 0.027901785714285716}
+ {'company': 'L3Harris Technologies', 'naturalId': 'fred/companies/F2K/2025/2551', 'roa': 0.03891097750193949}
+ {'company': 'Huntington Ingalls Industries', 'naturalId': 'fred/companies/F2K/2025/90830', 'roa': 0.04306969459671104}
+ {'company': 'Textron', 'naturalId': 'fred/companies/F2K/2025/4300', 'roa': 0.0489906740644552}]","[{'company': 'Boeing', 'naturalId': 'fred/companies/F2K/2025/653', 'roa': -0.07355553567548916}
+ {'company': 'RTX', 'naturalId': 'fred/companies/F2K/2025/3558', 'roa': 0.027901785714285716}
+ {'company': 'L3Harris Technologies', 'naturalId': 'fred/companies/F2K/2025/2551', 'roa': 0.03891097750193949}
+ {'company': 'Huntington Ingalls Industries', 'naturalId': 'fred/companies/F2K/2025/90830', 'roa': 0.04306969459671104}
+ {'company': 'Textron', 'naturalId': 'fred/companies/F2K/2025/4300', 'roa': 0.0489906740644552}]","[{'company': 'Boeing', 'naturalId': 'fred/companies/F2K/2025/653', 'profit_margin': -0.16575707394340844}
+ {'company': 'Huntington Ingalls Industries', 'naturalId': 'fred/companies/F2K/2025/90830', 'profit_margin': 0.04768097095795405}
+ {'company': 'RTX', 'naturalId': 'fred/companies/F2K/2025/3558', 'profit_margin': 0.05627668554790247}
+ {'company': 'Textron', 'naturalId': 'fred/companies/F2K/2025/4300', 'profit_margin': 0.059828443739638144}
+ {'company': 'L3Harris Technologies', 'naturalId': 'fred/companies/F2K/2025/2551', 'profit_margin': 0.07554363174244563}]","[{'company': 'Huntington Ingalls Industries', 'marketValue': 8869.0, 'naturalId': 'fred/companies/F2K/2025/90830'}
+ {'company': 'Textron', 'marketValue': 12427.0, 'naturalId': 'fred/companies/F2K/2025/4300'}
+ {'company': 'Teledyne Technologies', 'marketValue': 21480.0, 'naturalId': 'fred/companies/F2K/2025/90912'}
+ {'company': 'Heico', 'marketValue': 34182.0, 'naturalId': 'fred/companies/F2K/2025/6949'}
+ {'company': 'L3Harris Technologies', 'marketValue': 40562.0, 'naturalId': 'fred/companies/F2K/2025/2551'}]"
+Aerospace & Defense,Europe,10,235576.0,14758.4,607623.0,0.07248652698917923,0.03878206043223348,0.750516356359124,"[{'company': 'Safran', 'naturalId': 'fred/companies/F2K/2025/3699', 'roa': -0.01266567190380058}
+ {'company': 'Thales', 'naturalId': 'fred/companies/F2K/2025/4306', 'roa': 0.027078654398802193}
+ {'company': 'Dassault Aviation', 'naturalId': 'fred/companies/F2K/2025/1243', 'roa': 0.03314647737826722}
+ {'company': 'Leonardo', 'naturalId': 'fred/companies/F2K/2025/1583', 'roa': 0.033317081564758516}
+ {'company': 'AIRBUS', 'naturalId': 'fred/companies/F2K/2025/1375', 'roa': 0.034213004484304935}]","[{'company': 'Safran', 'naturalId': 'fred/companies/F2K/2025/3699', 'roa': -0.01266567190380058}
+ {'company': 'Thales', 'naturalId': 'fred/companies/F2K/2025/4306', 'roa': 0.027078654398802193}
+ {'company': 'Dassault Aviation', 'naturalId': 'fred/companies/F2K/2025/1243', 'roa': 0.03314647737826722}
+ {'company': 'Leonardo', 'naturalId': 'fred/companies/F2K/2025/1583', 'roa': 0.033317081564758516}
+ {'company': 'AIRBUS', 'naturalId': 'fred/companies/F2K/2025/1375', 'roa': 0.034213004484304935}]","[{'company': 'Safran', 'naturalId': 'fred/companies/F2K/2025/3699', 'profit_margin': -0.0240660440293529}
+ {'company': 'Thales', 'naturalId': 'fred/companies/F2K/2025/4306', 'profit_margin': 0.05037739239823883}
+ {'company': 'Leonardo', 'naturalId': 'fred/companies/F2K/2025/1583', 'profit_margin': 0.06046112209846987}
+ {'company': 'AIRBUS', 'naturalId': 'fred/companies/F2K/2025/1375', 'profit_margin': 0.06112973225612606}
+ {'company': 'Saab Group', 'naturalId': 'fred/companies/F2K/2025/3688', 'profit_margin': 0.07144252686421361}]","[{'company': 'MTU Aero Engines AG', 'marketValue': 17800.0, 'naturalId': 'fred/companies/F2K/2025/2957'}
+ {'company': 'Saab Group', 'marketValue': 23609.0, 'naturalId': 'fred/companies/F2K/2025/3688'}
+ {'company': 'Dassault Aviation', 'marketValue': 26372.0, 'naturalId': 'fred/companies/F2K/2025/1243'}
+ {'company': 'Leonardo', 'marketValue': 29240.0, 'naturalId': 'fred/companies/F2K/2025/1583'}
+ {'company': 'Thales', 'marketValue': 54571.0, 'naturalId': 'fred/companies/F2K/2025/4306'}]"
+Aerospace & Defense,MEA/Other,1,6828.0,321.2,16710.0,0.04704159343878148,0.02927451695224207,1.0,"[{'company': 'Elbit Systems', 'naturalId': 'fred/companies/F2K/2025/111566', 'roa': 0.02927451695224207}]","[{'company': 'Elbit Systems', 'naturalId': 'fred/companies/F2K/2025/111566', 'roa': 0.02927451695224207}]","[{'company': 'Elbit Systems', 'naturalId': 'fred/companies/F2K/2025/111566', 'profit_margin': 0.04704159343878148}]","[{'company': 'Elbit Systems', 'marketValue': 16710.0, 'naturalId': 'fred/companies/F2K/2025/111566'}]"
+Automotive (Automotive and Suppliers),Americas,1,23302.0,506.6,4524.0,0.021740623122478757,0.0361134873110921,1.0,"[{'company': 'Lear', 'naturalId': 'fred/companies/F2K/2025/2584', 'roa': 0.0361134873110921}]","[{'company': 'Lear', 'naturalId': 'fred/companies/F2K/2025/2584', 'roa': 0.0361134873110921}]","[{'company': 'Lear', 'naturalId': 'fred/companies/F2K/2025/2584', 'profit_margin': 0.021740623122478757}]","[{'company': 'Lear', 'marketValue': 4524.0, 'naturalId': 'fred/companies/F2K/2025/2584'}]"
+Banking,APAC,153,2706402.0,472439.9,3612893.0,0.16117001635279846,0.006285708695311889,0.28530211107829656,"[{'company': 'Shengjing Bank', 'naturalId': 'fred/companies/F2K/2025/102821', 'roa': 0.0005610417303229078}
+ {'company': 'Bank of Jiujiang', 'naturalId': 'fred/companies/F2K/2025/108827', 'roa': 0.0008013567945728217}
+ {'company': 'Harbin Bank', 'naturalId': 'fred/companies/F2K/2025/102046', 'roa': 0.0010160483120231058}
+ {'company': 'North Pacific Bank', 'naturalId': 'fred/companies/F2K/2025/102035', 'roa': 0.0012118609699658866}
+ {'company': 'Jiangxi Bank', 'naturalId': 'fred/companies/F2K/2025/108745', 'roa': 0.0012291952969919072}]","[{'company': 'Shengjing Bank', 'naturalId': 'fred/companies/F2K/2025/102821', 'roa': 0.0005610417303229078}
+ {'company': 'Bank of Jiujiang', 'naturalId': 'fred/companies/F2K/2025/108827', 'roa': 0.0008013567945728217}
+ {'company': 'Harbin Bank', 'naturalId': 'fred/companies/F2K/2025/102046', 'roa': 0.0010160483120231058}
+ {'company': 'North Pacific Bank', 'naturalId': 'fred/companies/F2K/2025/102035', 'roa': 0.0012118609699658866}
+ {'company': 'Jiangxi Bank', 'naturalId': 'fred/companies/F2K/2025/108745', 'roa': 0.0012291952969919072}]","[{'company': 'Shengjing Bank', 'naturalId': 'fred/companies/F2K/2025/102821', 'profit_margin': 0.0178860103626943}
+ {'company': 'Bank of Jiujiang', 'naturalId': 'fred/companies/F2K/2025/108827', 'profit_margin': 0.01983210912906611}
+ {'company': 'Harbin Bank', 'naturalId': 'fred/companies/F2K/2025/102046', 'profit_margin': 0.0263353268715199}
+ {'company': 'Jiangxi Bank', 'naturalId': 'fred/companies/F2K/2025/108745', 'profit_margin': 0.0308527626956244}
+ {'company': 'iM Financial Group', 'naturalId': 'fred/companies/F2K/2025/1196', 'profit_margin': 0.03565285379202502}]","[{'company': 'Harbin Bank', 'marketValue': 411.0, 'naturalId': 'fred/companies/F2K/2025/102046'}
+ {'company': 'Bank Of Gansu', 'marketValue': 453.0, 'naturalId': 'fred/companies/F2K/2025/106807'}
+ {'company': 'Jiangxi Bank', 'marketValue': 582.0, 'naturalId': 'fred/companies/F2K/2025/108745'}
+ {'company': 'Ogaki Kyoritsu Bank', 'marketValue': 647.0, 'naturalId': 'fred/companies/F2K/2025/3203'}
+ {'company': 'Keiyo Bank', 'marketValue': 679.0, 'naturalId': 'fred/companies/F2K/2025/2422'}]"
+Banking,Americas,67,1891077.0,277611.8,3961791.0,0.15979856115107913,0.00984347121682688,0.5919481870699388,"[{'company': 'Flagstar Financial', 'naturalId': 'fred/companies/F2K/2025/3050', 'roa': -0.009126480108165691}
+ {'company': 'Banco Davivienda ', 'naturalId': 'fred/companies/F2K/2025/90767', 'roa': -0.0006562435239125929}
+ {'company': 'KeyCorp', 'naturalId': 'fred/companies/F2K/2025/2438', 'roa': 0.0001324917457642389}
+ {'company': 'Ally Financial', 'naturalId': 'fred/companies/F2K/2025/102022', 'roa': 0.0027621023012346702}
+ {'company': 'Associated Banc-Corp', 'naturalId': 'fred/companies/F2K/2025/342', 'roa': 0.0033087810847629824}]","[{'company': 'Flagstar Financial', 'naturalId': 'fred/companies/F2K/2025/3050', 'roa': -0.009126480108165691}
+ {'company': 'Banco Davivienda ', 'naturalId': 'fred/companies/F2K/2025/90767', 'roa': -0.0006562435239125929}
+ {'company': 'KeyCorp', 'naturalId': 'fred/companies/F2K/2025/2438', 'roa': 0.0001324917457642389}
+ {'company': 'Ally Financial', 'naturalId': 'fred/companies/F2K/2025/102022', 'roa': 0.0027621023012346702}
+ {'company': 'Associated Banc-Corp', 'naturalId': 'fred/companies/F2K/2025/342', 'roa': 0.0033087810847629824}]","[{'company': 'Flagstar Financial', 'naturalId': 'fred/companies/F2K/2025/3050', 'profit_margin': -0.14644970414201183}
+ {'company': 'Banco Davivienda ', 'naturalId': 'fred/companies/F2K/2025/90767', 'profit_margin': -0.005123134999101204}
+ {'company': 'KeyCorp', 'naturalId': 'fred/companies/F2K/2025/2438', 'profit_margin': 0.0026962899050905955}
+ {'company': 'Grupo Bolivar', 'naturalId': 'fred/companies/F2K/2025/90900', 'profit_margin': 0.02277310924369748}
+ {'company': 'Grupo Aval', 'naturalId': 'fred/companies/F2K/2025/5688', 'profit_margin': 0.02512697139802192}]","[{'company': 'Grupo Bolivar', 'marketValue': 1342.0, 'naturalId': 'fred/companies/F2K/2025/90900'}
+ {'company': 'Banco Davivienda ', 'marketValue': 2458.0, 'naturalId': 'fred/companies/F2K/2025/90767'}
+ {'company': 'Grupo Aval', 'marketValue': 3171.0, 'naturalId': 'fred/companies/F2K/2025/5688'}
+ {'company': 'Associated Banc-Corp', 'marketValue': 3699.0, 'naturalId': 'fred/companies/F2K/2025/342'}
+ {'company': 'First National Of Nebraska', 'marketValue': 3712.0, 'naturalId': 'fred/companies/F2K/2025/103671'}]"
+Banking,Europe,69,1516879.0,219470.4,1650793.0,0.1774920806092876,0.009483339997732114,0.3462965980592358,"[{'company': 'Sabanci Holding', 'naturalId': 'fred/companies/F2K/2025/3689', 'roa': -0.005020477658644332}
+ {'company': 'Bank of Greece', 'naturalId': 'fred/companies/F2K/2025/484', 'roa': 0.0003963011889035667}
+ {'company': 'Deutsche Pfandbriefbank', 'naturalId': 'fred/companies/F2K/2025/103704', 'roa': 0.00184533310011588}
+ {'company': 'Société Générale', 'naturalId': 'fred/companies/F2K/2025/3993', 'roa': 0.0023102283899776974}
+ {'company': 'Credit Agricole', 'naturalId': 'fred/companies/F2K/2025/1153', 'roa': 0.0028754328890754537}]","[{'company': 'Sabanci Holding', 'naturalId': 'fred/companies/F2K/2025/3689', 'roa': -0.005020477658644332}
+ {'company': 'Bank of Greece', 'naturalId': 'fred/companies/F2K/2025/484', 'roa': 0.0003963011889035667}
+ {'company': 'Deutsche Pfandbriefbank', 'naturalId': 'fred/companies/F2K/2025/103704', 'roa': 0.00184533310011588}
+ {'company': 'Société Générale', 'naturalId': 'fred/companies/F2K/2025/3993', 'roa': 0.0023102283899776974}
+ {'company': 'Credit Agricole', 'naturalId': 'fred/companies/F2K/2025/1153', 'roa': 0.0028754328890754537}]","[{'company': 'Sabanci Holding', 'naturalId': 'fred/companies/F2K/2025/3689', 'profit_margin': -0.016277508392390897}
+ {'company': 'Bank of Greece', 'naturalId': 'fred/companies/F2K/2025/484', 'profit_margin': 0.01171875}
+ {'company': 'Nexi S.p.A.', 'naturalId': 'fred/companies/F2K/2025/111754', 'profit_margin': 0.02295788939624556}
+ {'company': 'Deutsche Pfandbriefbank', 'naturalId': 'fred/companies/F2K/2025/103704', 'profit_margin': 0.025599029420685475}
+ {'company': 'Halkbank', 'naturalId': 'fred/companies/F2K/2025/5888', 'profit_margin': 0.030153804641122505}]","[{'company': 'Bank of Greece', 'marketValue': 313.0, 'naturalId': 'fred/companies/F2K/2025/484'}
+ {'company': 'Schweizerische Nationalbank', 'marketValue': 400.0, 'naturalId': 'fred/companies/F2K/2025/3785'}
+ {'company': 'Basler Kantonalbank', 'marketValue': 452.0, 'naturalId': 'fred/companies/F2K/2025/532'}
+ {'company': 'Deutsche Pfandbriefbank', 'marketValue': 835.0, 'naturalId': 'fred/companies/F2K/2025/103704'}
+ {'company': 'BEKB-BCBE', 'marketValue': 2821.0, 'naturalId': 'fred/companies/F2K/2025/575'}]"
+Banking,MEA/Other,37,318583.0,70477.3,697305.0,0.2294179229480737,0.015921355364986404,0.40799363262847677,"[{'company': 'FIBI Holdings', 'naturalId': 'fred/companies/F2K/2025/1570', 'roa': 0.0045264654578502225}
+ {'company': 'Arab Banking', 'naturalId': 'fred/companies/F2K/2025/5554', 'roa': 0.006160164271047228}
+ {'company': 'Banque Centrale Populaire', 'naturalId': 'fred/companies/F2K/2025/518', 'roa': 0.007789611360239162}
+ {'company': 'Israel Discount Bank', 'naturalId': 'fred/companies/F2K/2025/2272', 'roa': 0.009652944711538462}
+ {'company': 'Bank Hapoalim', 'naturalId': 'fred/companies/F2K/2025/471', 'roa': 0.010425807234274853}]","[{'company': 'FIBI Holdings', 'naturalId': 'fred/companies/F2K/2025/1570', 'roa': 0.0045264654578502225}
+ {'company': 'Arab Banking', 'naturalId': 'fred/companies/F2K/2025/5554', 'roa': 0.006160164271047228}
+ {'company': 'Banque Centrale Populaire', 'naturalId': 'fred/companies/F2K/2025/518', 'roa': 0.007789611360239162}
+ {'company': 'Israel Discount Bank', 'naturalId': 'fred/companies/F2K/2025/2272', 'roa': 0.009652944711538462}
+ {'company': 'Bank Hapoalim', 'naturalId': 'fred/companies/F2K/2025/471', 'roa': 0.010425807234274853}]","[{'company': 'Arab Banking', 'naturalId': 'fred/companies/F2K/2025/5554', 'profit_margin': 0.07700621453661173}
+ {'company': 'FIBI Holdings', 'naturalId': 'fred/companies/F2K/2025/1570', 'profit_margin': 0.08948130976528543}
+ {'company': 'Absa Group', 'naturalId': 'fred/companies/F2K/2025/103327', 'profit_margin': 0.09730804273999834}
+ {'company': 'Nedbank', 'naturalId': 'fred/companies/F2K/2025/108206', 'profit_margin': 0.10420602789023842}
+ {'company': 'Qatar National Bank', 'naturalId': 'fred/companies/F2K/2025/5810', 'profit_margin': 0.11346837710402234}]","[{'company': 'Blom Bank', 'marketValue': 911.0, 'naturalId': 'fred/companies/F2K/2025/6299'}
+ {'company': 'Arab Banking', 'marketValue': 1052.0, 'naturalId': 'fred/companies/F2K/2025/5554'}
+ {'company': 'FIBI Holdings', 'marketValue': 2042.0, 'naturalId': 'fred/companies/F2K/2025/1570'}
+ {'company': 'National Bank of Ras Al-Khaimah (P.S.C.)', 'marketValue': 3587.0, 'naturalId': 'fred/companies/F2K/2025/6427'}
+ {'company': 'Arab Bank', 'marketValue': 4013.0, 'naturalId': 'fred/companies/F2K/2025/289'}]"
+Business Services & Supplies,APAC,20,246858.0,28315.9,270781.0,0.14831602103865754,0.020793616476250477,0.5064387826324594,"[{'company': 'AVIC Capital', 'naturalId': 'fred/companies/F2K/2025/101447', 'roa': 0.0004377200494813969}
+ {'company': 'CITIC', 'naturalId': 'fred/companies/F2K/2025/983', 'roa': 0.004861702989352841}
+ {'company': 'Industrial Bank of Korea', 'naturalId': 'fred/companies/F2K/2025/2178', 'roa': 0.005705663577216003}
+ {'company': 'Far East Horizon', 'naturalId': 'fred/companies/F2K/2025/102027', 'roa': 0.010870093571515374}
+ {'company': 'China Development Bank Financial Leasing', 'naturalId': 'fred/companies/F2K/2025/105103', 'roa': 0.011253192331211108}]","[{'company': 'AVIC Capital', 'naturalId': 'fred/companies/F2K/2025/101447', 'roa': 0.0004377200494813969}
+ {'company': 'CITIC', 'naturalId': 'fred/companies/F2K/2025/983', 'roa': 0.004861702989352841}
+ {'company': 'Industrial Bank of Korea', 'naturalId': 'fred/companies/F2K/2025/2178', 'roa': 0.005705663577216003}
+ {'company': 'Far East Horizon', 'naturalId': 'fred/companies/F2K/2025/102027', 'roa': 0.010870093571515374}
+ {'company': 'China Development Bank Financial Leasing', 'naturalId': 'fred/companies/F2K/2025/105103', 'roa': 0.011253192331211108}]","[{'company': 'AVIC Capital', 'naturalId': 'fred/companies/F2K/2025/101447', 'profit_margin': 0.010793899100508408}
+ {'company': 'Toppan Printing', 'naturalId': 'fred/companies/F2K/2025/4390', 'profit_margin': 0.05194965231933809}
+ {'company': 'Mitsubishi UFJ Lease', 'naturalId': 'fred/companies/F2K/2025/1301', 'profit_margin': 0.06271421279078247}
+ {'company': 'Tokyo Century', 'naturalId': 'fred/companies/F2K/2025/854', 'profit_margin': 0.06432166424337322}
+ {'company': 'CITIC', 'naturalId': 'fred/companies/F2K/2025/983', 'profit_margin': 0.07688388410396611}]","[{'company': 'China Development Bank Financial Leasing', 'marketValue': 1923.0, 'naturalId': 'fred/companies/F2K/2025/105103'}
+ {'company': 'Far East Horizon', 'marketValue': 3157.0, 'naturalId': 'fred/companies/F2K/2025/102027'}
+ {'company': 'LIC Housing Finance', 'marketValue': 3806.0, 'naturalId': 'fred/companies/F2K/2025/6118'}
+ {'company': 'AVIC Capital', 'marketValue': 4189.0, 'naturalId': 'fred/companies/F2K/2025/101447'}
+ {'company': 'Tokyo Century', 'marketValue': 5008.0, 'naturalId': 'fred/companies/F2K/2025/854'}]"
+Business Services & Supplies,Americas,40,721789.0,82590.3,1492116.0,0.13143779907835265,0.0537802319047507,0.39613542110667,"[{'company': 'Hertz Global Holdings', 'naturalId': 'fred/companies/F2K/2025/1980', 'roa': -0.13127236033391432}
+ {'company': 'Avis Budget Group', 'naturalId': 'fred/companies/F2K/2025/390', 'roa': -0.06079524588522018}
+ {'company': 'GFL Environmental', 'naturalId': 'fred/companies/F2K/2025/116531', 'roa': -0.03429778933680104}
+ {'company': 'Zscaler', 'naturalId': 'fred/companies/F2K/2025/105397', 'roa': -0.0030962844586496204}
+ {'company': 'Navient', 'naturalId': 'fred/companies/F2K/2025/102759', 'roa': 0.0025294946803375235}]","[{'company': 'Hertz Global Holdings', 'naturalId': 'fred/companies/F2K/2025/1980', 'roa': -0.13127236033391432}
+ {'company': 'Avis Budget Group', 'naturalId': 'fred/companies/F2K/2025/390', 'roa': -0.06079524588522018}
+ {'company': 'GFL Environmental', 'naturalId': 'fred/companies/F2K/2025/116531', 'roa': -0.03429778933680104}
+ {'company': 'Zscaler', 'naturalId': 'fred/companies/F2K/2025/105397', 'roa': -0.0030962844586496204}
+ {'company': 'Navient', 'naturalId': 'fred/companies/F2K/2025/102759', 'roa': 0.0025294946803375235}]","[{'company': 'Hertz Global Holdings', 'naturalId': 'fred/companies/F2K/2025/1980', 'profit_margin': -0.31627804177257157}
+ {'company': 'Avis Budget Group', 'naturalId': 'fred/companies/F2K/2025/390', 'profit_margin': -0.15446602765289677}
+ {'company': 'GFL Environmental', 'naturalId': 'fred/companies/F2K/2025/116531', 'profit_margin': -0.09191496776441889}
+ {'company': 'Zscaler', 'naturalId': 'fred/companies/F2K/2025/105397', 'profit_margin': -0.006399669694467382}
+ {'company': 'Manpower', 'naturalId': 'fred/companies/F2K/2025/2725', 'profit_margin': 0.006328031469129468}]","[{'company': 'Hertz Global Holdings', 'marketValue': 1180.0, 'naturalId': 'fred/companies/F2K/2025/1980'}
+ {'company': 'Navient', 'marketValue': 1210.0, 'naturalId': 'fred/companies/F2K/2025/102759'}
+ {'company': 'Manpower', 'marketValue': 1983.0, 'naturalId': 'fred/companies/F2K/2025/2725'}
+ {'company': 'BAC Holding International', 'marketValue': 3187.0, 'naturalId': 'fred/companies/F2K/2025/118398'}
+ {'company': 'Avis Budget Group', 'marketValue': 3301.0, 'naturalId': 'fred/companies/F2K/2025/390'}]"
+Business Services & Supplies,Europe,16,193590.0,16029.2,369670.0,0.09339981598154035,0.05810094558243978,0.6985338274677415,"[{'company': 'Randstad N.V.', 'naturalId': 'fred/companies/F2K/2025/3547', 'roa': 0.010381679389312977}
+ {'company': 'Wise', 'naturalId': 'fred/companies/F2K/2025/105864', 'roa': 0.024683887283236994}
+ {'company': 'Adecco Group', 'naturalId': 'fred/companies/F2K/2025/46', 'roa': 0.026131375209513925}
+ {'company': 'AerCap Holdings', 'naturalId': 'fred/companies/F2K/2025/6262', 'roa': 0.02937487752302567}
+ {'company': 'TUI', 'naturalId': 'fred/companies/F2K/2025/4451', 'roa': 0.033866421216130704}]","[{'company': 'Randstad N.V.', 'naturalId': 'fred/companies/F2K/2025/3547', 'roa': 0.010381679389312977}
+ {'company': 'Wise', 'naturalId': 'fred/companies/F2K/2025/105864', 'roa': 0.024683887283236994}
+ {'company': 'Adecco Group', 'naturalId': 'fred/companies/F2K/2025/46', 'roa': 0.026131375209513925}
+ {'company': 'AerCap Holdings', 'naturalId': 'fred/companies/F2K/2025/6262', 'roa': 0.02937487752302567}
+ {'company': 'TUI', 'naturalId': 'fred/companies/F2K/2025/4451', 'roa': 0.033866421216130704}]","[{'company': 'Randstad N.V.', 'naturalId': 'fred/companies/F2K/2025/3547', 'profit_margin': 0.004782370868172228}
+ {'company': 'Adecco Group', 'naturalId': 'fred/companies/F2K/2025/46', 'profit_margin': 0.013081348889244046}
+ {'company': 'TUI', 'naturalId': 'fred/companies/F2K/2025/4451', 'profit_margin': 0.022928026172300983}
+ {'company': 'Securitas', 'naturalId': 'fred/companies/F2K/2025/3812', 'profit_margin': 0.03186418543911198}
+ {'company': 'Teleperformance', 'naturalId': 'fred/companies/F2K/2025/6485', 'profit_margin': 0.05087230215827339}]","[{'company': 'TUI', 'marketValue': 3899.0, 'naturalId': 'fred/companies/F2K/2025/4451'}
+ {'company': 'Jet2', 'marketValue': 3934.0, 'naturalId': 'fred/companies/F2K/2025/130432'}
+ {'company': 'Adecco Group', 'marketValue': 4375.0, 'naturalId': 'fred/companies/F2K/2025/46'}
+ {'company': 'Teleperformance', 'marketValue': 6196.0, 'naturalId': 'fred/companies/F2K/2025/6485'}
+ {'company': 'Randstad N.V.', 'marketValue': 7010.0, 'naturalId': 'fred/companies/F2K/2025/3547'}]"
+Capital Goods,APAC,34,615471.0,45613.6,865656.0,0.06459893231980013,0.044736564811873214,0.4620472797508479,"[{'company': 'China Shipbuilding Industry', 'naturalId': 'fred/companies/F2K/2025/80179', 'roa': 0.0011807064776671314}
+ {'company': 'Shanghai Electric Group', 'naturalId': 'fred/companies/F2K/2025/3850', 'roa': 0.0025132530120481928}
+ {'company': 'Samsung SDI', 'naturalId': 'fred/companies/F2K/2025/3725', 'roa': 0.0028610699171700365}
+ {'company': 'HD HYUNDAI', 'naturalId': 'fred/companies/F2K/2025/107276', 'roa': 0.007439811862244898}
+ {'company': 'LS Corp', 'naturalId': 'fred/companies/F2K/2025/2605', 'roa': 0.012478485370051634}]","[{'company': 'China Shipbuilding Industry', 'naturalId': 'fred/companies/F2K/2025/80179', 'roa': 0.0011807064776671314}
+ {'company': 'Shanghai Electric Group', 'naturalId': 'fred/companies/F2K/2025/3850', 'roa': 0.0025132530120481928}
+ {'company': 'Samsung SDI', 'naturalId': 'fred/companies/F2K/2025/3725', 'roa': 0.0028610699171700365}
+ {'company': 'HD HYUNDAI', 'naturalId': 'fred/companies/F2K/2025/107276', 'roa': 0.007439811862244898}
+ {'company': 'LS Corp', 'naturalId': 'fred/companies/F2K/2025/2605', 'roa': 0.012478485370051634}]","[{'company': 'China Shipbuilding Industry', 'naturalId': 'fred/companies/F2K/2025/80179', 'profit_margin': 0.0051274827440484574}
+ {'company': 'Shanghai Electric Group', 'naturalId': 'fred/companies/F2K/2025/3850', 'profit_margin': 0.00650127781586985}
+ {'company': 'Samsung SDI', 'naturalId': 'fred/companies/F2K/2025/3725', 'profit_margin': 0.007196142649199417}
+ {'company': 'HD HYUNDAI', 'naturalId': 'fred/companies/F2K/2025/107276', 'profit_margin': 0.00739178646390242}
+ {'company': 'LS Corp', 'naturalId': 'fred/companies/F2K/2025/2605', 'profit_margin': 0.008614287836031487}]","[{'company': 'Sumec Corporation', 'marketValue': 1708.0, 'naturalId': 'fred/companies/F2K/2025/106860'}
+ {'company': 'LS Corp', 'marketValue': 2411.0, 'naturalId': 'fred/companies/F2K/2025/2605'}
+ {'company': 'HD HYUNDAI', 'marketValue': 3757.0, 'naturalId': 'fred/companies/F2K/2025/107276'}
+ {'company': 'Shanghai Electric Group', 'marketValue': 5021.0, 'naturalId': 'fred/companies/F2K/2025/3850'}
+ {'company': 'Sinotruk Hong Kong', 'marketValue': 6301.0, 'naturalId': 'fred/companies/F2K/2025/6469'}]"
+Capital Goods,Americas,17,286157.0,38692.8,834436.0,0.13793532338308456,0.09585665261751768,0.5908194277332234,"[{'company': 'Jabil Circuit', 'naturalId': 'fred/companies/F2K/2025/2303', 'roa': 0.02782248792825937}
+ {'company': 'GE Vernova', 'naturalId': 'fred/companies/F2K/2025/130420', 'roa': 0.03754921546189802}
+ {'company': 'Ingersoll Rand', 'naturalId': 'fred/companies/F2K/2025/5678', 'roa': 0.046563020544142145}
+ {'company': 'Xylem', 'naturalId': 'fred/companies/F2K/2025/90934', 'roa': 0.053962287030861575}
+ {'company': 'Westinghouse Air Brake Technologies', 'naturalId': 'fred/companies/F2K/2025/98579', 'roa': 0.05791788856304985}]","[{'company': 'Jabil Circuit', 'naturalId': 'fred/companies/F2K/2025/2303', 'roa': 0.02782248792825937}
+ {'company': 'GE Vernova', 'naturalId': 'fred/companies/F2K/2025/130420', 'roa': 0.03754921546189802}
+ {'company': 'Ingersoll Rand', 'naturalId': 'fred/companies/F2K/2025/5678', 'roa': 0.046563020544142145}
+ {'company': 'Xylem', 'naturalId': 'fred/companies/F2K/2025/90934', 'roa': 0.053962287030861575}
+ {'company': 'Westinghouse Air Brake Technologies', 'naturalId': 'fred/companies/F2K/2025/98579', 'roa': 0.05791788856304985}]","[{'company': 'Jabil Circuit', 'naturalId': 'fred/companies/F2K/2025/2303', 'profit_margin': 0.017631415977560017}
+ {'company': 'GE Vernova', 'naturalId': 'fred/companies/F2K/2025/130420', 'profit_margin': 0.05419629360058227}
+ {'company': 'Xylem', 'naturalId': 'fred/companies/F2K/2025/90934', 'profit_margin': 0.10393553661100081}
+ {'company': 'Westinghouse Air Brake Technologies', 'naturalId': 'fred/companies/F2K/2025/98579', 'profit_margin': 0.10533333333333333}
+ {'company': 'Rockwell Automation', 'naturalId': 'fred/companies/F2K/2025/3633', 'profit_margin': 0.11329544050413938}]","[{'company': 'Jabil Circuit', 'marketValue': 15771.0, 'naturalId': 'fred/companies/F2K/2025/2303'}
+ {'company': 'Lennox International', 'marketValue': 18711.0, 'naturalId': 'fred/companies/F2K/2025/2599'}
+ {'company': 'Hubbell', 'marketValue': 19278.0, 'naturalId': 'fred/companies/F2K/2025/2069'}
+ {'company': 'Veralto', 'marketValue': 22898.0, 'naturalId': 'fred/companies/F2K/2025/130488'}
+ {'company': 'Dover', 'marketValue': 23165.0, 'naturalId': 'fred/companies/F2K/2025/1342'}]"
+Capital Goods,Europe,24,566906.0,46631.1,1156815.0,0.0977682014638942,0.07231445430399233,0.5275623154955632,"[{'company': 'Alstom', 'naturalId': 'fred/companies/F2K/2025/185', 'roa': -0.0072386483632523755}
+ {'company': 'Siemens Energy', 'naturalId': 'fred/companies/F2K/2025/116728', 'roa': -0.003229225551158847}
+ {'company': 'BASF', 'naturalId': 'fred/companies/F2K/2025/530', 'roa': 0.016342552746051314}
+ {'company': 'KION Group', 'naturalId': 'fred/companies/F2K/2025/102043', 'roa': 0.01863134235569796}
+ {'company': 'Vestas Wind Systems', 'naturalId': 'fred/companies/F2K/2025/4600', 'roa': 0.021152866491633684}]","[{'company': 'Alstom', 'naturalId': 'fred/companies/F2K/2025/185', 'roa': -0.0072386483632523755}
+ {'company': 'Siemens Energy', 'naturalId': 'fred/companies/F2K/2025/116728', 'roa': -0.003229225551158847}
+ {'company': 'BASF', 'naturalId': 'fred/companies/F2K/2025/530', 'roa': 0.016342552746051314}
+ {'company': 'KION Group', 'naturalId': 'fred/companies/F2K/2025/102043', 'roa': 0.01863134235569796}
+ {'company': 'Vestas Wind Systems', 'naturalId': 'fred/companies/F2K/2025/4600', 'roa': 0.021152866491633684}]","[{'company': 'Alstom', 'naturalId': 'fred/companies/F2K/2025/185', 'profit_margin': -0.014091890225100216}
+ {'company': 'Siemens Energy', 'naturalId': 'fred/companies/F2K/2025/116728', 'profit_margin': -0.004726078750743297}
+ {'company': 'BASF', 'naturalId': 'fred/companies/F2K/2025/530', 'profit_margin': 0.01990480372852063}
+ {'company': 'Vestas Wind Systems', 'naturalId': 'fred/companies/F2K/2025/4600', 'profit_margin': 0.02885242396707467}
+ {'company': 'KION Group', 'naturalId': 'fred/companies/F2K/2025/102043', 'profit_margin': 0.03131077714377562}]","[{'company': 'KION Group', 'marketValue': 5513.0, 'naturalId': 'fred/companies/F2K/2025/102043'}
+ {'company': 'Wärtsilä', 'marketValue': 10287.0, 'naturalId': 'fred/companies/F2K/2025/4659'}
+ {'company': 'Alstom', 'marketValue': 10876.0, 'naturalId': 'fred/companies/F2K/2025/185'}
+ {'company': 'Aptiv', 'marketValue': 12833.0, 'naturalId': 'fred/companies/F2K/2025/90801'}
+ {'company': 'Vestas Wind Systems', 'marketValue': 13325.0, 'naturalId': 'fred/companies/F2K/2025/4600'}]"
+Chemicals,APAC,18,385327.0,14851.1,315947.0,0.029259055406233116,0.023248255794039094,0.6397813557337149,"[{'company': 'Lotte Chemical', 'naturalId': 'fred/companies/F2K/2025/2031', 'roa': -0.05344041583230369}
+ {'company': 'Sumitomo Chemical', 'naturalId': 'fred/companies/F2K/2025/4110', 'roa': -0.048125577876775655}
+ {'company': 'Indorama Ventures', 'naturalId': 'fred/companies/F2K/2025/80246', 'roa': -0.03650843616217577}
+ {'company': 'Chandra Asri Petrochemical', 'naturalId': 'fred/companies/F2K/2025/106810', 'roa': -0.012192966955292454}
+ {'company': 'LG Chem', 'naturalId': 'fred/companies/F2K/2025/2607', 'roa': -0.007945918815484032}]","[{'company': 'Lotte Chemical', 'naturalId': 'fred/companies/F2K/2025/2031', 'roa': -0.05344041583230369}
+ {'company': 'Sumitomo Chemical', 'naturalId': 'fred/companies/F2K/2025/4110', 'roa': -0.048125577876775655}
+ {'company': 'Indorama Ventures', 'naturalId': 'fred/companies/F2K/2025/80246', 'roa': -0.03650843616217577}
+ {'company': 'Chandra Asri Petrochemical', 'naturalId': 'fred/companies/F2K/2025/106810', 'roa': -0.012192966955292454}
+ {'company': 'LG Chem', 'naturalId': 'fred/companies/F2K/2025/2607', 'roa': -0.007945918815484032}]","[{'company': 'Lotte Chemical', 'naturalId': 'fred/companies/F2K/2025/2031', 'profit_margin': -0.08372046455746895}
+ {'company': 'Sumitomo Chemical', 'naturalId': 'fred/companies/F2K/2025/4110', 'profit_margin': -0.06816882962257412}
+ {'company': 'Chandra Asri Petrochemical', 'naturalId': 'fred/companies/F2K/2025/106810', 'profit_margin': -0.03867713004484305}
+ {'company': 'Indorama Ventures', 'naturalId': 'fred/companies/F2K/2025/80246', 'profit_margin': -0.0377858864924741}
+ {'company': 'LG Chem', 'naturalId': 'fred/companies/F2K/2025/2607', 'profit_margin': -0.01412282902623289}]","[{'company': 'Lotte Chemical', 'marketValue': 1869.0, 'naturalId': 'fred/companies/F2K/2025/2031'}
+ {'company': 'Hanwha', 'marketValue': 3022.0, 'naturalId': 'fred/companies/F2K/2025/1920'}
+ {'company': 'Indorama Ventures', 'marketValue': 3112.0, 'naturalId': 'fred/companies/F2K/2025/80246'}
+ {'company': 'Sumitomo Chemical', 'marketValue': 3701.0, 'naturalId': 'fred/companies/F2K/2025/4110'}
+ {'company': 'Siam Cement', 'marketValue': 5435.0, 'naturalId': 'fred/companies/F2K/2025/3905'}]"
+Chemicals,Americas,13,207713.0,7784.1,312182.0,0.05675762958178589,0.028819277108433735,0.7307628242499568,"[{'company': 'Braskem', 'naturalId': 'fred/companies/F2K/2025/685', 'roa': -0.12770952438876051}
+ {'company': 'Celanese', 'naturalId': 'fred/companies/F2K/2025/831', 'roa': -0.0665879161744761}
+ {'company': 'Dow', 'naturalId': 'fred/companies/F2K/2025/11180', 'roa': 0.004887041513765457}
+ {'company': 'The Mosaic Company', 'naturalId': 'fred/companies/F2K/2025/2947', 'roa': 0.007629558541266795}
+ {'company': 'Nutrien', 'naturalId': 'fred/companies/F2K/2025/106827', 'roa': 0.01298804012345679}]","[{'company': 'Braskem', 'naturalId': 'fred/companies/F2K/2025/685', 'roa': -0.12770952438876051}
+ {'company': 'Celanese', 'naturalId': 'fred/companies/F2K/2025/831', 'roa': -0.0665879161744761}
+ {'company': 'Dow', 'naturalId': 'fred/companies/F2K/2025/11180', 'roa': 0.004887041513765457}
+ {'company': 'The Mosaic Company', 'naturalId': 'fred/companies/F2K/2025/2947', 'roa': 0.007629558541266795}
+ {'company': 'Nutrien', 'naturalId': 'fred/companies/F2K/2025/106827', 'roa': 0.01298804012345679}]","[{'company': 'Celanese', 'naturalId': 'fred/companies/F2K/2025/831', 'profit_margin': -0.1480544747081712}
+ {'company': 'Braskem', 'naturalId': 'fred/companies/F2K/2025/685', 'profit_margin': -0.1462358102931959}
+ {'company': 'Dow', 'naturalId': 'fred/companies/F2K/2025/11180', 'profit_margin': 0.006591602158104621}
+ {'company': 'The Mosaic Company', 'naturalId': 'fred/companies/F2K/2025/2947', 'profit_margin': 0.01572417513260811}
+ {'company': 'Nutrien', 'naturalId': 'fred/companies/F2K/2025/106827', 'profit_margin': 0.025938053779181753}]","[{'company': 'Braskem', 'marketValue': 1585.0, 'naturalId': 'fred/companies/F2K/2025/685'}
+ {'company': 'Celanese', 'marketValue': 4865.0, 'naturalId': 'fred/companies/F2K/2025/831'}
+ {'company': 'Eastman', 'marketValue': 8756.0, 'naturalId': 'fred/companies/F2K/2025/1381'}
+ {'company': 'The Mosaic Company', 'marketValue': 9241.0, 'naturalId': 'fred/companies/F2K/2025/2947'}
+ {'company': 'Westlake Corporation', 'marketValue': 12000.0, 'naturalId': 'fred/companies/F2K/2025/4706'}]"
+Chemicals,Europe,13,211887.0,15672.9,522587.0,0.04429250891795482,0.03131974315815722,0.8153455788222822,"[{'company': 'Covestro', 'naturalId': 'fred/companies/F2K/2025/106870', 'roa': -0.019896265560165976}
+ {'company': 'DSM-Firmenich', 'naturalId': 'fred/companies/F2K/2025/130411', 'roa': 0.007669181462363151}
+ {'company': 'Evonik Industries', 'naturalId': 'fred/companies/F2K/2025/101602', 'roa': 0.011003666361136573}
+ {'company': 'Yara International', 'naturalId': 'fred/companies/F2K/2025/4804', 'roa': 0.01827229807324231}
+ {'company': 'Novonesis A/S', 'naturalId': 'fred/companies/F2K/2025/3171', 'roa': 0.01974807474180646}]","[{'company': 'Covestro', 'naturalId': 'fred/companies/F2K/2025/106870', 'roa': -0.019896265560165976}
+ {'company': 'DSM-Firmenich', 'naturalId': 'fred/companies/F2K/2025/130411', 'roa': 0.007669181462363151}
+ {'company': 'Evonik Industries', 'naturalId': 'fred/companies/F2K/2025/101602', 'roa': 0.011003666361136573}
+ {'company': 'Yara International', 'naturalId': 'fred/companies/F2K/2025/4804', 'roa': 0.01827229807324231}
+ {'company': 'Novonesis A/S', 'naturalId': 'fred/companies/F2K/2025/3171', 'roa': 0.01974807474180646}]","[{'company': 'Covestro', 'naturalId': 'fred/companies/F2K/2025/106870', 'profit_margin': -0.018758557736193518}
+ {'company': 'Evonik Industries', 'naturalId': 'fred/companies/F2K/2025/101602', 'profit_margin': 0.014644708752668496}
+ {'company': 'DSM-Firmenich', 'naturalId': 'fred/companies/F2K/2025/130411', 'profit_margin': 0.019530516431924883}
+ {'company': 'Yara International', 'naturalId': 'fred/companies/F2K/2025/4804', 'profit_margin': 0.02020316027088036}
+ {'company': 'LyondellBasell Industries', 'naturalId': 'fred/companies/F2K/2025/80269', 'profit_margin': 0.028006633149956568}]","[{'company': 'Johnson Matthey', 'marketValue': 2797.0, 'naturalId': 'fred/companies/F2K/2025/2362'}
+ {'company': 'Yara International', 'marketValue': 8283.0, 'naturalId': 'fred/companies/F2K/2025/4804'}
+ {'company': 'Evonik Industries', 'marketValue': 10309.0, 'naturalId': 'fred/companies/F2K/2025/101602'}
+ {'company': 'Akzo Nobel', 'marketValue': 10939.0, 'naturalId': 'fred/companies/F2K/2025/127'}
+ {'company': 'Covestro', 'marketValue': 12660.0, 'naturalId': 'fred/companies/F2K/2025/106870'}]"
+Chemicals,MEA/Other,2,20259.0,-1461.5000000000002,23260.0,0.0072814875906365845,0.0014140452478351578,1.0,"[{'company': 'Sasol', 'naturalId': 'fred/companies/F2K/2025/3765', 'roa': -0.13789776226647507}
+ {'company': 'Borouge', 'naturalId': 'fred/companies/F2K/2025/125141', 'roa': 0.1407258527621454}]","[{'company': 'Sasol', 'naturalId': 'fred/companies/F2K/2025/3765', 'roa': -0.13789776226647507}
+ {'company': 'Borouge', 'naturalId': 'fred/companies/F2K/2025/125141', 'roa': 0.1407258527621454}]","[{'company': 'Sasol', 'naturalId': 'fred/companies/F2K/2025/3765', 'profit_margin': -0.1887725707862011}
+ {'company': 'Borouge', 'naturalId': 'fred/companies/F2K/2025/125141', 'profit_margin': 0.20333554596747427}]","[{'company': 'Sasol', 'marketValue': 2229.0, 'naturalId': 'fred/companies/F2K/2025/3765'}
+ {'company': 'Borouge', 'marketValue': 21031.0, 'naturalId': 'fred/companies/F2K/2025/125141'}]"
+Conglomerates,APAC,2,20249.0,1136.4,16267.0,0.22339775574278758,0.12062310252332778,1.0,"[{'company': 'GS Holdings', 'naturalId': 'fred/companies/F2K/2025/1873', 'roa': 0.017457385170879167}
+ {'company': 'Focus Media Information Technology', 'naturalId': 'fred/companies/F2K/2025/103695', 'roa': 0.2237888198757764}]","[{'company': 'GS Holdings', 'naturalId': 'fred/companies/F2K/2025/1873', 'roa': 0.017457385170879167}
+ {'company': 'Focus Media Information Technology', 'naturalId': 'fred/companies/F2K/2025/103695', 'roa': 0.2237888198757764}]","[{'company': 'GS Holdings', 'naturalId': 'fred/companies/F2K/2025/1873', 'profit_margin': 0.022413886043879037}
+ {'company': 'Focus Media Information Technology', 'naturalId': 'fred/companies/F2K/2025/103695', 'profit_margin': 0.4243816254416961}]","[{'company': 'GS Holdings', 'marketValue': 2527.0, 'naturalId': 'fred/companies/F2K/2025/1873'}
+ {'company': 'Focus Media Information Technology', 'marketValue': 13740.0, 'naturalId': 'fred/companies/F2K/2025/103695'}]"
+Conglomerates,Americas,3,72082.0,4364.0,94812.0,0.03994910941475827,0.034691021580614274,1.0,"[{'company': 'Jardine Matheson', 'naturalId': 'fred/companies/F2K/2025/2324', 'roa': -0.005393009829567062}
+ {'company': 'Berry Global Group', 'naturalId': 'fred/companies/F2K/2025/96819', 'roa': 0.034691021580614274}
+ {'company': '3M', 'naturalId': 'fred/companies/F2K/2025/4322', 'roa': 0.10915871943130334}]","[{'company': 'Jardine Matheson', 'naturalId': 'fred/companies/F2K/2025/2324', 'roa': -0.005393009829567062}
+ {'company': 'Berry Global Group', 'naturalId': 'fred/companies/F2K/2025/96819', 'roa': 0.034691021580614274}
+ {'company': '3M', 'naturalId': 'fred/companies/F2K/2025/4322', 'roa': 0.10915871943130334}]","[{'company': 'Jardine Matheson', 'naturalId': 'fred/companies/F2K/2025/2324', 'profit_margin': -0.013080298499119595}
+ {'company': 'Berry Global Group', 'naturalId': 'fred/companies/F2K/2025/96819', 'profit_margin': 0.03994910941475827}
+ {'company': '3M', 'naturalId': 'fred/companies/F2K/2025/4322', 'profit_margin': 0.1779056011096153}]","[{'company': 'Berry Global Group', 'marketValue': 7961.0, 'naturalId': 'fred/companies/F2K/2025/96819'}
+ {'company': 'Jardine Matheson', 'marketValue': 12948.0, 'naturalId': 'fred/companies/F2K/2025/2324'}
+ {'company': '3M', 'marketValue': 73903.0, 'naturalId': 'fred/companies/F2K/2025/4322'}]"
+Conglomerates,MEA/Other,1,25227.0,4292.5,239575.0,0.17015499266658737,0.0392388979285884,1.0,"[{'company': 'International Holding Company', 'naturalId': 'fred/companies/F2K/2025/111758', 'roa': 0.0392388979285884}]","[{'company': 'International Holding Company', 'naturalId': 'fred/companies/F2K/2025/111758', 'roa': 0.0392388979285884}]","[{'company': 'International Holding Company', 'naturalId': 'fred/companies/F2K/2025/111758', 'profit_margin': 0.17015499266658737}]","[{'company': 'International Holding Company', 'marketValue': 239575.0, 'naturalId': 'fred/companies/F2K/2025/111758'}]"
+Construction,APAC,65,1884799.0,31768.1,631247.0,0.029385204822437262,0.012321669861420985,0.25860083295445363,"[{'company': 'Shimao Property Holdings', 'naturalId': 'fred/companies/F2K/2025/3873', 'roa': -0.0834289441554749}
+ {'company': 'New World Development', 'naturalId': 'fred/companies/F2K/2025/3048', 'roa': -0.044100067220173324}
+ {'company': 'China Vanke', 'naturalId': 'fred/companies/F2K/2025/936', 'roa': -0.03894153832185134}
+ {'company': 'Country Garden Holdings', 'naturalId': 'fred/companies/F2K/2025/5627', 'roa': -0.03215395564825842}
+ {'company': 'Sunac China Holdings', 'naturalId': 'fred/companies/F2K/2025/101556', 'roa': -0.029515108924806747}]","[{'company': 'Shimao Property Holdings', 'naturalId': 'fred/companies/F2K/2025/3873', 'roa': -0.0834289441554749}
+ {'company': 'New World Development', 'naturalId': 'fred/companies/F2K/2025/3048', 'roa': -0.044100067220173324}
+ {'company': 'China Vanke', 'naturalId': 'fred/companies/F2K/2025/936', 'roa': -0.03894153832185134}
+ {'company': 'Country Garden Holdings', 'naturalId': 'fred/companies/F2K/2025/5627', 'roa': -0.03215395564825842}
+ {'company': 'Sunac China Holdings', 'naturalId': 'fred/companies/F2K/2025/101556', 'roa': -0.029515108924806747}]","[{'company': 'New World Development', 'naturalId': 'fred/companies/F2K/2025/3048', 'profit_margin': -0.6014370664023786}
+ {'company': 'Shimao Property Holdings', 'naturalId': 'fred/companies/F2K/2025/3873', 'profit_margin': -0.560105546822367}
+ {'company': 'Sunac China Holdings', 'naturalId': 'fred/companies/F2K/2025/101556', 'profit_margin': -0.3363165332077249}
+ {'company': 'China Fortune Land Development', 'naturalId': 'fred/companies/F2K/2025/102030', 'profit_margin': -0.212464046021093}
+ {'company': 'CIFI Holdings Group', 'naturalId': 'fred/companies/F2K/2025/101471', 'profit_margin': -0.1480644675402922}]","[{'company': 'CIFI Holdings Group', 'marketValue': 329.0, 'naturalId': 'fred/companies/F2K/2025/101471'}
+ {'company': 'PT Lippo Karawaci', 'marketValue': 366.0, 'naturalId': 'fred/companies/F2K/2025/134631'}
+ {'company': 'Shimao Property Holdings', 'marketValue': 410.0, 'naturalId': 'fred/companies/F2K/2025/3873'}
+ {'company': 'BBMG', 'marketValue': 991.0, 'naturalId': 'fred/companies/F2K/2025/6289'}
+ {'company': 'Anhui Construction Engineering Group', 'marketValue': 1119.0, 'naturalId': 'fred/companies/F2K/2025/106859'}]"
+Construction,Americas,21,331234.0,29645.4,435643.0,0.10322004077415031,0.10740999838562126,0.42802478175937636,"[{'company': 'MasTec', 'naturalId': 'fred/companies/F2K/2025/97698', 'roa': 0.01720748335271113}
+ {'company': 'Jones Lang LaSalle', 'naturalId': 'fred/companies/F2K/2025/2365', 'roa': 0.032617513719875924}
+ {'company': 'Cemex', 'naturalId': 'fred/companies/F2K/2025/840', 'roa': 0.03268754861062009}
+ {'company': 'WSP', 'naturalId': 'fred/companies/F2K/2025/103321', 'roa': 0.03541473834104664}
+ {'company': 'CBRE Group', 'naturalId': 'fred/companies/F2K/2025/821', 'roa': 0.03811727224455738}]","[{'company': 'MasTec', 'naturalId': 'fred/companies/F2K/2025/97698', 'roa': 0.01720748335271113}
+ {'company': 'Jones Lang LaSalle', 'naturalId': 'fred/companies/F2K/2025/2365', 'roa': 0.032617513719875924}
+ {'company': 'Cemex', 'naturalId': 'fred/companies/F2K/2025/840', 'roa': 0.03268754861062009}
+ {'company': 'WSP', 'naturalId': 'fred/companies/F2K/2025/103321', 'roa': 0.03541473834104664}
+ {'company': 'CBRE Group', 'naturalId': 'fred/companies/F2K/2025/821', 'roa': 0.03811727224455738}]","[{'company': 'MasTec', 'naturalId': 'fred/companies/F2K/2025/97698', 'profit_margin': 0.013232544907746079}
+ {'company': 'Jones Lang LaSalle', 'naturalId': 'fred/companies/F2K/2025/2365', 'profit_margin': 0.023334613579140528}
+ {'company': 'CBRE Group', 'naturalId': 'fred/companies/F2K/2025/821', 'profit_margin': 0.02735363762554095}
+ {'company': 'AECOM', 'naturalId': 'fred/companies/F2K/2025/103949', 'profit_margin': 0.029278668310727497}
+ {'company': 'Quanta Services', 'naturalId': 'fred/companies/F2K/2025/3526', 'profit_margin': 0.038220757825370676}]","[{'company': 'Taylor Morrison', 'marketValue': 5783.0, 'naturalId': 'fred/companies/F2K/2025/113578'}
+ {'company': 'Fluor', 'marketValue': 5975.0, 'naturalId': 'fred/companies/F2K/2025/1636'}
+ {'company': 'Cemex', 'marketValue': 9004.0, 'naturalId': 'fred/companies/F2K/2025/840'}
+ {'company': 'MasTec', 'marketValue': 9891.0, 'naturalId': 'fred/companies/F2K/2025/97698'}
+ {'company': 'Toll Brothers', 'marketValue': 9952.0, 'naturalId': 'fred/companies/F2K/2025/4378'}]"
+Construction,Europe,21,483550.0,30768.6,524139.0,0.06712725509709358,0.048177441540577716,0.5514682174003461,"[{'company': 'Vonovia', 'naturalId': 'fred/companies/F2K/2025/102031', 'roa': -0.010372431506849316}
+ {'company': 'Webuild ', 'naturalId': 'fred/companies/F2K/2025/2152', 'roa': 0.011118744385139778}
+ {'company': 'Acciona', 'naturalId': 'fred/companies/F2K/2025/21', 'roa': 0.012733967474685486}
+ {'company': 'Bouygues', 'naturalId': 'fred/companies/F2K/2025/671', 'roa': 0.017519097408263552}
+ {'company': 'ACS Actividades de Construccion y Servicios', 'naturalId': 'fred/companies/F2K/2025/36', 'roa': 0.020330668604651162}]","[{'company': 'Vonovia', 'naturalId': 'fred/companies/F2K/2025/102031', 'roa': -0.010372431506849316}
+ {'company': 'Webuild ', 'naturalId': 'fred/companies/F2K/2025/2152', 'roa': 0.011118744385139778}
+ {'company': 'Acciona', 'naturalId': 'fred/companies/F2K/2025/21', 'roa': 0.012733967474685486}
+ {'company': 'Bouygues', 'naturalId': 'fred/companies/F2K/2025/671', 'roa': 0.017519097408263552}
+ {'company': 'ACS Actividades de Construccion y Servicios', 'naturalId': 'fred/companies/F2K/2025/36', 'roa': 0.020330668604651162}]","[{'company': 'Vonovia', 'naturalId': 'fred/companies/F2K/2025/102031', 'profit_margin': -0.12221941992433796}
+ {'company': 'Webuild ', 'naturalId': 'fred/companies/F2K/2025/2152', 'profit_margin': 0.017639168343393696}
+ {'company': 'Bouygues', 'naturalId': 'fred/companies/F2K/2025/671', 'profit_margin': 0.018642079885319608}
+ {'company': 'ACS Actividades de Construccion y Servicios', 'naturalId': 'fred/companies/F2K/2025/36', 'profit_margin': 0.01987831416263268}
+ {'company': 'Saipem', 'naturalId': 'fred/companies/F2K/2025/3712', 'profit_margin': 0.021031897318591942}]","[{'company': 'Webuild ', 'marketValue': 3520.0, 'naturalId': 'fred/companies/F2K/2025/2152'}
+ {'company': 'Saipem', 'marketValue': 4475.0, 'naturalId': 'fred/companies/F2K/2025/3712'}
+ {'company': 'Acciona', 'marketValue': 7685.0, 'naturalId': 'fred/companies/F2K/2025/21'}
+ {'company': 'CTP', 'marketValue': 8792.0, 'naturalId': 'fred/companies/F2K/2025/116512'}
+ {'company': 'Skanska', 'marketValue': 9175.0, 'naturalId': 'fred/companies/F2K/2025/3962'}]"
+Construction,MEA/Other,2,16366.0,5174.9,48716.0,0.30146312483998855,0.07419545257662158,1.0,"[{'company': 'Aldar Properties', 'naturalId': 'fred/companies/F2K/2025/5545', 'roa': 0.06404162384378212}
+ {'company': 'Emaar Properties', 'naturalId': 'fred/companies/F2K/2025/5650', 'roa': 0.08434928130946104}]","[{'company': 'Aldar Properties', 'naturalId': 'fred/companies/F2K/2025/5545', 'roa': 0.06404162384378212}
+ {'company': 'Emaar Properties', 'naturalId': 'fred/companies/F2K/2025/5650', 'roa': 0.08434928130946104}]","[{'company': 'Aldar Properties', 'naturalId': 'fred/companies/F2K/2025/5545', 'profit_margin': 0.23783396946564886}
+ {'company': 'Emaar Properties', 'naturalId': 'fred/companies/F2K/2025/5650', 'profit_margin': 0.36509228021432827}]","[{'company': 'Aldar Properties', 'marketValue': 17553.0, 'naturalId': 'fred/companies/F2K/2025/5545'}
+ {'company': 'Emaar Properties', 'marketValue': 31163.0, 'naturalId': 'fred/companies/F2K/2025/5650'}]"
+"Construction, Chemicals, Raw Materials",Americas,1,12035.0,3850.2,59426.0,0.31991690901537184,0.09621410900367343,1.0,"[{'company': 'Air Products & Chemicals', 'naturalId': 'fred/companies/F2K/2025/112', 'roa': 0.09621410900367343}]","[{'company': 'Air Products & Chemicals', 'naturalId': 'fred/companies/F2K/2025/112', 'roa': 0.09621410900367343}]","[{'company': 'Air Products & Chemicals', 'naturalId': 'fred/companies/F2K/2025/112', 'profit_margin': 0.31991690901537184}]","[{'company': 'Air Products & Chemicals', 'marketValue': 59426.0, 'naturalId': 'fred/companies/F2K/2025/112'}]"
+Consumer Durables,APAC,46,1931319.0,114059.40000000001,1226769.0,0.05289702535434039,0.0486585420341387,0.4559937526950877,"[{'company': 'AGC', 'naturalId': 'fred/companies/F2K/2025/319', 'roa': -0.033762984717463425}
+ {'company': 'Dongfeng Motor Group', 'naturalId': 'fred/companies/F2K/2025/1332', 'roa': 0.00017964609718853857}
+ {'company': 'Rajesh Exports', 'naturalId': 'fred/companies/F2K/2025/80317', 'roa': 0.0016648570394498731}
+ {'company': 'Guangzhou Automobile Group', 'naturalId': 'fred/companies/F2K/2025/80232', 'roa': 0.003588246374081748}
+ {'company': 'Nissan Motor', 'naturalId': 'fred/companies/F2K/2025/3118', 'roa': 0.005494986782625018}]","[{'company': 'AGC', 'naturalId': 'fred/companies/F2K/2025/319', 'roa': -0.033762984717463425}
+ {'company': 'Dongfeng Motor Group', 'naturalId': 'fred/companies/F2K/2025/1332', 'roa': 0.00017964609718853857}
+ {'company': 'Rajesh Exports', 'naturalId': 'fred/companies/F2K/2025/80317', 'roa': 0.0016648570394498731}
+ {'company': 'Guangzhou Automobile Group', 'naturalId': 'fred/companies/F2K/2025/80232', 'roa': 0.003588246374081748}
+ {'company': 'Nissan Motor', 'naturalId': 'fred/companies/F2K/2025/3118', 'roa': 0.005494986782625018}]","[{'company': 'AGC', 'naturalId': 'fred/companies/F2K/2025/319', 'profit_margin': -0.0454865181711606}
+ {'company': 'Rajesh Exports', 'naturalId': 'fred/companies/F2K/2025/80317', 'profit_margin': 0.00013495672583247763}
+ {'company': 'Dongfeng Motor Group', 'naturalId': 'fred/companies/F2K/2025/1332', 'profit_margin': 0.0005421523448088912}
+ {'company': 'BAIC Motor', 'naturalId': 'fred/companies/F2K/2025/102749', 'profit_margin': 0.004957565334430029}
+ {'company': 'Guangzhou Automobile Group', 'naturalId': 'fred/companies/F2K/2025/80232', 'profit_margin': 0.007631192415542796}]","[{'company': 'Rajesh Exports', 'marketValue': 648.0, 'naturalId': 'fred/companies/F2K/2025/80317'}
+ {'company': 'BAIC Motor', 'marketValue': 1912.0, 'naturalId': 'fred/companies/F2K/2025/102749'}
+ {'company': 'Mitsubishi Motors', 'marketValue': 3699.0, 'naturalId': 'fred/companies/F2K/2025/2894'}
+ {'company': 'Guangzhou Automobile Group', 'marketValue': 3762.0, 'naturalId': 'fred/companies/F2K/2025/80232'}
+ {'company': 'Mazda Motor', 'marketValue': 3835.0, 'naturalId': 'fred/companies/F2K/2025/2772'}]"
+Consumer Durables,Americas,13,683873.0,30732.6,1186607.0,0.03205808761156844,0.032559038628821806,0.9376727088244043,"[{'company': 'Whirlpool', 'naturalId': 'fred/companies/F2K/2025/4716', 'roa': 0.000544992127891486}
+ {'company': 'Goodyear', 'naturalId': 'fred/companies/F2K/2025/1820', 'roa': 0.0033390574317878267}
+ {'company': 'Stanley Black & Decker', 'naturalId': 'fred/companies/F2K/2025/4060', 'roa': 0.01310357453430363}
+ {'company': 'Ford Motor', 'naturalId': 'fred/companies/F2K/2025/1650', 'roa': 0.020613893602995835}
+ {'company': 'General Motors', 'naturalId': 'fred/companies/F2K/2025/80224', 'roa': 0.021479048187560097}]","[{'company': 'Whirlpool', 'naturalId': 'fred/companies/F2K/2025/4716', 'roa': 0.000544992127891486}
+ {'company': 'Goodyear', 'naturalId': 'fred/companies/F2K/2025/1820', 'roa': 0.0033390574317878267}
+ {'company': 'Stanley Black & Decker', 'naturalId': 'fred/companies/F2K/2025/4060', 'roa': 0.01310357453430363}
+ {'company': 'Ford Motor', 'naturalId': 'fred/companies/F2K/2025/1650', 'roa': 0.020613893602995835}
+ {'company': 'General Motors', 'naturalId': 'fred/companies/F2K/2025/80224', 'roa': 0.021479048187560097}]","[{'company': 'Whirlpool', 'naturalId': 'fred/companies/F2K/2025/4716', 'profit_margin': 0.0005717916137229987}
+ {'company': 'Goodyear', 'naturalId': 'fred/companies/F2K/2025/1820', 'profit_margin': 0.0037080199173641277}
+ {'company': 'Stanley Black & Decker', 'naturalId': 'fred/companies/F2K/2025/4060', 'profit_margin': 0.018632044774176754}
+ {'company': 'Magna International', 'naturalId': 'fred/companies/F2K/2025/2698', 'profit_margin': 0.023597263408597382}
+ {'company': 'Continental Automotive Systems, Inc.', 'naturalId': 'fred/companies/F2K/2025/1089', 'profit_margin': 0.029406014337584958}]","[{'company': 'Goodyear', 'marketValue': 3119.0, 'naturalId': 'fred/companies/F2K/2025/1820'}
+ {'company': 'Whirlpool', 'marketValue': 4287.0, 'naturalId': 'fred/companies/F2K/2025/4716'}
+ {'company': 'Oshkosh', 'marketValue': 5738.0, 'naturalId': 'fred/companies/F2K/2025/3262'}
+ {'company': 'Stanley Black & Decker', 'marketValue': 9516.0, 'naturalId': 'fred/companies/F2K/2025/4060'}
+ {'company': 'Magna International', 'marketValue': 9592.0, 'naturalId': 'fred/companies/F2K/2025/2698'}]"
+Consumer Durables,Europe,21,1174334.0,30005.5,570318.0,0.05645596341034361,0.039744079449961806,0.6217846885421817,"[{'company': 'Porsche Automobil Holding', 'naturalId': 'fred/companies/F2K/2025/3433', 'roa': -0.4867149215483523}
+ {'company': 'Schaeffler', 'naturalId': 'fred/companies/F2K/2025/103721', 'roa': -0.02882909520993495}
+ {'company': 'Forvia', 'naturalId': 'fred/companies/F2K/2025/104944', 'roa': -0.006389970012122759}
+ {'company': 'Renault', 'naturalId': 'fred/companies/F2K/2025/3585', 'roa': 0.006072052434345093}
+ {'company': 'Valeo', 'naturalId': 'fred/companies/F2K/2025/4569', 'roa': 0.007812012306594729}]","[{'company': 'Porsche Automobil Holding', 'naturalId': 'fred/companies/F2K/2025/3433', 'roa': -0.4867149215483523}
+ {'company': 'Schaeffler', 'naturalId': 'fred/companies/F2K/2025/103721', 'roa': -0.02882909520993495}
+ {'company': 'Forvia', 'naturalId': 'fred/companies/F2K/2025/104944', 'roa': -0.006389970012122759}
+ {'company': 'Renault', 'naturalId': 'fred/companies/F2K/2025/3585', 'roa': 0.006072052434345093}
+ {'company': 'Valeo', 'naturalId': 'fred/companies/F2K/2025/4569', 'roa': 0.007812012306594729}]","[{'company': 'Schaeffler', 'naturalId': 'fred/companies/F2K/2025/103721', 'profit_margin': -0.03469045440683135}
+ {'company': 'Forvia', 'naturalId': 'fred/companies/F2K/2025/104944', 'profit_margin': -0.00686476112139283}
+ {'company': 'Valeo', 'naturalId': 'fred/companies/F2K/2025/4569', 'profit_margin': 0.007536132140399173}
+ {'company': 'Renault', 'naturalId': 'fred/companies/F2K/2025/3585', 'profit_margin': 0.013372570940058528}
+ {'company': 'Iveco Group', 'naturalId': 'fred/companies/F2K/2025/118467', 'profit_margin': 0.022823458282950425}]","[{'company': 'Forvia', 'marketValue': 1574.0, 'naturalId': 'fred/companies/F2K/2025/104944'}
+ {'company': 'Valeo', 'marketValue': 2454.0, 'naturalId': 'fred/companies/F2K/2025/4569'}
+ {'company': 'Schaeffler', 'marketValue': 4088.0, 'naturalId': 'fred/companies/F2K/2025/103721'}
+ {'company': 'Iveco Group', 'marketValue': 4203.0, 'naturalId': 'fred/companies/F2K/2025/118467'}
+ {'company': 'Volvo Car', 'marketValue': 5557.0, 'naturalId': 'fred/companies/F2K/2025/118553'}]"
+Diversified Financials,APAC,39,369616.0,35952.3,472683.0,0.18473467409740732,0.010276179051367415,0.40828419892401463,"[{'company': 'Link REIT', 'naturalId': 'fred/companies/F2K/2025/2633', 'roa': -0.009451278418239195}
+ {'company': 'SK', 'naturalId': 'fred/companies/F2K/2025/90898', 'roa': -0.007264260768335274}
+ {'company': 'Aozora Bank', 'naturalId': 'fred/companies/F2K/2025/272', 'roa': -0.002482993871844198}
+ {'company': 'Legend Holding', 'naturalId': 'fred/companies/F2K/2025/103726', 'roa': 0.00019402609388765365}
+ {'company': 'Japan Securities Finance', 'naturalId': 'fred/companies/F2K/2025/2320', 'roa': 0.0007159746315161425}]","[{'company': 'Link REIT', 'naturalId': 'fred/companies/F2K/2025/2633', 'roa': -0.009451278418239195}
+ {'company': 'SK', 'naturalId': 'fred/companies/F2K/2025/90898', 'roa': -0.007264260768335274}
+ {'company': 'Aozora Bank', 'naturalId': 'fred/companies/F2K/2025/272', 'roa': -0.002482993871844198}
+ {'company': 'Legend Holding', 'naturalId': 'fred/companies/F2K/2025/103726', 'roa': 0.00019402609388765365}
+ {'company': 'Japan Securities Finance', 'naturalId': 'fred/companies/F2K/2025/2320', 'roa': 0.0007159746315161425}]","[{'company': 'Link REIT', 'naturalId': 'fred/companies/F2K/2025/2633', 'profit_margin': -0.1587344510546241}
+ {'company': 'Aozora Bank', 'naturalId': 'fred/companies/F2K/2025/272', 'profit_margin': -0.08622589531680441}
+ {'company': 'SK', 'naturalId': 'fred/companies/F2K/2025/90898', 'profit_margin': -0.011564247637112862}
+ {'company': 'Legend Holding', 'naturalId': 'fred/companies/F2K/2025/103726', 'profit_margin': 0.0002596199724943164}
+ {'company': 'Daou Technology', 'naturalId': 'fred/companies/F2K/2025/106913', 'profit_margin': 0.030604105571847506}]","[{'company': 'Daou Technology', 'marketValue': 634.0, 'naturalId': 'fred/companies/F2K/2025/106913'}
+ {'company': 'Japan Securities Finance', 'marketValue': 975.0, 'naturalId': 'fred/companies/F2K/2025/2320'}
+ {'company': 'Aozora Bank', 'marketValue': 1885.0, 'naturalId': 'fred/companies/F2K/2025/272'}
+ {'company': 'Kiwoom Securities', 'marketValue': 2023.0, 'naturalId': 'fred/companies/F2K/2025/106911'}
+ {'company': 'Legend Holding', 'marketValue': 2290.0, 'naturalId': 'fred/companies/F2K/2025/103726'}]"
+Diversified Financials,Americas,71,982868.0,123991.9,2904710.0,0.16357353129399718,0.019752130131680867,0.27654808913798623,"[{'company': 'Crown Castle International', 'naturalId': 'fred/companies/F2K/2025/1168', 'roa': -0.11922653958944282}
+ {'company': 'BXP', 'naturalId': 'fred/companies/F2K/2025/668', 'roa': 0.000502204331991566}
+ {'company': 'Bolsa de Valores de Colombia', 'naturalId': 'fred/companies/F2K/2025/116497', 'roa': 0.000529835837748632}
+ {'company': 'Brookfield Corporation', 'naturalId': 'fred/companies/F2K/2025/710', 'roa': 0.0013215095509192046}
+ {'company': 'Ventas', 'naturalId': 'fred/companies/F2K/2025/4591', 'roa': 0.0031007751937984496}]","[{'company': 'Crown Castle International', 'naturalId': 'fred/companies/F2K/2025/1168', 'roa': -0.11922653958944282}
+ {'company': 'BXP', 'naturalId': 'fred/companies/F2K/2025/668', 'roa': 0.000502204331991566}
+ {'company': 'Bolsa de Valores de Colombia', 'naturalId': 'fred/companies/F2K/2025/116497', 'roa': 0.000529835837748632}
+ {'company': 'Brookfield Corporation', 'naturalId': 'fred/companies/F2K/2025/710', 'roa': 0.0013215095509192046}
+ {'company': 'Ventas', 'naturalId': 'fred/companies/F2K/2025/4591', 'roa': 0.0031007751937984496}]","[{'company': 'Crown Castle International', 'naturalId': 'fred/companies/F2K/2025/1168', 'profit_margin': -0.5942448233861145}
+ {'company': 'StoneX Group', 'naturalId': 'fred/companies/F2K/2025/99742', 'profit_margin': 0.0024700024940189727}
+ {'company': 'BXP', 'naturalId': 'fred/companies/F2K/2025/668', 'profit_margin': 0.0038438967136150233}
+ {'company': 'Brookfield Corporation', 'naturalId': 'fred/companies/F2K/2025/710', 'profit_margin': 0.0074344708918841415}
+ {'company': 'Ventas', 'naturalId': 'fred/companies/F2K/2025/4591', 'profit_margin': 0.016490658001624695}]","[{'company': 'Bolsa de Valores de Colombia', 'marketValue': 175.0, 'naturalId': 'fred/companies/F2K/2025/116497'}
+ {'company': 'AntarChile', 'marketValue': 3569.0, 'naturalId': 'fred/companies/F2K/2025/263'}
+ {'company': 'StoneX Group', 'marketValue': 4216.0, 'naturalId': 'fred/companies/F2K/2025/99742'}
+ {'company': 'Prologis Property Mexico', 'marketValue': 5566.0, 'naturalId': 'fred/companies/F2K/2025/118507'}
+ {'company': 'Rithm Capital', 'marketValue': 5590.0, 'naturalId': 'fred/companies/F2K/2025/102149'}]"
+Diversified Financials,Europe,21,283669.0,66400.5,610336.0,0.21209964412811388,0.010010263841091589,0.5743885335290725,"[{'company': 'M&G', 'naturalId': 'fred/companies/F2K/2025/111692', 'roa': -0.0019937413857369474}
+ {'company': 'Quilter', 'naturalId': 'fred/companies/F2K/2025/108864', 'roa': -0.0005549162511187827}
+ {'company': 'Euronext', 'naturalId': 'fred/companies/F2K/2025/111689', 'roa': 0.002191619667139545}
+ {'company': 'Deutsche Bank', 'naturalId': 'fred/companies/F2K/2025/1282', 'roa': 0.002829601191323334}
+ {'company': 'Unibail-Rodamco-Westfield ', 'naturalId': 'fred/companies/F2K/2025/4492', 'roa': 0.0028514230061681637}]","[{'company': 'M&G', 'naturalId': 'fred/companies/F2K/2025/111692', 'roa': -0.0019937413857369474}
+ {'company': 'Quilter', 'naturalId': 'fred/companies/F2K/2025/108864', 'roa': -0.0005549162511187827}
+ {'company': 'Euronext', 'naturalId': 'fred/companies/F2K/2025/111689', 'roa': 0.002191619667139545}
+ {'company': 'Deutsche Bank', 'naturalId': 'fred/companies/F2K/2025/1282', 'roa': 0.002829601191323334}
+ {'company': 'Unibail-Rodamco-Westfield ', 'naturalId': 'fred/companies/F2K/2025/4492', 'roa': 0.0028514230061681637}]","[{'company': 'M&G', 'naturalId': 'fred/companies/F2K/2025/111692', 'profit_margin': -0.02522759679719206}
+ {'company': 'Quilter', 'naturalId': 'fred/companies/F2K/2025/108864', 'profit_margin': -0.00623294556943846}
+ {'company': 'Unibail-Rodamco-Westfield ', 'naturalId': 'fred/companies/F2K/2025/4492', 'profit_margin': 0.044889267461669505}
+ {'company': 'Deutsche Bank', 'naturalId': 'fred/companies/F2K/2025/1282', 'profit_margin': 0.05737411844198258}
+ {'company': 'UBS', 'naturalId': 'fred/companies/F2K/2025/4472', 'profit_margin': 0.05844725214029274}]","[{'company': 'Quilter', 'marketValue': 2420.0, 'naturalId': 'fred/companies/F2K/2025/108864'}
+ {'company': 'EFG International', 'marketValue': 4337.0, 'naturalId': 'fred/companies/F2K/2025/1403'}
+ {'company': 'Investec', 'marketValue': 4924.0, 'naturalId': 'fred/companies/F2K/2025/2244'}
+ {'company': 'M&G', 'marketValue': 6419.0, 'naturalId': 'fred/companies/F2K/2025/111692'}
+ {'company': 'Sofina', 'marketValue': 9139.0, 'naturalId': 'fred/companies/F2K/2025/3995'}]"
+Diversified Financials,MEA/Other,3,6892.0,3673.8,23749.0,0.22974887314874437,0.015368049274238705,1.0,"[{'company': 'AlRayan Bank', 'naturalId': 'fred/companies/F2K/2025/5763', 'roa': 0.008638895460117422}
+ {'company': 'Commercial Bank of Qatar ', 'naturalId': 'fred/companies/F2K/2025/5622', 'roa': 0.015368049274238705}
+ {'company': 'Modon Holding PSC', 'naturalId': 'fred/companies/F2K/2025/134622', 'roa': 0.12377243481205553}]","[{'company': 'AlRayan Bank', 'naturalId': 'fred/companies/F2K/2025/5763', 'roa': 0.008638895460117422}
+ {'company': 'Commercial Bank of Qatar ', 'naturalId': 'fred/companies/F2K/2025/5622', 'roa': 0.015368049274238705}
+ {'company': 'Modon Holding PSC', 'naturalId': 'fred/companies/F2K/2025/134622', 'roa': 0.12377243481205553}]","[{'company': 'AlRayan Bank', 'naturalId': 'fred/companies/F2K/2025/5763', 'profit_margin': 0.19955290611028315}
+ {'company': 'Commercial Bank of Qatar ', 'naturalId': 'fred/companies/F2K/2025/5622', 'profit_margin': 0.22974887314874437}
+ {'company': 'Modon Holding PSC', 'naturalId': 'fred/companies/F2K/2025/134622', 'profit_margin': 1.443034404963339}]","[{'company': 'Commercial Bank of Qatar ', 'marketValue': 4635.0, 'naturalId': 'fred/companies/F2K/2025/5622'}
+ {'company': 'AlRayan Bank', 'marketValue': 5584.0, 'naturalId': 'fred/companies/F2K/2025/5763'}
+ {'company': 'Modon Holding PSC', 'marketValue': 13530.0, 'naturalId': 'fred/companies/F2K/2025/134622'}]"
+Drugs & Biotechnology,APAC,18,210827.0,17386.7,458120.0,0.15203263571305362,0.08748616261557138,0.5710250589365232,"[{'company': 'Sigma Healthcare', 'naturalId': 'fred/companies/F2K/2025/134647', 'roa': -0.007824591573516766}
+ {'company': 'China Resources Pharmaceutical Group', 'naturalId': 'fred/companies/F2K/2025/105118', 'roa': 0.013182114235550647}
+ {'company': 'Takeda Pharmaceutical', 'naturalId': 'fred/companies/F2K/2025/4208', 'roa': 0.014287794931546752}
+ {'company': 'Astellas Pharma', 'naturalId': 'fred/companies/F2K/2025/346', 'roa': 0.014906860111051405}
+ {'company': 'Shanghai Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/6461', 'roa': 0.020820583687033198}]","[{'company': 'Sigma Healthcare', 'naturalId': 'fred/companies/F2K/2025/134647', 'roa': -0.007824591573516766}
+ {'company': 'China Resources Pharmaceutical Group', 'naturalId': 'fred/companies/F2K/2025/105118', 'roa': 0.013182114235550647}
+ {'company': 'Takeda Pharmaceutical', 'naturalId': 'fred/companies/F2K/2025/4208', 'roa': 0.014287794931546752}
+ {'company': 'Astellas Pharma', 'naturalId': 'fred/companies/F2K/2025/346', 'roa': 0.014906860111051405}
+ {'company': 'Shanghai Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/6461', 'roa': 0.020820583687033198}]","[{'company': 'Sigma Healthcare', 'naturalId': 'fred/companies/F2K/2025/134647', 'profit_margin': -0.002865239294710327}
+ {'company': 'China Resources Pharmaceutical Group', 'naturalId': 'fred/companies/F2K/2025/105118', 'profit_margin': 0.013001340632331583}
+ {'company': 'Suzuken', 'naturalId': 'fred/companies/F2K/2025/4154', 'profit_margin': 0.014182480834485358}
+ {'company': 'Shanghai Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/6461', 'profit_margin': 0.0165910699771899}
+ {'company': 'Astellas Pharma', 'naturalId': 'fred/companies/F2K/2025/346', 'profit_margin': 0.02653858418367347}]","[{'company': 'Suzuken', 'marketValue': 2390.0, 'naturalId': 'fred/companies/F2K/2025/4154'}
+ {'company': 'China Resources Pharmaceutical Group', 'marketValue': 3985.0, 'naturalId': 'fred/companies/F2K/2025/105118'}
+ {'company': 'Shanghai Pharmaceuticals', 'marketValue': 5154.0, 'naturalId': 'fred/companies/F2K/2025/6461'}
+ {'company': 'Yunnan Baiyao Group', 'marketValue': 14157.0, 'naturalId': 'fred/companies/F2K/2025/6254'}
+ {'company': 'Shionogi', 'marketValue': 14207.0, 'naturalId': 'fred/companies/F2K/2025/3888'}]"
+Drugs & Biotechnology,Americas,23,958143.0,105218.9,2946230.0,0.11841632368765984,0.05819458804235445,0.6477898874154427,"[{'company': 'BeiGene', 'naturalId': 'fred/companies/F2K/2025/108869', 'roa': -0.10886075949367088}
+ {'company': 'Alnylam Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/98712', 'roa': -0.06466759646675964}
+ {'company': 'Vertex Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/4599', 'roa': -0.02319518427092807}
+ {'company': 'Viatris', 'naturalId': 'fred/companies/F2K/2025/14981', 'roa': -0.015281559480494446}
+ {'company': 'Bausch Health Companies', 'naturalId': 'fred/companies/F2K/2025/80374', 'roa': -0.001609923462655054}]","[{'company': 'BeiGene', 'naturalId': 'fred/companies/F2K/2025/108869', 'roa': -0.10886075949367088}
+ {'company': 'Alnylam Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/98712', 'roa': -0.06466759646675964}
+ {'company': 'Vertex Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/4599', 'roa': -0.02319518427092807}
+ {'company': 'Viatris', 'naturalId': 'fred/companies/F2K/2025/14981', 'roa': -0.015281559480494446}
+ {'company': 'Bausch Health Companies', 'naturalId': 'fred/companies/F2K/2025/80374', 'roa': -0.001609923462655054}]","[{'company': 'BeiGene', 'naturalId': 'fred/companies/F2K/2025/108869', 'profit_margin': -0.16933578367025465}
+ {'company': 'Alnylam Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/98712', 'profit_margin': -0.12375444839857651}
+ {'company': 'Vertex Pharmaceuticals', 'naturalId': 'fred/companies/F2K/2025/4599', 'profit_margin': -0.048761835396941004}
+ {'company': 'Viatris', 'naturalId': 'fred/companies/F2K/2025/14981', 'profit_margin': -0.04321340964840557}
+ {'company': 'Bausch Health Companies', 'naturalId': 'fred/companies/F2K/2025/80374', 'profit_margin': -0.004433599833869796}]","[{'company': 'Inhibrx Biosciences', 'marketValue': 177.0, 'naturalId': 'fred/companies/F2K/2025/134607'}
+ {'company': 'Bausch Health Companies', 'marketValue': 2007.0, 'naturalId': 'fred/companies/F2K/2025/80374'}
+ {'company': 'Viatris', 'marketValue': 9705.0, 'naturalId': 'fred/companies/F2K/2025/14981'}
+ {'company': 'United Therapeutics', 'marketValue': 13087.0, 'naturalId': 'fred/companies/F2K/2025/6231'}
+ {'company': 'Molina Healthcare', 'marketValue': 17204.0, 'naturalId': 'fred/companies/F2K/2025/6129'}]"
+Drugs & Biotechnology,Europe,15,418912.0,63735.6,1434947.0,0.13534216981344374,0.06413182653231643,0.7516570298415203,"[{'company': 'Bayer ', 'naturalId': 'fred/companies/F2K/2025/537', 'roa': -0.022632057914456476}
+ {'company': 'Sandoz Group', 'naturalId': 'fred/companies/F2K/2025/130470', 'roa': 0.00015070075852715125}
+ {'company': 'Lonza Group', 'naturalId': 'fred/companies/F2K/2025/2661', 'roa': 0.03265952154841044}
+ {'company': 'Haleon', 'naturalId': 'fred/companies/F2K/2025/125177', 'roa': 0.04287509307520476}
+ {'company': 'Sanofi ', 'naturalId': 'fred/companies/F2K/2025/3744', 'roa': 0.043735819419396124}]","[{'company': 'Bayer ', 'naturalId': 'fred/companies/F2K/2025/537', 'roa': -0.022632057914456476}
+ {'company': 'Sandoz Group', 'naturalId': 'fred/companies/F2K/2025/130470', 'roa': 0.00015070075852715125}
+ {'company': 'Lonza Group', 'naturalId': 'fred/companies/F2K/2025/2661', 'roa': 0.03265952154841044}
+ {'company': 'Haleon', 'naturalId': 'fred/companies/F2K/2025/125177', 'roa': 0.04287509307520476}
+ {'company': 'Sanofi ', 'naturalId': 'fred/companies/F2K/2025/3744', 'roa': 0.043735819419396124}]","[{'company': 'Bayer ', 'naturalId': 'fred/companies/F2K/2025/537', 'profit_margin': -0.05475770138654712}
+ {'company': 'Sandoz Group', 'naturalId': 'fred/companies/F2K/2025/130470', 'profit_margin': 0.00028968713789107763}
+ {'company': 'GSK', 'naturalId': 'fred/companies/F2K/2025/1797', 'profit_margin': 0.08206918913526053}
+ {'company': 'Lonza Group', 'naturalId': 'fred/companies/F2K/2025/2661', 'profit_margin': 0.09674480910917616}
+ {'company': 'Haleon', 'naturalId': 'fred/companies/F2K/2025/125177', 'profit_margin': 0.1283683990525289}]","[{'company': 'Endo', 'marketValue': 1642.0, 'naturalId': 'fred/companies/F2K/2025/1459'}
+ {'company': 'Genmab', 'marketValue': 12609.0, 'naturalId': 'fred/companies/F2K/2025/103668'}
+ {'company': 'Sandoz Group', 'marketValue': 18162.0, 'naturalId': 'fred/companies/F2K/2025/130470'}
+ {'company': 'Bayer ', 'marketValue': 25677.0, 'naturalId': 'fred/companies/F2K/2025/537'}
+ {'company': 'UCB', 'marketValue': 32343.0, 'naturalId': 'fred/companies/F2K/2025/4473'}]"
+Drugs & Biotechnology,MEA/Other,1,16533.0,-1643.5,16534.0,-0.09940724611383293,-0.04179168997609724,1.0,"[{'company': 'Teva Pharmaceutical', 'naturalId': 'fred/companies/F2K/2025/4297', 'roa': -0.04179168997609724}]","[{'company': 'Teva Pharmaceutical', 'naturalId': 'fred/companies/F2K/2025/4297', 'roa': -0.04179168997609724}]","[{'company': 'Teva Pharmaceutical', 'naturalId': 'fred/companies/F2K/2025/4297', 'profit_margin': -0.09940724611383293}]","[{'company': 'Teva Pharmaceutical', 'marketValue': 16534.0, 'naturalId': 'fred/companies/F2K/2025/4297'}]"
+"Engineering, Manufacturing",Americas,1,64809.0,10792.0,146462.0,0.1665200820873644,0.12296613645686158,1.0,"[{'company': 'Caterpillar', 'naturalId': 'fred/companies/F2K/2025/814', 'roa': 0.12296613645686158}]","[{'company': 'Caterpillar', 'naturalId': 'fred/companies/F2K/2025/814', 'roa': 0.12296613645686158}]","[{'company': 'Caterpillar', 'naturalId': 'fred/companies/F2K/2025/814', 'profit_margin': 0.1665200820873644}]","[{'company': 'Caterpillar', 'marketValue': 146462.0, 'naturalId': 'fred/companies/F2K/2025/814'}]"
+Food Markets,APAC,9,381981.0,11111.1,232721.0,0.02482375779041651,0.029725236665897024,0.7740040649533132,"[{'company': 'Aeon', 'naturalId': 'fred/companies/F2K/2025/67', 'roa': 0.0020556227327690447}
+ {'company': 'Seven & I Holdings', 'naturalId': 'fred/companies/F2K/2025/3841', 'roa': 0.01501912463438199}
+ {'company': 'CP Axtra', 'naturalId': 'fred/companies/F2K/2025/101548', 'roa': 0.018683718028696193}
+ {'company': 'CP All', 'naturalId': 'fred/companies/F2K/2025/5524', 'roa': 0.02546675815246831}
+ {'company': 'Uni-President', 'naturalId': 'fred/companies/F2K/2025/4491', 'roa': 0.029725236665897024}]","[{'company': 'Aeon', 'naturalId': 'fred/companies/F2K/2025/67', 'roa': 0.0020556227327690447}
+ {'company': 'Seven & I Holdings', 'naturalId': 'fred/companies/F2K/2025/3841', 'roa': 0.01501912463438199}
+ {'company': 'CP Axtra', 'naturalId': 'fred/companies/F2K/2025/101548', 'roa': 0.018683718028696193}
+ {'company': 'CP All', 'naturalId': 'fred/companies/F2K/2025/5524', 'roa': 0.02546675815246831}
+ {'company': 'Uni-President', 'naturalId': 'fred/companies/F2K/2025/4491', 'roa': 0.029725236665897024}]","[{'company': 'Aeon', 'naturalId': 'fred/companies/F2K/2025/67', 'profit_margin': 0.002839686385456953}
+ {'company': 'Seven & I Holdings', 'naturalId': 'fred/companies/F2K/2025/3841', 'profit_margin': 0.014455866804244532}
+ {'company': 'CP Axtra', 'naturalId': 'fred/companies/F2K/2025/101548', 'profit_margin': 0.02077552719200888}
+ {'company': 'Woolworths', 'naturalId': 'fred/companies/F2K/2025/4755', 'profit_margin': 0.023519877340926514}
+ {'company': 'Coles Group', 'naturalId': 'fred/companies/F2K/2025/108834', 'profit_margin': 0.02482375779041651}]","[{'company': 'CP Axtra', 'marketValue': 7644.0, 'naturalId': 'fred/companies/F2K/2025/101548'}
+ {'company': 'Uni-President', 'marketValue': 13317.0, 'naturalId': 'fred/companies/F2K/2025/4491'}
+ {'company': 'CP All', 'marketValue': 13451.0, 'naturalId': 'fred/companies/F2K/2025/5524'}
+ {'company': 'Coles Group', 'marketValue': 18182.0, 'naturalId': 'fred/companies/F2K/2025/108834'}
+ {'company': 'MIXUE Group', 'marketValue': 22943.0, 'naturalId': 'fred/companies/F2K/2025/134621'}]"
+Food Markets,Americas,9,468405.0,8526.4,175440.0,0.021774444099241046,0.04241376329212415,0.7865025079799361,"[{'company': 'United Natural Foods', 'naturalId': 'fred/companies/F2K/2025/4522', 'roa': -0.010606648557754495}
+ {'company': 'George Weston', 'naturalId': 'fred/companies/F2K/2025/4707', 'roa': 0.027737389553741193}
+ {'company': 'Albertsons', 'naturalId': 'fred/companies/F2K/2025/102435', 'roa': 0.03270779309403576}
+ {'company': 'US Foods', 'naturalId': 'fred/companies/F2K/2025/12713', 'roa': 0.03581267217630854}
+ {'company': 'Empire', 'naturalId': 'fred/companies/F2K/2025/1448', 'roa': 0.04241376329212415}]","[{'company': 'United Natural Foods', 'naturalId': 'fred/companies/F2K/2025/4522', 'roa': -0.010606648557754495}
+ {'company': 'George Weston', 'naturalId': 'fred/companies/F2K/2025/4707', 'roa': 0.027737389553741193}
+ {'company': 'Albertsons', 'naturalId': 'fred/companies/F2K/2025/102435', 'roa': 0.03270779309403576}
+ {'company': 'US Foods', 'naturalId': 'fred/companies/F2K/2025/12713', 'roa': 0.03581267217630854}
+ {'company': 'Empire', 'naturalId': 'fred/companies/F2K/2025/1448', 'roa': 0.04241376329212415}]","[{'company': 'United Natural Foods', 'naturalId': 'fred/companies/F2K/2025/4522', 'profit_margin': -0.0025882204406287483}
+ {'company': 'Albertsons', 'naturalId': 'fred/companies/F2K/2025/102435', 'profit_margin': 0.011924220372927318}
+ {'company': 'US Foods', 'naturalId': 'fred/companies/F2K/2025/12713', 'profit_margin': 0.01304221559257597}
+ {'company': 'Kroger', 'naturalId': 'fred/companies/F2K/2025/2525', 'profit_margin': 0.017984951367223345}
+ {'company': 'Empire', 'naturalId': 'fred/companies/F2K/2025/1448', 'profit_margin': 0.021774444099241046}]","[{'company': 'United Natural Foods', 'marketValue': 1586.0, 'naturalId': 'fred/companies/F2K/2025/4522'}
+ {'company': 'Empire', 'marketValue': 8414.0, 'naturalId': 'fred/companies/F2K/2025/1448'}
+ {'company': 'Albertsons', 'marketValue': 12615.0, 'naturalId': 'fred/companies/F2K/2025/102435'}
+ {'company': 'US Foods', 'marketValue': 14841.0, 'naturalId': 'fred/companies/F2K/2025/12713'}
+ {'company': 'Metro', 'marketValue': 16265.0, 'naturalId': 'fred/companies/F2K/2025/2836'}]"
+Food Markets,Europe,8,332989.0,6201.799999999999,123296.0,0.021498753018789382,0.04160499941004556,0.8590059693745133,"[{'company': 'Metro Group', 'naturalId': 'fred/companies/F2K/2025/107273', 'roa': -0.014704054683858941}
+ {'company': 'J Sainsbury', 'naturalId': 'fred/companies/F2K/2025/3704', 'roa': 0.014286634875628302}
+ {'company': 'Royal Ahold Delhaize N.V.', 'naturalId': 'fred/companies/F2K/2025/105185', 'roa': 0.03554450281286092}
+ {'company': 'Jeronimo Martins', 'naturalId': 'fred/companies/F2K/2025/2337', 'roa': 0.040902777777777774}
+ {'company': 'Tesco', 'naturalId': 'fred/companies/F2K/2025/4293', 'roa': 0.042307221042313346}]","[{'company': 'Metro Group', 'naturalId': 'fred/companies/F2K/2025/107273', 'roa': -0.014704054683858941}
+ {'company': 'J Sainsbury', 'naturalId': 'fred/companies/F2K/2025/3704', 'roa': 0.014286634875628302}
+ {'company': 'Royal Ahold Delhaize N.V.', 'naturalId': 'fred/companies/F2K/2025/105185', 'roa': 0.03554450281286092}
+ {'company': 'Jeronimo Martins', 'naturalId': 'fred/companies/F2K/2025/2337', 'roa': 0.040902777777777774}
+ {'company': 'Tesco', 'naturalId': 'fred/companies/F2K/2025/4293', 'roa': 0.042307221042313346}]","[{'company': 'Metro Group', 'naturalId': 'fred/companies/F2K/2025/107273', 'profit_margin': -0.005558165482412356}
+ {'company': 'J Sainsbury', 'naturalId': 'fred/companies/F2K/2025/3704', 'profit_margin': 0.010606133090943883}
+ {'company': 'Jeronimo Martins', 'naturalId': 'fred/companies/F2K/2025/2337', 'profit_margin': 0.017898284482996768}
+ {'company': 'Royal Ahold Delhaize N.V.', 'naturalId': 'fred/companies/F2K/2025/105185', 'profit_margin': 0.0197411438503559}
+ {'company': 'Tesco', 'naturalId': 'fred/companies/F2K/2025/4293', 'profit_margin': 0.02325636218722286}]","[{'company': 'Metro Group', 'marketValue': 2163.0, 'naturalId': 'fred/companies/F2K/2025/107273'}
+ {'company': 'BIM Birlesik Magazalar', 'marketValue': 7220.0, 'naturalId': 'fred/companies/F2K/2025/6298'}
+ {'company': 'J Sainsbury', 'marketValue': 8001.0, 'naturalId': 'fred/companies/F2K/2025/3704'}
+ {'company': 'Kesko', 'marketValue': 9329.0, 'naturalId': 'fred/companies/F2K/2025/2436'}
+ {'company': 'Dino Polska', 'marketValue': 13838.0, 'naturalId': 'fred/companies/F2K/2025/125159'}]"
+"Food, Drink & Tobacco",APAC,34,532577.0,49533.0,931994.0,0.06748407868087553,0.07028892312719401,0.5424455522245851,"[{'company': 'Tongwei', 'naturalId': 'fred/companies/F2K/2025/106763', 'roa': -0.03296228020419739}
+ {'company': 'China Mengniu Dairy', 'naturalId': 'fred/companies/F2K/2025/915', 'roa': 0.0009751407773657464}
+ {'company': 'Olam Group', 'naturalId': 'fred/companies/F2K/2025/3220', 'roa': 0.001928350023843586}
+ {'company': 'CJ Corporation', 'naturalId': 'fred/companies/F2K/2025/992', 'roa': 0.0022842796925365734}
+ {'company': 'New Hope Liuhe', 'naturalId': 'fred/companies/F2K/2025/90863', 'roa': 0.00406901242965803}]","[{'company': 'Tongwei', 'naturalId': 'fred/companies/F2K/2025/106763', 'roa': -0.03296228020419739}
+ {'company': 'China Mengniu Dairy', 'naturalId': 'fred/companies/F2K/2025/915', 'roa': 0.0009751407773657464}
+ {'company': 'Olam Group', 'naturalId': 'fred/companies/F2K/2025/3220', 'roa': 0.001928350023843586}
+ {'company': 'CJ Corporation', 'naturalId': 'fred/companies/F2K/2025/992', 'roa': 0.0022842796925365734}
+ {'company': 'New Hope Liuhe', 'naturalId': 'fred/companies/F2K/2025/90863', 'roa': 0.00406901242965803}]","[{'company': 'Tongwei', 'naturalId': 'fred/companies/F2K/2025/106763', 'profit_margin': -0.0701629942650166}
+ {'company': 'China Mengniu Dairy', 'naturalId': 'fred/companies/F2K/2025/915', 'profit_margin': 0.001152503855206558}
+ {'company': 'Olam Group', 'naturalId': 'fred/companies/F2K/2025/3220', 'profit_margin': 0.0015396696968254723}
+ {'company': 'CJ Corporation', 'naturalId': 'fred/companies/F2K/2025/992', 'profit_margin': 0.0023026932450165593}
+ {'company': 'New Hope Liuhe', 'naturalId': 'fred/companies/F2K/2025/90863', 'profit_margin': 0.0046023641323354545}]","[{'company': 'First Pacific', 'marketValue': 2763.0, 'naturalId': 'fred/companies/F2K/2025/1611'}
+ {'company': 'Olam Group', 'marketValue': 2783.0, 'naturalId': 'fred/companies/F2K/2025/3220'}
+ {'company': 'CJ Corporation', 'marketValue': 2921.0, 'naturalId': 'fred/companies/F2K/2025/992'}
+ {'company': 'Jiangxi Zhengbang Technology', 'marketValue': 3518.0, 'naturalId': 'fred/companies/F2K/2025/108811'}
+ {'company': 'Charoen Pokphand Group', 'marketValue': 5942.0, 'naturalId': 'fred/companies/F2K/2025/876'}]"
+"Food, Drink & Tobacco",Americas,31,825297.0,71756.3,1532636.0,0.08113163432312369,0.0456644845174505,0.6136956198340636,"[{'company': 'JM Smucker', 'naturalId': 'fred/companies/F2K/2025/3983', 'roa': -0.01393140128079887}
+ {'company': 'Constellation Brands', 'naturalId': 'fred/companies/F2K/2025/1086', 'roa': -0.0037594679475337154}
+ {'company': 'International Flavors & Fragrances', 'naturalId': 'fred/companies/F2K/2025/2218', 'roa': 0.008476645620399762}
+ {'company': 'Conagra Brands', 'naturalId': 'fred/companies/F2K/2025/1080', 'roa': 0.01586482838411107}
+ {'company': 'Corteva', 'naturalId': 'fred/companies/F2K/2025/110754', 'roa': 0.022216778934476423}]","[{'company': 'JM Smucker', 'naturalId': 'fred/companies/F2K/2025/3983', 'roa': -0.01393140128079887}
+ {'company': 'Constellation Brands', 'naturalId': 'fred/companies/F2K/2025/1086', 'roa': -0.0037594679475337154}
+ {'company': 'International Flavors & Fragrances', 'naturalId': 'fred/companies/F2K/2025/2218', 'roa': 0.008476645620399762}
+ {'company': 'Conagra Brands', 'naturalId': 'fred/companies/F2K/2025/1080', 'roa': 0.01586482838411107}
+ {'company': 'Corteva', 'naturalId': 'fred/companies/F2K/2025/110754', 'roa': 0.022216778934476423}]","[{'company': 'JM Smucker', 'naturalId': 'fred/companies/F2K/2025/3983', 'profit_margin': -0.02921028675466545}
+ {'company': 'Constellation Brands', 'naturalId': 'fred/companies/F2K/2025/1086', 'profit_margin': -0.007974137931034483}
+ {'company': 'Marfrig Global Foods', 'naturalId': 'fred/companies/F2K/2025/6418', 'profit_margin': 0.018777387462427117}
+ {'company': 'Tyson Foods', 'naturalId': 'fred/companies/F2K/2025/4466', 'profit_margin': 0.01962210657862832}
+ {'company': 'Archer Daniels Midland', 'naturalId': 'fred/companies/F2K/2025/299', 'profit_margin': 0.021052631578947368}]","[{'company': 'Marfrig Global Foods', 'marketValue': 3437.0, 'naturalId': 'fred/companies/F2K/2025/6418'}
+ {'company': 'Smithfield Foods', 'marketValue': 7850.0, 'naturalId': 'fred/companies/F2K/2025/3980'}
+ {'company': 'Campbell Soup', 'marketValue': 10821.0, 'naturalId': 'fred/companies/F2K/2025/763'}
+ {'company': 'Bunge Global', 'marketValue': 10839.0, 'naturalId': 'fred/companies/F2K/2025/731'}
+ {'company': 'Molson Coors Brewing', 'marketValue': 11510.0, 'naturalId': 'fred/companies/F2K/2025/2931'}]"
+"Food, Drink & Tobacco",Europe,18,446779.0,41826.5,891708.0,0.09469940924356805,0.05330596931039118,0.6750202981244982,"[{'company': 'Barry Callebaut', 'naturalId': 'fred/companies/F2K/2025/529', 'roa': 0.008205595183892345}
+ {'company': 'Ag Anadolu Grubu Holding Anonim Sirketi', 'naturalId': 'fred/companies/F2K/2025/6253', 'roa': 0.009196149843912592}
+ {'company': 'Heineken', 'naturalId': 'fred/companies/F2K/2025/1960', 'roa': 0.009498369038173323}
+ {'company': ""JDE Peet's"", 'naturalId': 'fred/companies/F2K/2025/116554', 'roa': 0.024371435456663183}
+ {'company': 'British American Tobacco', 'naturalId': 'fred/companies/F2K/2025/699', 'roa': 0.02596686566963716}]","[{'company': 'Barry Callebaut', 'naturalId': 'fred/companies/F2K/2025/529', 'roa': 0.008205595183892345}
+ {'company': 'Ag Anadolu Grubu Holding Anonim Sirketi', 'naturalId': 'fred/companies/F2K/2025/6253', 'roa': 0.009196149843912592}
+ {'company': 'Heineken', 'naturalId': 'fred/companies/F2K/2025/1960', 'roa': 0.009498369038173323}
+ {'company': ""JDE Peet's"", 'naturalId': 'fred/companies/F2K/2025/116554', 'roa': 0.024371435456663183}
+ {'company': 'British American Tobacco', 'naturalId': 'fred/companies/F2K/2025/699', 'roa': 0.02596686566963716}]","[{'company': 'Ag Anadolu Grubu Holding Anonim Sirketi', 'naturalId': 'fred/companies/F2K/2025/6253', 'profit_margin': 0.008721934369602764}
+ {'company': 'Barry Callebaut', 'naturalId': 'fred/companies/F2K/2025/529', 'profit_margin': 0.01104152484683458}
+ {'company': 'Heineken', 'naturalId': 'fred/companies/F2K/2025/1960', 'profit_margin': 0.016700251108286573}
+ {'company': ""JDE Peet's"", 'naturalId': 'fred/companies/F2K/2025/116554', 'profit_margin': 0.06347944345642849}
+ {'company': 'Coca-Cola Europacific Partners', 'naturalId': 'fred/companies/F2K/2025/1021', 'profit_margin': 0.06937307761896147}]","[{'company': 'Ag Anadolu Grubu Holding Anonim Sirketi', 'marketValue': 1810.0, 'naturalId': 'fred/companies/F2K/2025/6253'}
+ {'company': 'Barry Callebaut', 'marketValue': 5053.0, 'naturalId': 'fred/companies/F2K/2025/529'}
+ {'company': ""JDE Peet's"", 'marketValue': 11555.0, 'naturalId': 'fred/companies/F2K/2025/116554'}
+ {'company': 'Kerry Group', 'marketValue': 17149.0, 'naturalId': 'fred/companies/F2K/2025/2432'}
+ {'company': 'Carlsberg', 'marketValue': 17884.0, 'naturalId': 'fred/companies/F2K/2025/795'}]"
+"Food, Drink & Tobacco",MEA/Other,2,12065.0,3653.2,16780.0,0.2919775556745421,0.297461235260529,1.0,"[{'company': 'Almarai', 'naturalId': 'fred/companies/F2K/2025/5548', 'roa': 0.06341562120598947}
+ {'company': 'Savola Group', 'naturalId': 'fred/companies/F2K/2025/5836', 'roa': 0.5315068493150685}]","[{'company': 'Almarai', 'naturalId': 'fred/companies/F2K/2025/5548', 'roa': 0.06341562120598947}
+ {'company': 'Savola Group', 'naturalId': 'fred/companies/F2K/2025/5836', 'roa': 0.5315068493150685}]","[{'company': 'Almarai', 'naturalId': 'fred/companies/F2K/2025/5548', 'profit_margin': 0.1104882778071567}
+ {'company': 'Savola Group', 'naturalId': 'fred/companies/F2K/2025/5836', 'profit_margin': 0.4734668335419274}]","[{'company': 'Savola Group', 'marketValue': 2438.0, 'naturalId': 'fred/companies/F2K/2025/5836'}
+ {'company': 'Almarai', 'marketValue': 14342.0, 'naturalId': 'fred/companies/F2K/2025/5548'}]"
+Health Care Equipment & Services,APAC,11,198257.0,9036.9,189046.0,0.08493929614261565,0.04935397439714201,0.7669191625318705,"[{'company': 'Sinopharm Group', 'naturalId': 'fred/companies/F2K/2025/6468', 'roa': 0.018200230406183803}
+ {'company': 'Jointown Pharmaceutical Group', 'naturalId': 'fred/companies/F2K/2025/101506', 'roa': 0.019724961800250036}
+ {'company': 'Alfresa Holdings', 'naturalId': 'fred/companies/F2K/2025/145', 'roa': 0.022439506172839505}
+ {'company': 'Medipal Holdings', 'naturalId': 'fred/companies/F2K/2025/2801', 'roa': 0.026223579522623164}
+ {'company': 'IHH Healthcare', 'naturalId': 'fred/companies/F2K/2025/101502', 'roa': 0.04574602174255554}]","[{'company': 'Sinopharm Group', 'naturalId': 'fred/companies/F2K/2025/6468', 'roa': 0.018200230406183803}
+ {'company': 'Jointown Pharmaceutical Group', 'naturalId': 'fred/companies/F2K/2025/101506', 'roa': 0.019724961800250036}
+ {'company': 'Alfresa Holdings', 'naturalId': 'fred/companies/F2K/2025/145', 'roa': 0.022439506172839505}
+ {'company': 'Medipal Holdings', 'naturalId': 'fred/companies/F2K/2025/2801', 'roa': 0.026223579522623164}
+ {'company': 'IHH Healthcare', 'naturalId': 'fred/companies/F2K/2025/101502', 'roa': 0.04574602174255554}]","[{'company': 'Alfresa Holdings', 'naturalId': 'fred/companies/F2K/2025/145', 'profit_margin': 0.011703497656209755}
+ {'company': 'Sinopharm Group', 'naturalId': 'fred/companies/F2K/2025/6468', 'profit_margin': 0.01206028294568871}
+ {'company': 'Medipal Holdings', 'naturalId': 'fred/companies/F2K/2025/2801', 'profit_margin': 0.01353941908713693}
+ {'company': 'Jointown Pharmaceutical Group', 'naturalId': 'fred/companies/F2K/2025/101506', 'profit_margin': 0.013757690258198904}
+ {'company': 'Fujifilm Holdings', 'naturalId': 'fred/companies/F2K/2025/1695', 'profit_margin': 0.08016053382331609}]","[{'company': 'Alfresa Holdings', 'marketValue': 2573.0, 'naturalId': 'fred/companies/F2K/2025/145'}
+ {'company': 'Jointown Pharmaceutical Group', 'marketValue': 3420.0, 'naturalId': 'fred/companies/F2K/2025/101506'}
+ {'company': 'Medipal Holdings', 'marketValue': 3450.0, 'naturalId': 'fred/companies/F2K/2025/2801'}
+ {'company': 'Sinopharm Group', 'marketValue': 7008.0, 'naturalId': 'fred/companies/F2K/2025/6468'}
+ {'company': 'Olympus', 'marketValue': 13761.0, 'naturalId': 'fred/companies/F2K/2025/3227'}]"
+Health Care Equipment & Services,Americas,28,1243557.0,55893.6,1545732.0,0.11674611462836118,0.06495667195536182,0.5428159603346505,"[{'company': 'Baxter International', 'naturalId': 'fred/companies/F2K/2025/536', 'roa': -0.02517260103948491}
+ {'company': 'Cencora', 'naturalId': 'fred/companies/F2K/2025/227', 'roa': 0.020218959075506127}
+ {'company': 'Cardinal Health', 'naturalId': 'fred/companies/F2K/2025/788', 'roa': 0.02784987872856474}
+ {'company': 'Becton Dickinson', 'naturalId': 'fred/companies/F2K/2025/567', 'roa': 0.0319765846519711}
+ {'company': 'Solventum', 'naturalId': 'fred/companies/F2K/2025/130478', 'roa': 0.03306356782181642}]","[{'company': 'Baxter International', 'naturalId': 'fred/companies/F2K/2025/536', 'roa': -0.02517260103948491}
+ {'company': 'Cencora', 'naturalId': 'fred/companies/F2K/2025/227', 'roa': 0.020218959075506127}
+ {'company': 'Cardinal Health', 'naturalId': 'fred/companies/F2K/2025/788', 'roa': 0.02784987872856474}
+ {'company': 'Becton Dickinson', 'naturalId': 'fred/companies/F2K/2025/567', 'roa': 0.0319765846519711}
+ {'company': 'Solventum', 'naturalId': 'fred/companies/F2K/2025/130478', 'roa': 0.03306356782181642}]","[{'company': 'Baxter International', 'naturalId': 'fred/companies/F2K/2025/536', 'profit_margin': -0.050482265090230245}
+ {'company': 'Cencora', 'naturalId': 'fred/companies/F2K/2025/227', 'profit_margin': 0.0046049875821671344}
+ {'company': 'Cardinal Health', 'naturalId': 'fred/companies/F2K/2025/788', 'profit_margin': 0.005887935803957377}
+ {'company': 'McKesson', 'naturalId': 'fred/companies/F2K/2025/2786', 'profit_margin': 0.00820121712330556}
+ {'company': 'Labcorp Holdings', 'naturalId': 'fred/companies/F2K/2025/2555', 'profit_margin': 0.05734491505880544}]","[{'company': 'DaVita', 'marketValue': 11165.0, 'naturalId': 'fred/companies/F2K/2025/1248'}
+ {'company': 'Universal Health Services', 'marketValue': 11194.0, 'naturalId': 'fred/companies/F2K/2025/4540'}
+ {'company': 'Solventum', 'marketValue': 11430.0, 'naturalId': 'fred/companies/F2K/2025/130478'}
+ {'company': 'Tenet Healthcare', 'marketValue': 11523.0, 'naturalId': 'fred/companies/F2K/2025/4285'}
+ {'company': ""Rede D'Oro Luiz"", 'marketValue': 12284.0, 'naturalId': 'fred/companies/F2K/2025/116608'}]"
+Health Care Equipment & Services,Europe,9,131667.0,9832.5,419571.0,0.10260290556900727,0.04672262190247802,0.8024005472256186,"[{'company': 'Philips', 'naturalId': 'fred/companies/F2K/2025/3667', 'roa': -0.02502225299179112}
+ {'company': 'Fresenius', 'naturalId': 'fred/companies/F2K/2025/80221', 'roa': 0.011298119567145645}
+ {'company': 'Alcon', 'naturalId': 'fred/companies/F2K/2025/108501', 'roa': 0.033512373545984776}
+ {'company': 'EssilorLuxottica', 'naturalId': 'fred/companies/F2K/2025/1500', 'roa': 0.038345480501915996}
+ {'company': 'Steris', 'naturalId': 'fred/companies/F2K/2025/4079', 'roa': 0.04672262190247802}]","[{'company': 'Philips', 'naturalId': 'fred/companies/F2K/2025/3667', 'roa': -0.02502225299179112}
+ {'company': 'Fresenius', 'naturalId': 'fred/companies/F2K/2025/80221', 'roa': 0.011298119567145645}
+ {'company': 'Alcon', 'naturalId': 'fred/companies/F2K/2025/108501', 'roa': 0.033512373545984776}
+ {'company': 'EssilorLuxottica', 'naturalId': 'fred/companies/F2K/2025/1500', 'roa': 0.038345480501915996}
+ {'company': 'Steris', 'naturalId': 'fred/companies/F2K/2025/4079', 'roa': 0.04672262190247802}]","[{'company': 'Philips', 'naturalId': 'fred/companies/F2K/2025/3667', 'profit_margin': -0.038937054327194374}
+ {'company': 'Fresenius', 'naturalId': 'fred/companies/F2K/2025/80221', 'profit_margin': 0.02125573633708803}
+ {'company': 'Steris', 'naturalId': 'fred/companies/F2K/2025/4079', 'profit_margin': 0.08662467580585402}
+ {'company': 'EssilorLuxottica', 'naturalId': 'fred/companies/F2K/2025/1500', 'profit_margin': 0.0889931294248945}
+ {'company': 'Alcon', 'naturalId': 'fred/companies/F2K/2025/108501', 'profit_margin': 0.10260290556900727}]","[{'company': 'Sonova Holding', 'marketValue': 18021.0, 'naturalId': 'fred/companies/F2K/2025/3392'}
+ {'company': 'Straumann Holding', 'marketValue': 19582.0, 'naturalId': 'fred/companies/F2K/2025/4096'}
+ {'company': 'Steris', 'marketValue': 22106.0, 'naturalId': 'fred/companies/F2K/2025/4079'}
+ {'company': 'Philips', 'marketValue': 23198.0, 'naturalId': 'fred/companies/F2K/2025/3667'}
+ {'company': 'Coloplast', 'marketValue': 24888.0, 'naturalId': 'fred/companies/F2K/2025/1041'}]"
+Health Care Equipment & Services,MEA/Other,1,2985.0,617.0,26609.0,0.2067001675041876,0.11277645768598063,1.0,"[{'company': 'Dr. Sulaiman Al-Habib Medical Services Group', 'naturalId': 'fred/companies/F2K/2025/116517', 'roa': 0.11277645768598063}]","[{'company': 'Dr. Sulaiman Al-Habib Medical Services Group', 'naturalId': 'fred/companies/F2K/2025/116517', 'roa': 0.11277645768598063}]","[{'company': 'Dr. Sulaiman Al-Habib Medical Services Group', 'naturalId': 'fred/companies/F2K/2025/116517', 'profit_margin': 0.2067001675041876}]","[{'company': 'Dr. Sulaiman Al-Habib Medical Services Group', 'marketValue': 26609.0, 'naturalId': 'fred/companies/F2K/2025/116517'}]"
+"Hotels, Restaurants & Leisure",APAC,4,25056.0,3546.8999999999996,71205.0,0.15373714293624657,0.10619640191710839,1.0,"[{'company': 'Yum China Holdings', 'naturalId': 'fred/companies/F2K/2025/104363', 'roa': 0.08191709378652999}
+ {'company': 'Galaxy Entertainment', 'naturalId': 'fred/companies/F2K/2025/1719', 'roa': 0.0922053388090349}
+ {'company': 'Aristocrat Leisure', 'naturalId': 'fred/companies/F2K/2025/308', 'roa': 0.12018746502518188}
+ {'company': 'Haidilao International Holding', 'naturalId': 'fred/companies/F2K/2025/108756', 'roa': 0.20961230374879847}]","[{'company': 'Yum China Holdings', 'naturalId': 'fred/companies/F2K/2025/104363', 'roa': 0.08191709378652999}
+ {'company': 'Galaxy Entertainment', 'naturalId': 'fred/companies/F2K/2025/1719', 'roa': 0.0922053388090349}
+ {'company': 'Aristocrat Leisure', 'naturalId': 'fred/companies/F2K/2025/308', 'roa': 0.12018746502518188}
+ {'company': 'Haidilao International Holding', 'naturalId': 'fred/companies/F2K/2025/108756', 'roa': 0.20961230374879847}]","[{'company': 'Yum China Holdings', 'naturalId': 'fred/companies/F2K/2025/104363', 'profit_margin': 0.08059807130850216}
+ {'company': 'Haidilao International Holding', 'naturalId': 'fred/companies/F2K/2025/108756', 'profit_margin': 0.11011614206362566}
+ {'company': 'Aristocrat Leisure', 'naturalId': 'fred/companies/F2K/2025/308', 'profit_margin': 0.19735814380886746}
+ {'company': 'Galaxy Entertainment', 'naturalId': 'fred/companies/F2K/2025/1719', 'profit_margin': 0.32454466608846483}]","[{'company': 'Haidilao International Holding', 'marketValue': 12580.0, 'naturalId': 'fred/companies/F2K/2025/108756'}
+ {'company': 'Galaxy Entertainment', 'marketValue': 15927.0, 'naturalId': 'fred/companies/F2K/2025/1719'}
+ {'company': 'Yum China Holdings', 'marketValue': 17085.0, 'naturalId': 'fred/companies/F2K/2025/104363'}
+ {'company': 'Aristocrat Leisure', 'marketValue': 25613.0, 'naturalId': 'fred/companies/F2K/2025/308'}]"
+"Hotels, Restaurants & Leisure",Americas,18,271599.0,30645.6,801689.0,0.10689818039007948,0.08076574876780968,0.641741373525145,"[{'company': 'Caesars Entertainment', 'naturalId': 'fred/companies/F2K/2025/15188', 'roa': -0.008530223995090519}
+ {'company': 'Flutter Entertainment', 'naturalId': 'fred/companies/F2K/2025/103674', 'roa': 0.001754529133344214}
+ {'company': 'MGM Resorts', 'naturalId': 'fred/companies/F2K/2025/2845', 'roa': 0.017609869293426787}
+ {'company': 'Aramark', 'naturalId': 'fred/companies/F2K/2025/12859', 'roa': 0.026725426930038564}
+ {'company': 'Restaurant Brands International', 'naturalId': 'fred/companies/F2K/2025/102896', 'roa': 0.04146232543033452}]","[{'company': 'Caesars Entertainment', 'naturalId': 'fred/companies/F2K/2025/15188', 'roa': -0.008530223995090519}
+ {'company': 'Flutter Entertainment', 'naturalId': 'fred/companies/F2K/2025/103674', 'roa': 0.001754529133344214}
+ {'company': 'MGM Resorts', 'naturalId': 'fred/companies/F2K/2025/2845', 'roa': 0.017609869293426787}
+ {'company': 'Aramark', 'naturalId': 'fred/companies/F2K/2025/12859', 'roa': 0.026725426930038564}
+ {'company': 'Restaurant Brands International', 'naturalId': 'fred/companies/F2K/2025/102896', 'roa': 0.04146232543033452}]","[{'company': 'Caesars Entertainment', 'naturalId': 'fred/companies/F2K/2025/15188', 'profit_margin': -0.024722098710538015}
+ {'company': 'Flutter Entertainment', 'naturalId': 'fred/companies/F2K/2025/103674', 'profit_margin': 0.0030609339407744874}
+ {'company': 'Aramark', 'naturalId': 'fred/companies/F2K/2025/12859', 'profit_margin': 0.019355941863778856}
+ {'company': 'MGM Resorts', 'naturalId': 'fred/companies/F2K/2025/2845', 'profit_margin': 0.04313554898207761}
+ {'company': 'Carnival Corporation', 'naturalId': 'fred/companies/F2K/2025/799', 'profit_margin': 0.0807079646017699}]","[{'company': 'Caesars Entertainment', 'marketValue': 6030.0, 'naturalId': 'fred/companies/F2K/2025/15188'}
+ {'company': 'Norwegian Cruise Line Holdings ', 'marketValue': 7638.0, 'naturalId': 'fred/companies/F2K/2025/100130'}
+ {'company': 'Aramark', 'marketValue': 8730.0, 'naturalId': 'fred/companies/F2K/2025/12859'}
+ {'company': 'MGM Resorts', 'marketValue': 8961.0, 'naturalId': 'fred/companies/F2K/2025/2845'}
+ {'company': 'Hyatt Hotels', 'marketValue': 10763.0, 'naturalId': 'fred/companies/F2K/2025/6381'}]"
+"Hotels, Restaurants & Leisure",Europe,4,78949.0,3384.3,92498.0,0.06804222568723417,0.0538145696804213,1.0,"[{'company': 'Sodexo', 'naturalId': 'fred/companies/F2K/2025/3994', 'roa': 0.04551724137931035}
+ {'company': 'Accor', 'naturalId': 'fred/companies/F2K/2025/22', 'roa': 0.04981978374048859}
+ {'company': 'Compass Group', 'naturalId': 'fred/companies/F2K/2025/1070', 'roa': 0.05780935562035402}
+ {'company': 'InterContinental Hotels', 'naturalId': 'fred/companies/F2K/2025/2209', 'roa': 0.13241364785172705}]","[{'company': 'Sodexo', 'naturalId': 'fred/companies/F2K/2025/3994', 'roa': 0.04551724137931035}
+ {'company': 'Accor', 'naturalId': 'fred/companies/F2K/2025/22', 'roa': 0.04981978374048859}
+ {'company': 'Compass Group', 'naturalId': 'fred/companies/F2K/2025/1070', 'roa': 0.05780935562035402}
+ {'company': 'InterContinental Hotels', 'naturalId': 'fred/companies/F2K/2025/2209', 'roa': 0.13241364785172705}]","[{'company': 'Sodexo', 'naturalId': 'fred/companies/F2K/2025/3994', 'profit_margin': 0.027965024459766574}
+ {'company': 'Compass Group', 'naturalId': 'fred/companies/F2K/2025/1070', 'profit_margin': 0.033511892007713734}
+ {'company': 'Accor', 'naturalId': 'fred/companies/F2K/2025/22', 'profit_margin': 0.10257255936675462}
+ {'company': 'InterContinental Hotels', 'naturalId': 'fred/companies/F2K/2025/2209', 'profit_margin': 0.12775858565332252}]","[{'company': 'Sodexo', 'marketValue': 9217.0, 'naturalId': 'fred/companies/F2K/2025/3994'}
+ {'company': 'Accor', 'marketValue': 11549.0, 'naturalId': 'fred/companies/F2K/2025/22'}
+ {'company': 'InterContinental Hotels', 'marketValue': 16192.0, 'naturalId': 'fred/companies/F2K/2025/2209'}
+ {'company': 'Compass Group', 'marketValue': 55540.0, 'naturalId': 'fred/companies/F2K/2025/1070'}]"
+"Hotels, Restaurants & Leisure",MEA/Other,1,12549.0,433.3,8380.0,0.034528647701012036,0.07513438529564766,1.0,"[{'company': 'Bid ', 'naturalId': 'fred/companies/F2K/2025/105189', 'roa': 0.07513438529564766}]","[{'company': 'Bid ', 'naturalId': 'fred/companies/F2K/2025/105189', 'roa': 0.07513438529564766}]","[{'company': 'Bid ', 'naturalId': 'fred/companies/F2K/2025/105189', 'profit_margin': 0.034528647701012036}]","[{'company': 'Bid ', 'marketValue': 8380.0, 'naturalId': 'fred/companies/F2K/2025/105189'}]"
+Household & Personal Products,APAC,6,65394.0,4657.8,92027.0,0.07446706311257409,0.06417176395111258,0.9700196681408717,"[{'company': 'Hengyi Petrochemical ', 'naturalId': 'fred/companies/F2K/2025/90826', 'roa': 0.002206231756160478}
+ {'company': 'Toray Industries', 'naturalId': 'fred/companies/F2K/2025/4392', 'roa': 0.015218366065823693}
+ {'company': 'Kao ', 'naturalId': 'fred/companies/F2K/2025/2400', 'roa': 0.05987711472098308}
+ {'company': 'Unicharm', 'naturalId': 'fred/companies/F2K/2025/4490', 'roa': 0.06846641318124208}
+ {'company': 'Shenzhou International Group Holdings', 'naturalId': 'fred/companies/F2K/2025/101547', 'roa': 0.11918636613523916}]","[{'company': 'Hengyi Petrochemical ', 'naturalId': 'fred/companies/F2K/2025/90826', 'roa': 0.002206231756160478}
+ {'company': 'Toray Industries', 'naturalId': 'fred/companies/F2K/2025/4392', 'roa': 0.015218366065823693}
+ {'company': 'Kao ', 'naturalId': 'fred/companies/F2K/2025/2400', 'roa': 0.05987711472098308}
+ {'company': 'Unicharm', 'naturalId': 'fred/companies/F2K/2025/4490', 'roa': 0.06846641318124208}
+ {'company': 'Shenzhou International Group Holdings', 'naturalId': 'fred/companies/F2K/2025/101547', 'roa': 0.11918636613523916}]","[{'company': 'Hengyi Petrochemical ', 'naturalId': 'fred/companies/F2K/2025/90826', 'profit_margin': 0.001867816091954023}
+ {'company': 'Toray Industries', 'naturalId': 'fred/companies/F2K/2025/4392', 'profit_margin': 0.020092351408950982}
+ {'company': 'Kao ', 'naturalId': 'fred/companies/F2K/2025/2400', 'profit_margin': 0.06618290073495209}
+ {'company': 'Unicharm', 'naturalId': 'fred/companies/F2K/2025/4490', 'profit_margin': 0.08275122549019609}
+ {'company': 'Shenzhou International Group Holdings', 'naturalId': 'fred/companies/F2K/2025/101547', 'profit_margin': 0.21772533266382124}]","[{'company': 'Hengyi Petrochemical ', 'marketValue': 2759.0, 'naturalId': 'fred/companies/F2K/2025/90826'}
+ {'company': 'Shenzhou International Group Holdings', 'marketValue': 10252.0, 'naturalId': 'fred/companies/F2K/2025/101547'}
+ {'company': 'Toray Industries', 'marketValue': 10300.0, 'naturalId': 'fred/companies/F2K/2025/4392'}
+ {'company': 'Unicharm', 'marketValue': 16091.0, 'naturalId': 'fred/companies/F2K/2025/4490'}
+ {'company': 'Kao ', 'marketValue': 19563.0, 'naturalId': 'fred/companies/F2K/2025/2400'}]"
+Household & Personal Products,Americas,12,246968.0,30835.0,759108.0,0.09861106667310657,0.10939353396449555,0.825445127702514,"[{'company': 'The Estée Lauder Companies', 'naturalId': 'fred/companies/F2K/2025/1502', 'roa': -0.0354251012145749}
+ {'company': 'Kenvue', 'naturalId': 'fred/companies/F2K/2025/125191', 'roa': 0.04023280340611695}
+ {'company': 'Church & Dwight', 'naturalId': 'fred/companies/F2K/2025/960', 'roa': 0.06588990206011482}
+ {'company': 'Skechers USA', 'naturalId': 'fred/companies/F2K/2025/98246', 'roa': 0.07341113935752253}
+ {'company': 'Clorox', 'naturalId': 'fred/companies/F2K/2025/1004', 'roa': 0.0819436973283127}]","[{'company': 'The Estée Lauder Companies', 'naturalId': 'fred/companies/F2K/2025/1502', 'roa': -0.0354251012145749}
+ {'company': 'Kenvue', 'naturalId': 'fred/companies/F2K/2025/125191', 'roa': 0.04023280340611695}
+ {'company': 'Church & Dwight', 'naturalId': 'fred/companies/F2K/2025/960', 'roa': 0.06588990206011482}
+ {'company': 'Skechers USA', 'naturalId': 'fred/companies/F2K/2025/98246', 'roa': 0.07341113935752253}
+ {'company': 'Clorox', 'naturalId': 'fred/companies/F2K/2025/1004', 'roa': 0.0819436973283127}]","[{'company': 'The Estée Lauder Companies', 'naturalId': 'fred/companies/F2K/2025/1502', 'profit_margin': -0.04628711234543411}
+ {'company': 'Clorox', 'naturalId': 'fred/companies/F2K/2025/1004', 'profit_margin': 0.06378227494766224}
+ {'company': 'Kenvue', 'naturalId': 'fred/companies/F2K/2025/125191', 'profit_margin': 0.0666407867494824}
+ {'company': 'Skechers USA', 'naturalId': 'fred/companies/F2K/2025/98246', 'profit_margin': 0.06959141198378792}
+ {'company': 'Nike', 'naturalId': 'fred/companies/F2K/2025/3083', 'profit_margin': 0.09410291201335977}]","[{'company': 'Skechers USA', 'marketValue': 7192.0, 'naturalId': 'fred/companies/F2K/2025/98246'}
+ {'company': 'Ralph Lauren', 'marketValue': 13586.0, 'naturalId': 'fred/companies/F2K/2025/3425'}
+ {'company': 'Deckers Outdoor', 'marketValue': 16572.0, 'naturalId': 'fred/companies/F2K/2025/8402'}
+ {'company': 'Clorox', 'marketValue': 17033.0, 'naturalId': 'fred/companies/F2K/2025/1004'}
+ {'company': 'The Estée Lauder Companies', 'marketValue': 21363.0, 'naturalId': 'fred/companies/F2K/2025/1502'}]"
+Household & Personal Products,Europe,12,340049.0,41528.7,1175611.0,0.09770850742876776,0.0740685913755646,0.8456445201686612,"[{'company': 'Kering', 'naturalId': 'fred/companies/F2K/2025/3448', 'roa': 0.027305335858304552}
+ {'company': 'Adidas', 'naturalId': 'fred/companies/F2K/2025/50', 'roa': 0.038587058163456145}
+ {'company': 'Reckitt Benckiser Group', 'naturalId': 'fred/companies/F2K/2025/3565', 'roa': 0.05751349304043178}
+ {'company': 'Henkel', 'naturalId': 'fred/companies/F2K/2025/1971', 'roa': 0.05775820784334593}
+ {'company': 'Essity', 'naturalId': 'fred/companies/F2K/2025/106918', 'roa': 0.06932598111104593}]","[{'company': 'Kering', 'naturalId': 'fred/companies/F2K/2025/3448', 'roa': 0.027305335858304552}
+ {'company': 'Adidas', 'naturalId': 'fred/companies/F2K/2025/50', 'roa': 0.038587058163456145}
+ {'company': 'Reckitt Benckiser Group', 'naturalId': 'fred/companies/F2K/2025/3565', 'roa': 0.05751349304043178}
+ {'company': 'Henkel', 'naturalId': 'fred/companies/F2K/2025/1971', 'roa': 0.05775820784334593}
+ {'company': 'Essity', 'naturalId': 'fred/companies/F2K/2025/106918', 'roa': 0.06932598111104593}]","[{'company': 'Adidas', 'naturalId': 'fred/companies/F2K/2025/50', 'profit_margin': 0.0322156296354126}
+ {'company': 'Kering', 'naturalId': 'fred/companies/F2K/2025/3448', 'profit_margin': 0.06589601591483413}
+ {'company': 'Essity', 'naturalId': 'fred/companies/F2K/2025/106918', 'profit_margin': 0.08632578524470416}
+ {'company': 'Beiersdorf', 'naturalId': 'fred/companies/F2K/2025/569', 'profit_margin': 0.09258564054434537}
+ {'company': 'Henkel', 'naturalId': 'fred/companies/F2K/2025/1971', 'profit_margin': 0.09297614458863335}]","[{'company': 'Prada', 'marketValue': 16230.0, 'naturalId': 'fred/companies/F2K/2025/90881'}
+ {'company': 'Moncler SpA', 'marketValue': 16846.0, 'naturalId': 'fred/companies/F2K/2025/105122'}
+ {'company': 'Essity', 'marketValue': 19071.0, 'naturalId': 'fred/companies/F2K/2025/106918'}
+ {'company': 'Kering', 'marketValue': 24322.0, 'naturalId': 'fred/companies/F2K/2025/3448'}
+ {'company': 'Beiersdorf', 'marketValue': 30413.0, 'naturalId': 'fred/companies/F2K/2025/569'}]"
+IT Software & Services,APAC,21,338141.0,61592.6,1403675.0,0.17910845821691643,0.10321551953228807,0.6740983489767931,"[{'company': 'DiDi Global', 'naturalId': 'fred/companies/F2K/2025/118424', 'roa': 0.008853139070167451}
+ {'company': 'East Money Information  ', 'naturalId': 'fred/companies/F2K/2025/102760', 'roa': 0.031432946838766136}
+ {'company': 'NEC', 'naturalId': 'fred/companies/F2K/2025/3022', 'roa': 0.04596768188249311}
+ {'company': 'Naver', 'naturalId': 'fred/companies/F2K/2025/3071', 'roa': 0.054395032205808616}
+ {'company': 'Baidu', 'naturalId': 'fred/companies/F2K/2025/5492', 'roa': 0.05496365559840289}]","[{'company': 'DiDi Global', 'naturalId': 'fred/companies/F2K/2025/118424', 'roa': 0.008853139070167451}
+ {'company': 'East Money Information  ', 'naturalId': 'fred/companies/F2K/2025/102760', 'roa': 0.031432946838766136}
+ {'company': 'NEC', 'naturalId': 'fred/companies/F2K/2025/3022', 'roa': 0.04596768188249311}
+ {'company': 'Naver', 'naturalId': 'fred/companies/F2K/2025/3071', 'roa': 0.054395032205808616}
+ {'company': 'Baidu', 'naturalId': 'fred/companies/F2K/2025/5492', 'roa': 0.05496365559840289}]","[{'company': 'DiDi Global', 'naturalId': 'fred/companies/F2K/2025/118424', 'profit_margin': 0.0060901339829476245}
+ {'company': 'NEC', 'naturalId': 'fred/companies/F2K/2025/3022', 'profit_margin': 0.05491748587696276}
+ {'company': 'Fujitsu', 'naturalId': 'fred/companies/F2K/2025/1699', 'profit_margin': 0.06191437282604028}
+ {'company': 'Tech Mahindra', 'naturalId': 'fred/companies/F2K/2025/102037', 'profit_margin': 0.08024573161002074}
+ {'company': 'Recruit Holdings ', 'naturalId': 'fred/companies/F2K/2025/102731', 'profit_margin': 0.1061633281972265}]","[{'company': 'Krafton', 'marketValue': 11802.0, 'naturalId': 'fred/companies/F2K/2025/118475'}
+ {'company': 'NEXON', 'marketValue': 12543.0, 'naturalId': 'fred/companies/F2K/2025/90864'}
+ {'company': 'Computershare', 'marketValue': 14672.0, 'naturalId': 'fred/companies/F2K/2025/1074'}
+ {'company': 'Tech Mahindra', 'marketValue': 16746.0, 'naturalId': 'fred/companies/F2K/2025/102037'}
+ {'company': 'Konami', 'marketValue': 18157.0, 'naturalId': 'fred/companies/F2K/2025/2498'}]"
+IT Software & Services,Americas,61,1465944.0,360853.6,10976139.0,0.16127006280530357,0.07342962256438207,0.6491954957931928,"[{'company': 'Take-Two Interactive Software', 'naturalId': 'fred/companies/F2K/2025/4207', 'roa': -0.28830441640378546}
+ {'company': 'Reddit', 'naturalId': 'fred/companies/F2K/2025/130464', 'roa': -0.20723149336756527}
+ {'company': 'Snowflake', 'naturalId': 'fred/companies/F2K/2025/105469', 'roa': -0.14230684082355544}
+ {'company': 'Roblox', 'naturalId': 'fred/companies/F2K/2025/116609', 'roa': -0.13036933797909409}
+ {'company': 'Samsara', 'naturalId': 'fred/companies/F2K/2025/110400', 'roa': -0.07653162055335969}]","[{'company': 'Take-Two Interactive Software', 'naturalId': 'fred/companies/F2K/2025/4207', 'roa': -0.28830441640378546}
+ {'company': 'Reddit', 'naturalId': 'fred/companies/F2K/2025/130464', 'roa': -0.20723149336756527}
+ {'company': 'Snowflake', 'naturalId': 'fred/companies/F2K/2025/105469', 'roa': -0.14230684082355544}
+ {'company': 'Roblox', 'naturalId': 'fred/companies/F2K/2025/116609', 'roa': -0.13036933797909409}
+ {'company': 'Samsara', 'naturalId': 'fred/companies/F2K/2025/110400', 'roa': -0.07653162055335969}]","[{'company': 'MicroStrategy', 'naturalId': 'fred/companies/F2K/2025/2856', 'profit_margin': -2.5198704103671705}
+ {'company': 'Take-Two Interactive Software', 'naturalId': 'fred/companies/F2K/2025/4207', 'profit_margin': -0.6707706422018348}
+ {'company': 'CoreWeave', 'naturalId': 'fred/companies/F2K/2025/129654', 'profit_margin': -0.4508616187989556}
+ {'company': 'Reddit', 'naturalId': 'fred/companies/F2K/2025/130464', 'profit_margin': -0.37253846153846154}
+ {'company': 'Snowflake', 'naturalId': 'fred/companies/F2K/2025/105469', 'profit_margin': -0.3545504688361831}]","[{'company': 'Ingram Micro Holding', 'marketValue': 4140.0, 'naturalId': 'fred/companies/F2K/2025/134606'}
+ {'company': 'Trimble', 'marketValue': 15168.0, 'naturalId': 'fred/companies/F2K/2025/6494'}
+ {'company': 'Gen Digital', 'marketValue': 15568.0, 'naturalId': 'fred/companies/F2K/2025/111724'}
+ {'company': 'F5', 'marketValue': 15568.0, 'naturalId': 'fred/companies/F2K/2025/6349'}
+ {'company': 'DocuSign', 'marketValue': 16769.0, 'naturalId': 'fred/companies/F2K/2025/105390'}]"
+IT Software & Services,Europe,9,186101.0,20764.1,847805.0,0.11430207821960399,0.0761332769964387,0.8981558259269525,"[{'company': 'Delivery Hero', 'naturalId': 'fred/companies/F2K/2025/106805', 'roa': -0.07228870039382006}
+ {'company': 'London Stock Exchange', 'naturalId': 'fred/companies/F2K/2025/2656', 'roa': 0.0009537112803353298}
+ {'company': 'Capgemini', 'naturalId': 'fred/companies/F2K/2025/779', 'roa': 0.06802529073049565}
+ {'company': 'SAP', 'naturalId': 'fred/companies/F2K/2025/3756', 'roa': 0.07532499326755944}
+ {'company': 'Dassault Systemes', 'naturalId': 'fred/companies/F2K/2025/1244', 'roa': 0.0761332769964387}]","[{'company': 'Delivery Hero', 'naturalId': 'fred/companies/F2K/2025/106805', 'roa': -0.07228870039382006}
+ {'company': 'London Stock Exchange', 'naturalId': 'fred/companies/F2K/2025/2656', 'roa': 0.0009537112803353298}
+ {'company': 'Capgemini', 'naturalId': 'fred/companies/F2K/2025/779', 'roa': 0.06802529073049565}
+ {'company': 'SAP', 'naturalId': 'fred/companies/F2K/2025/3756', 'roa': 0.07532499326755944}
+ {'company': 'Dassault Systemes', 'naturalId': 'fred/companies/F2K/2025/1244', 'roa': 0.0761332769964387}]","[{'company': 'Delivery Hero', 'naturalId': 'fred/companies/F2K/2025/106805', 'profit_margin': -0.07177231370779757}
+ {'company': 'Spotify Technology', 'naturalId': 'fred/companies/F2K/2025/106894', 'profit_margin': 0.07255029201817002}
+ {'company': 'Capgemini', 'naturalId': 'fred/companies/F2K/2025/779', 'profit_margin': 0.07562445085979666}
+ {'company': 'London Stock Exchange', 'naturalId': 'fred/companies/F2K/2025/2656', 'profit_margin': 0.07698328935795953}
+ {'company': 'Accenture', 'naturalId': 'fred/companies/F2K/2025/19', 'profit_margin': 0.11430207821960399}]","[{'company': 'Delivery Hero', 'marketValue': 8873.0, 'naturalId': 'fred/companies/F2K/2025/106805'}
+ {'company': 'Evolution Gaming Group AB', 'marketValue': 17607.0, 'naturalId': 'fred/companies/F2K/2025/111611'}
+ {'company': 'Capgemini', 'marketValue': 25127.0, 'naturalId': 'fred/companies/F2K/2025/779'}
+ {'company': 'Amadeus IT Group ', 'marketValue': 34737.0, 'naturalId': 'fred/companies/F2K/2025/80140'}
+ {'company': 'Dassault Systemes', 'marketValue': 48608.0, 'naturalId': 'fred/companies/F2K/2025/1244'}]"
+IT Software & Services,MEA/Other,3,11446.0,4650.900000000001,86447.0,0.327457757296467,0.1534184958618208,1.0,"[{'company': 'Naspers', 'naturalId': 'fred/companies/F2K/2025/2990', 'roa': 0.04749903174443791}
+ {'company': 'Check Point Software', 'naturalId': 'fred/companies/F2K/2025/881', 'roa': 0.1534184958618208}
+ {'company': 'ELM', 'naturalId': 'fred/companies/F2K/2025/125163', 'roa': 0.19146677152968933}]","[{'company': 'Naspers', 'naturalId': 'fred/companies/F2K/2025/2990', 'roa': 0.04749903174443791}
+ {'company': 'Check Point Software', 'naturalId': 'fred/companies/F2K/2025/881', 'roa': 0.1534184958618208}
+ {'company': 'ELM', 'naturalId': 'fred/companies/F2K/2025/125163', 'roa': 0.19146677152968933}]","[{'company': 'ELM', 'naturalId': 'fred/companies/F2K/2025/125163', 'profit_margin': 0.24665653495440729}
+ {'company': 'Check Point Software', 'naturalId': 'fred/companies/F2K/2025/881', 'profit_margin': 0.327457757296467}
+ {'company': 'Naspers', 'naturalId': 'fred/companies/F2K/2025/2990', 'profit_margin': 0.4821345369831101}]","[{'company': 'ELM', 'marketValue': 21217.0, 'naturalId': 'fred/companies/F2K/2025/125163'}
+ {'company': 'Check Point Software', 'marketValue': 22384.0, 'naturalId': 'fred/companies/F2K/2025/881'}
+ {'company': 'Naspers', 'marketValue': 42846.0, 'naturalId': 'fred/companies/F2K/2025/2990'}]"
+Insurance,APAC,31,1048371.0,101558.9,767761.0,0.0895634576467187,0.014283324737597749,0.476140361388505,"[{'company': 'Fosun International', 'naturalId': 'fred/companies/F2K/2025/5669', 'roa': -0.00554135166093929}
+ {'company': 'Mercuries & Associates', 'naturalId': 'fred/companies/F2K/2025/2821', 'roa': 0.0009342464668857133}
+ {'company': 'Japan Post Holdings', 'naturalId': 'fred/companies/F2K/2025/103734', 'roa': 0.001050614773561724}
+ {'company': 'Shin Kong Financial', 'naturalId': 'fred/companies/F2K/2025/3877', 'roa': 0.004045561164652491}
+ {'company': 'China Taiping Insurance', 'naturalId': 'fred/companies/F2K/2025/5608', 'roa': 0.004266154280262822}]","[{'company': 'Fosun International', 'naturalId': 'fred/companies/F2K/2025/5669', 'roa': -0.00554135166093929}
+ {'company': 'Mercuries & Associates', 'naturalId': 'fred/companies/F2K/2025/2821', 'roa': 0.0009342464668857133}
+ {'company': 'Japan Post Holdings', 'naturalId': 'fred/companies/F2K/2025/103734', 'roa': 0.001050614773561724}
+ {'company': 'Shin Kong Financial', 'naturalId': 'fred/companies/F2K/2025/3877', 'roa': 0.004045561164652491}
+ {'company': 'China Taiping Insurance', 'naturalId': 'fred/companies/F2K/2025/5608', 'roa': 0.004266154280262822}]","[{'company': 'Fosun International', 'naturalId': 'fred/companies/F2K/2025/5669', 'profit_margin': -0.022649636676904637}
+ {'company': 'Mercuries & Associates', 'naturalId': 'fred/companies/F2K/2025/2821', 'profit_margin': 0.013195415152362316}
+ {'company': 'Japan Post Holdings', 'naturalId': 'fred/companies/F2K/2025/103734', 'profit_margin': 0.02673892701185278}
+ {'company': 'China Taiping Insurance', 'naturalId': 'fred/companies/F2K/2025/5608', 'profit_margin': 0.046381963381379045}
+ {'company': 'Life Insurance Corp. of India', 'naturalId': 'fred/companies/F2K/2025/125195', 'profit_margin': 0.04801380725813976}]","[{'company': 'Mercuries & Associates', 'marketValue': 444.0, 'naturalId': 'fred/companies/F2K/2025/2821'}
+ {'company': 'Hyundai Marine & Fire', 'marketValue': 1135.0, 'naturalId': 'fred/companies/F2K/2025/2104'}
+ {'company': 'Db Insurance', 'marketValue': 3652.0, 'naturalId': 'fred/companies/F2K/2025/1329'}
+ {'company': 'Fosun International', 'marketValue': 4225.0, 'naturalId': 'fred/companies/F2K/2025/5669'}
+ {'company': 'China Reinsurance Group', 'marketValue': 4819.0, 'naturalId': 'fred/companies/F2K/2025/103718'}]"
+Insurance,Americas,44,2030448.0,206471.3,2855541.0,0.10006669402043893,0.034096789368079916,0.6593142945592446,"[{'company': 'Brighthouse Financial', 'naturalId': 'fred/companies/F2K/2025/106687', 'roa': 0.0016216125850510724}
+ {'company': 'Jackson Financial', 'naturalId': 'fred/companies/F2K/2025/118469', 'roa': 0.002958330075834571}
+ {'company': 'Power Corp of Canada', 'naturalId': 'fred/companies/F2K/2025/3442', 'roa': 0.0033922785584209795}
+ {'company': 'Prudential Financial', 'naturalId': 'fred/companies/F2K/2025/3491', 'roa': 0.0037072433308364613}
+ {'company': 'Genworth Financial', 'naturalId': 'fred/companies/F2K/2025/1766', 'roa': 0.004293077950234756}]","[{'company': 'Brighthouse Financial', 'naturalId': 'fred/companies/F2K/2025/106687', 'roa': 0.0016216125850510724}
+ {'company': 'Jackson Financial', 'naturalId': 'fred/companies/F2K/2025/118469', 'roa': 0.002958330075834571}
+ {'company': 'Power Corp of Canada', 'naturalId': 'fred/companies/F2K/2025/3442', 'roa': 0.0033922785584209795}
+ {'company': 'Prudential Financial', 'naturalId': 'fred/companies/F2K/2025/3491', 'roa': 0.0037072433308364613}
+ {'company': 'Genworth Financial', 'naturalId': 'fred/companies/F2K/2025/1766', 'roa': 0.004293077950234756}]","[{'company': 'Humana', 'naturalId': 'fred/companies/F2K/2025/2075', 'profit_margin': 0.01024957328827031}
+ {'company': 'Cigna', 'naturalId': 'fred/companies/F2K/2025/967', 'profit_margin': 0.014051656409584916}
+ {'company': 'Reinsurance Group of America', 'naturalId': 'fred/companies/F2K/2025/3577', 'profit_margin': 0.03235267575128598}
+ {'company': 'Prudential Financial', 'naturalId': 'fred/companies/F2K/2025/3491', 'profit_margin': 0.03873304452808749}
+ {'company': 'Genworth Financial', 'naturalId': 'fred/companies/F2K/2025/1766', 'profit_margin': 0.041788958770090846}]","[{'company': 'Genworth Financial', 'marketValue': 2799.0, 'naturalId': 'fred/companies/F2K/2025/1766'}
+ {'company': 'Brighthouse Financial', 'marketValue': 3174.0, 'naturalId': 'fred/companies/F2K/2025/106687'}
+ {'company': 'E-L Financial', 'marketValue': 3239.0, 'naturalId': 'fred/companies/F2K/2025/1372'}
+ {'company': 'Grupo De Inversiones Suramericana', 'marketValue': 3956.0, 'naturalId': 'fred/companies/F2K/2025/106931'}
+ {'company': 'Lincoln National', 'marketValue': 5416.0, 'naturalId': 'fred/companies/F2K/2025/2628'}]"
+Insurance,Europe,36,1228922.0,79273.5,1198702.0,0.06339879062606113,0.010815097172518766,0.46845587977662506,"[{'company': 'Phoenix Group Holdings', 'naturalId': 'fred/companies/F2K/2025/90876', 'roa': -0.0037086316007884637}
+ {'company': 'WTW', 'naturalId': 'fred/companies/F2K/2025/103713', 'roa': -0.0018885404789053591}
+ {'company': 'Scor', 'naturalId': 'fred/companies/F2K/2025/3790', 'roa': 0.00011118580958783678}
+ {'company': 'Legal & General Group', 'naturalId': 'fred/companies/F2K/2025/2587', 'roa': 0.00031870171602972787}
+ {'company': 'Wuestenrot & Wuerttembergische', 'naturalId': 'fred/companies/F2K/2025/4640', 'roa': 0.0004810143127900137}]","[{'company': 'Phoenix Group Holdings', 'naturalId': 'fred/companies/F2K/2025/90876', 'roa': -0.0037086316007884637}
+ {'company': 'WTW', 'naturalId': 'fred/companies/F2K/2025/103713', 'roa': -0.0018885404789053591}
+ {'company': 'Scor', 'naturalId': 'fred/companies/F2K/2025/3790', 'roa': 0.00011118580958783678}
+ {'company': 'Legal & General Group', 'naturalId': 'fred/companies/F2K/2025/2587', 'roa': 0.00031870171602972787}
+ {'company': 'Wuestenrot & Wuerttembergische', 'naturalId': 'fred/companies/F2K/2025/4640', 'roa': 0.0004810143127900137}]","[{'company': 'Phoenix Group Holdings', 'naturalId': 'fred/companies/F2K/2025/90876', 'profit_margin': -0.044729104104104106}
+ {'company': 'WTW', 'naturalId': 'fred/companies/F2K/2025/103713', 'profit_margin': -0.005401549123522218}
+ {'company': 'Scor', 'naturalId': 'fred/companies/F2K/2025/3790', 'profit_margin': 0.00023423030831245232}
+ {'company': 'Legal & General Group', 'naturalId': 'fred/companies/F2K/2025/2587', 'profit_margin': 0.004770376227185873}
+ {'company': 'Wuestenrot & Wuerttembergische', 'naturalId': 'fred/companies/F2K/2025/4640', 'profit_margin': 0.004997284084736556}]","[{'company': 'Wuestenrot & Wuerttembergische', 'marketValue': 1480.0, 'naturalId': 'fred/companies/F2K/2025/4640'}
+ {'company': 'Just Group', 'marketValue': 1869.0, 'naturalId': 'fred/companies/F2K/2025/102143'}
+ {'company': 'Uniqa', 'marketValue': 3539.0, 'naturalId': 'fred/companies/F2K/2025/4508'}
+ {'company': 'Scor', 'marketValue': 5473.0, 'naturalId': 'fred/companies/F2K/2025/3790'}
+ {'company': 'Grupo Catalana Occidente', 'marketValue': 6575.0, 'naturalId': 'fred/companies/F2K/2025/1857'}]"
+Insurance,MEA/Other,8,68914.0,3667.0,47948.0,0.033542612875207746,0.006597216102660577,0.8632685409193293,"[{'company': 'Migdal Insurance', 'naturalId': 'fred/companies/F2K/2025/2859', 'roa': 0.002746113989637306}
+ {'company': 'Clal Insurance Enterprises ', 'naturalId': 'fred/companies/F2K/2025/996', 'roa': 0.004251402524544179}
+ {'company': 'Harel Insurance Investments & Financial Services', 'naturalId': 'fred/companies/F2K/2025/1923', 'roa': 0.0060754438924674956}
+ {'company': 'Old Mutual', 'naturalId': 'fred/companies/F2K/2025/3222', 'roa': 0.006389869086354124}
+ {'company': 'Momentum Metropolitan Holdings', 'naturalId': 'fred/companies/F2K/2025/2839', 'roa': 0.006804563118967029}]","[{'company': 'Migdal Insurance', 'naturalId': 'fred/companies/F2K/2025/2859', 'roa': 0.002746113989637306}
+ {'company': 'Clal Insurance Enterprises ', 'naturalId': 'fred/companies/F2K/2025/996', 'roa': 0.004251402524544179}
+ {'company': 'Harel Insurance Investments & Financial Services', 'naturalId': 'fred/companies/F2K/2025/1923', 'roa': 0.0060754438924674956}
+ {'company': 'Old Mutual', 'naturalId': 'fred/companies/F2K/2025/3222', 'roa': 0.006389869086354124}
+ {'company': 'Momentum Metropolitan Holdings', 'naturalId': 'fred/companies/F2K/2025/2839', 'roa': 0.006804563118967029}]","[{'company': 'Migdal Insurance', 'naturalId': 'fred/companies/F2K/2025/2859', 'profit_margin': 0.01803116769095698}
+ {'company': 'Clal Insurance Enterprises ', 'naturalId': 'fred/companies/F2K/2025/996', 'profit_margin': 0.027945836934600978}
+ {'company': 'Old Mutual', 'naturalId': 'fred/companies/F2K/2025/3222', 'profit_margin': 0.03155552202776101}
+ {'company': 'Momentum Metropolitan Holdings', 'naturalId': 'fred/companies/F2K/2025/2839', 'profit_margin': 0.03224809885931559}
+ {'company': 'Harel Insurance Investments & Financial Services', 'naturalId': 'fred/companies/F2K/2025/1923', 'profit_margin': 0.034837126891099905}]","[{'company': 'Migdal Insurance', 'marketValue': 2002.0, 'naturalId': 'fred/companies/F2K/2025/2859'}
+ {'company': 'Clal Insurance Enterprises ', 'marketValue': 2217.0, 'naturalId': 'fred/companies/F2K/2025/996'}
+ {'company': 'Momentum Metropolitan Holdings', 'marketValue': 2337.0, 'naturalId': 'fred/companies/F2K/2025/2839'}
+ {'company': 'Old Mutual', 'marketValue': 2538.0, 'naturalId': 'fred/companies/F2K/2025/3222'}
+ {'company': 'Harel Insurance Investments & Financial Services', 'marketValue': 3416.0, 'naturalId': 'fred/companies/F2K/2025/1923'}]"
+Materials,APAC,38,868154.0,63155.7,713394.0,0.04706905208511672,0.03668125955421657,0.4638769039268623,"[{'company': 'Hyundai Steel', 'naturalId': 'fred/companies/F2K/2025/2109', 'roa': -0.0029659760179653405}
+ {'company': 'Inner Mongolia Baotou Steel', 'naturalId': 'fred/companies/F2K/2025/5510', 'roa': 0.0017316017316017314}
+ {'company': 'HBIS', 'naturalId': 'fred/companies/F2K/2025/4218', 'roa': 0.002870495764624658}
+ {'company': 'China Steel', 'naturalId': 'fred/companies/F2K/2025/932', 'roa': 0.002905523324371492}
+ {'company': 'Beijing Shougang', 'naturalId': 'fred/companies/F2K/2025/90777', 'roa': 0.006280964439061984}]","[{'company': 'Hyundai Steel', 'naturalId': 'fred/companies/F2K/2025/2109', 'roa': -0.0029659760179653405}
+ {'company': 'Inner Mongolia Baotou Steel', 'naturalId': 'fred/companies/F2K/2025/5510', 'roa': 0.0017316017316017314}
+ {'company': 'HBIS', 'naturalId': 'fred/companies/F2K/2025/4218', 'roa': 0.002870495764624658}
+ {'company': 'China Steel', 'naturalId': 'fred/companies/F2K/2025/932', 'roa': 0.002905523324371492}
+ {'company': 'Beijing Shougang', 'naturalId': 'fred/companies/F2K/2025/90777', 'roa': 0.006280964439061984}]","[{'company': 'Hyundai Steel', 'naturalId': 'fred/companies/F2K/2025/2109', 'profit_margin': -0.00427037579306979}
+ {'company': 'Inner Mongolia Baotou Steel', 'naturalId': 'fred/companies/F2K/2025/5510', 'profit_margin': 0.00397622906537007}
+ {'company': 'Ningbo Jintian Copper (Group)', 'naturalId': 'fred/companies/F2K/2025/116584', 'profit_margin': 0.003984245676123066}
+ {'company': 'China Steel', 'naturalId': 'fred/companies/F2K/2025/932', 'profit_margin': 0.0054877505567928735}
+ {'company': 'HBIS', 'naturalId': 'fred/companies/F2K/2025/4218', 'profit_margin': 0.006320528562240542}]","[{'company': 'Ningbo Jintian Copper (Group)', 'marketValue': 1340.0, 'naturalId': 'fred/companies/F2K/2025/116584'}
+ {'company': 'Hyundai Steel', 'marketValue': 2202.0, 'naturalId': 'fred/companies/F2K/2025/2109'}
+ {'company': 'HBIS', 'marketValue': 3122.0, 'naturalId': 'fred/companies/F2K/2025/4218'}
+ {'company': 'Yunnan Copper ', 'marketValue': 3238.0, 'naturalId': 'fred/companies/F2K/2025/5914'}
+ {'company': 'Pt Adaro Andalan Indonesia', 'marketValue': 3273.0, 'naturalId': 'fred/companies/F2K/2025/134629'}]"
+Materials,Americas,26,351277.0,30288.2,603414.0,0.0680484025417128,0.05925301966520878,0.4248111578451942,"[{'company': 'Suzano ', 'naturalId': 'fred/companies/F2K/2025/4152', 'roa': -0.04882352941176471}
+ {'company': 'Cleveland-Cliffs', 'naturalId': 'fred/companies/F2K/2025/1002', 'roa': -0.035995607962954125}
+ {'company': 'Ball', 'naturalId': 'fred/companies/F2K/2025/413', 'roa': -0.03551168595416383}
+ {'company': 'First Quantum Minerals', 'naturalId': 'fred/companies/F2K/2025/1613', 'roa': 0.00564516129032258}
+ {'company': 'Teck Resources', 'naturalId': 'fred/companies/F2K/2025/4244', 'roa': 0.007937403957725719}]","[{'company': 'Suzano ', 'naturalId': 'fred/companies/F2K/2025/4152', 'roa': -0.04882352941176471}
+ {'company': 'Cleveland-Cliffs', 'naturalId': 'fred/companies/F2K/2025/1002', 'roa': -0.035995607962954125}
+ {'company': 'Ball', 'naturalId': 'fred/companies/F2K/2025/413', 'roa': -0.03551168595416383}
+ {'company': 'First Quantum Minerals', 'naturalId': 'fred/companies/F2K/2025/1613', 'roa': 0.00564516129032258}
+ {'company': 'Teck Resources', 'naturalId': 'fred/companies/F2K/2025/4244', 'roa': 0.007937403957725719}]","[{'company': 'Suzano ', 'naturalId': 'fred/companies/F2K/2025/4152', 'profit_margin': -0.14914136244740137}
+ {'company': 'Ball', 'naturalId': 'fred/companies/F2K/2025/413', 'profit_margin': -0.05305984065095779}
+ {'company': 'Cleveland-Cliffs', 'naturalId': 'fred/companies/F2K/2025/1002', 'profit_margin': -0.03930153765962992}
+ {'company': 'US Steel', 'naturalId': 'fred/companies/F2K/2025/4528', 'profit_margin': 0.02456499488229273}
+ {'company': 'First Quantum Minerals', 'naturalId': 'fred/companies/F2K/2025/1613', 'profit_margin': 0.02754793138244198}]","[{'company': 'Cleveland-Cliffs', 'marketValue': 3911.0, 'naturalId': 'fred/companies/F2K/2025/1002'}
+ {'company': 'Gerdau (Cosigua)', 'marketValue': 5440.0, 'naturalId': 'fred/companies/F2K/2025/1774'}
+ {'company': 'Alcoa', 'marketValue': 6656.0, 'naturalId': 'fred/companies/F2K/2025/137'}
+ {'company': 'Graphic Packaging', 'marketValue': 7547.0, 'naturalId': 'fred/companies/F2K/2025/1833'}
+ {'company': 'US Steel', 'marketValue': 9663.0, 'naturalId': 'fred/companies/F2K/2025/4528'}]"
+Materials,Europe,19,380644.0,15162.7,317847.0,0.029776697280749144,0.02948682841338518,0.6294506476386438,"[{'company': 'Umicore', 'naturalId': 'fred/companies/F2K/2025/4486', 'roa': -0.16032048072108163}
+ {'company': 'Anglo American', 'naturalId': 'fred/companies/F2K/2025/256', 'roa': -0.047032343600653656}
+ {'company': 'ThyssenKrupp Group', 'naturalId': 'fred/companies/F2K/2025/4324', 'roa': -0.043553973134811456}
+ {'company': 'Stora Enso', 'naturalId': 'fred/companies/F2K/2025/4091', 'roa': -0.004685562037760118}
+ {'company': 'Voestalpine', 'naturalId': 'fred/companies/F2K/2025/4626', 'roa': -0.0042992047713717695}]","[{'company': 'Umicore', 'naturalId': 'fred/companies/F2K/2025/4486', 'roa': -0.16032048072108163}
+ {'company': 'Anglo American', 'naturalId': 'fred/companies/F2K/2025/256', 'roa': -0.047032343600653656}
+ {'company': 'ThyssenKrupp Group', 'naturalId': 'fred/companies/F2K/2025/4324', 'roa': -0.043553973134811456}
+ {'company': 'Stora Enso', 'naturalId': 'fred/companies/F2K/2025/4091', 'roa': -0.004685562037760118}
+ {'company': 'Voestalpine', 'naturalId': 'fred/companies/F2K/2025/4626', 'roa': -0.0042992047713717695}]","[{'company': 'Anglo American', 'naturalId': 'fred/companies/F2K/2025/256', 'profit_margin': -0.11145289153545465}
+ {'company': 'Umicore', 'naturalId': 'fred/companies/F2K/2025/4486', 'profit_margin': -0.09963278770149997}
+ {'company': 'ThyssenKrupp Group', 'naturalId': 'fred/companies/F2K/2025/4324', 'profit_margin': -0.03585876082611592}
+ {'company': 'Stora Enso', 'naturalId': 'fred/companies/F2K/2025/4091', 'profit_margin': -0.010276042716099134}
+ {'company': 'Voestalpine', 'naturalId': 'fred/companies/F2K/2025/4626', 'profit_margin': -0.003988932441780032}]","[{'company': 'Umicore', 'marketValue': 2284.0, 'naturalId': 'fred/companies/F2K/2025/4486'}
+ {'company': 'Aurubis', 'marketValue': 3812.0, 'naturalId': 'fred/companies/F2K/2025/3140'}
+ {'company': 'Voestalpine', 'marketValue': 4421.0, 'naturalId': 'fred/companies/F2K/2025/4626'}
+ {'company': 'Ternium', 'marketValue': 5597.0, 'naturalId': 'fred/companies/F2K/2025/4290'}
+ {'company': 'SSAB', 'marketValue': 6157.0, 'naturalId': 'fred/companies/F2K/2025/109443'}]"
+Materials,MEA/Other,4,23124.0,4237.8,105711.0,0.20583809243418721,0.09109046883640315,1.0,"[{'company': 'Saudi Arabian Mining', 'naturalId': 'fred/companies/F2K/2025/6455', 'roa': 0.024985308521057785}
+ {'company': 'AngloGold Ashanti', 'naturalId': 'fred/companies/F2K/2025/5552', 'roa': 0.07630918902485369}
+ {'company': 'Industries Qatar', 'naturalId': 'fred/companies/F2K/2025/5721', 'roa': 0.10587174864795261}
+ {'company': 'Gold Fields', 'naturalId': 'fred/companies/F2K/2025/1810', 'roa': 0.12177856649906339}]","[{'company': 'Saudi Arabian Mining', 'naturalId': 'fred/companies/F2K/2025/6455', 'roa': 0.024985308521057785}
+ {'company': 'AngloGold Ashanti', 'naturalId': 'fred/companies/F2K/2025/5552', 'roa': 0.07630918902485369}
+ {'company': 'Industries Qatar', 'naturalId': 'fred/companies/F2K/2025/5721', 'roa': 0.10587174864795261}
+ {'company': 'Gold Fields', 'naturalId': 'fred/companies/F2K/2025/1810', 'roa': 0.12177856649906339}]","[{'company': 'Saudi Arabian Mining', 'naturalId': 'fred/companies/F2K/2025/6455', 'profit_margin': 0.08822919068480516}
+ {'company': 'AngloGold Ashanti', 'naturalId': 'fred/companies/F2K/2025/5552', 'profit_margin': 0.17331261867771447}
+ {'company': 'Gold Fields', 'naturalId': 'fred/companies/F2K/2025/1810', 'profit_margin': 0.23836356619066}
+ {'company': 'Industries Qatar', 'naturalId': 'fred/companies/F2K/2025/5721', 'profit_margin': 0.35490647482014387}]","[{'company': 'Gold Fields', 'marketValue': 19426.0, 'naturalId': 'fred/companies/F2K/2025/1810'}
+ {'company': 'AngloGold Ashanti', 'marketValue': 19940.0, 'naturalId': 'fred/companies/F2K/2025/5552'}
+ {'company': 'Industries Qatar', 'marketValue': 20189.0, 'naturalId': 'fred/companies/F2K/2025/5721'}
+ {'company': 'Saudi Arabian Mining', 'marketValue': 46156.0, 'naturalId': 'fred/companies/F2K/2025/6455'}]"
+Media,APAC,5,40332.0,859.6999999999998,100588.0,0.12084396801088991,0.08477611940298507,1.0,"[{'company': 'Dentsu', 'naturalId': 'fred/companies/F2K/2025/1274', 'roa': -0.056842624126187485}
+ {'company': 'Shenzhen Overseas', 'naturalId': 'fred/companies/F2K/2025/5849', 'roa': -0.026967198422656387}
+ {'company': 'Oriental Land', 'naturalId': 'fred/companies/F2K/2025/3255', 'roa': 0.08477611940298507}
+ {'company': 'Kuaishou Technology', 'naturalId': 'fred/companies/F2K/2025/116562', 'roa': 0.11118300892344622}
+ {'company': 'Pop Mart International Group', 'naturalId': 'fred/companies/F2K/2025/116599', 'roa': 0.209753742153549}]","[{'company': 'Dentsu', 'naturalId': 'fred/companies/F2K/2025/1274', 'roa': -0.056842624126187485}
+ {'company': 'Shenzhen Overseas', 'naturalId': 'fred/companies/F2K/2025/5849', 'roa': -0.026967198422656387}
+ {'company': 'Oriental Land', 'naturalId': 'fred/companies/F2K/2025/3255', 'roa': 0.08477611940298507}
+ {'company': 'Kuaishou Technology', 'naturalId': 'fred/companies/F2K/2025/116562', 'roa': 0.11118300892344622}
+ {'company': 'Pop Mart International Group', 'naturalId': 'fred/companies/F2K/2025/116599', 'roa': 0.209753742153549}]","[{'company': 'Shenzhen Overseas', 'naturalId': 'fred/companies/F2K/2025/5849', 'profit_margin': -0.16633499170812602}
+ {'company': 'Dentsu', 'naturalId': 'fred/companies/F2K/2025/1274', 'profit_margin': -0.1361928280008589}
+ {'company': 'Kuaishou Technology', 'naturalId': 'fred/companies/F2K/2025/116562', 'profit_margin': 0.12084396801088991}
+ {'company': 'Oriental Land', 'naturalId': 'fred/companies/F2K/2025/3255', 'profit_margin': 0.17672274717676884}
+ {'company': 'Pop Mart International Group', 'naturalId': 'fred/companies/F2K/2025/116599', 'profit_margin': 0.23973509933774834}]","[{'company': 'Shenzhen Overseas', 'marketValue': 2704.0, 'naturalId': 'fred/companies/F2K/2025/5849'}
+ {'company': 'Dentsu', 'marketValue': 5401.0, 'naturalId': 'fred/companies/F2K/2025/1274'}
+ {'company': 'Kuaishou Technology', 'marketValue': 28217.0, 'naturalId': 'fred/companies/F2K/2025/116562'}
+ {'company': 'Pop Mart International Group', 'marketValue': 29502.0, 'naturalId': 'fred/companies/F2K/2025/116599'}
+ {'company': 'Oriental Land', 'marketValue': 34764.0, 'naturalId': 'fred/companies/F2K/2025/3255'}]"
+Media,Americas,12,426070.0,12587.4,494945.0,0.04455945884972001,0.028661698965802444,0.80308519128388,"[{'company': 'Paramount', 'naturalId': 'fred/companies/F2K/2025/4604', 'roa': -0.13406393485229143}
+ {'company': 'Warner Bros. Discovery', 'naturalId': 'fred/companies/F2K/2025/1313', 'roa': -0.10817712318286152}
+ {'company': 'SiriusXM Holdings', 'naturalId': 'fred/companies/F2K/2025/134649', 'roa': -0.057701391664547075}
+ {'company': 'Liberty Media Corporation Series A Liberty Formula One', 'naturalId': 'fred/companies/F2K/2025/104347', 'roa': -0.0025512373501148057}
+ {'company': 'News Corp', 'naturalId': 'fred/companies/F2K/2025/3060', 'roa': 0.02561722665676629}]","[{'company': 'Paramount', 'naturalId': 'fred/companies/F2K/2025/4604', 'roa': -0.13406393485229143}
+ {'company': 'Warner Bros. Discovery', 'naturalId': 'fred/companies/F2K/2025/1313', 'roa': -0.10817712318286152}
+ {'company': 'SiriusXM Holdings', 'naturalId': 'fred/companies/F2K/2025/134649', 'roa': -0.057701391664547075}
+ {'company': 'Liberty Media Corporation Series A Liberty Formula One', 'naturalId': 'fred/companies/F2K/2025/104347', 'roa': -0.0025512373501148057}
+ {'company': 'News Corp', 'naturalId': 'fred/companies/F2K/2025/3060', 'roa': 0.02561722665676629}]","[{'company': 'Warner Bros. Discovery', 'naturalId': 'fred/companies/F2K/2025/1313', 'profit_margin': -0.28783367687100797}
+ {'company': 'Paramount', 'naturalId': 'fred/companies/F2K/2025/4604', 'profit_margin': -0.21189196590558998}
+ {'company': 'SiriusXM Holdings', 'naturalId': 'fred/companies/F2K/2025/134649', 'profit_margin': -0.182549718358432}
+ {'company': 'Liberty Media Corporation Series A Liberty Formula One', 'naturalId': 'fred/companies/F2K/2025/104347', 'profit_margin': -0.008212428141253765}
+ {'company': 'Live Nation Entertainment', 'naturalId': 'fred/companies/F2K/2025/2643', 'profit_margin': 0.027897737087579894}]","[{'company': 'SiriusXM Holdings', 'marketValue': 7339.0, 'naturalId': 'fred/companies/F2K/2025/134649'}
+ {'company': 'Paramount', 'marketValue': 7867.0, 'naturalId': 'fred/companies/F2K/2025/4604'}
+ {'company': 'Interpublic Group', 'marketValue': 9152.0, 'naturalId': 'fred/companies/F2K/2025/2227'}
+ {'company': 'Omnicom Group', 'marketValue': 14618.0, 'naturalId': 'fred/companies/F2K/2025/3232'}
+ {'company': 'News Corp', 'marketValue': 15393.0, 'naturalId': 'fred/companies/F2K/2025/3060'}]"
+Media,Europe,2,36176.0,2486.0,33292.0,0.07009781020074202,0.032464826507949546,1.0,"[{'company': 'WPP', 'naturalId': 'fred/companies/F2K/2025/4765', 'roa': 0.0214733056365102}
+ {'company': 'Publicis Groupe', 'naturalId': 'fred/companies/F2K/2025/3504', 'roa': 0.04345634737938889}]","[{'company': 'WPP', 'naturalId': 'fred/companies/F2K/2025/4765', 'roa': 0.0214733056365102}
+ {'company': 'Publicis Groupe', 'naturalId': 'fred/companies/F2K/2025/3504', 'roa': 0.04345634737938889}]","[{'company': 'WPP', 'naturalId': 'fred/companies/F2K/2025/4765', 'profit_margin': 0.036770014865151836}
+ {'company': 'Publicis Groupe', 'naturalId': 'fred/companies/F2K/2025/3504', 'profit_margin': 0.10342560553633219}]","[{'company': 'WPP', 'marketValue': 7974.0, 'naturalId': 'fred/companies/F2K/2025/4765'}
+ {'company': 'Publicis Groupe', 'marketValue': 25318.0, 'naturalId': 'fred/companies/F2K/2025/3504'}]"
+Oil & Gas Operations,APAC,32,1808370.0,83663.1,848714.0,0.033709749261358835,0.028355367006110722,0.6791922838553388,"[{'company': 'PTT Global Chemical', 'naturalId': 'fred/companies/F2K/2025/80311', 'roa': -0.04361065235342692}
+ {'company': 'SK Innovation ', 'naturalId': 'fred/companies/F2K/2025/90899', 'roa': -0.022072162064969834}
+ {'company': 'S-Oil', 'naturalId': 'fred/companies/F2K/2025/3684', 'roa': -0.008460803059273422}
+ {'company': 'Viva Energy Group', 'naturalId': 'fred/companies/F2K/2025/108848', 'roa': -0.006700412947915279}
+ {'company': 'Top Frontier Investment Holdings', 'naturalId': 'fred/companies/F2K/2025/102058', 'roa': -0.003950652645361922}]","[{'company': 'PTT Global Chemical', 'naturalId': 'fred/companies/F2K/2025/80311', 'roa': -0.04361065235342692}
+ {'company': 'SK Innovation ', 'naturalId': 'fred/companies/F2K/2025/90899', 'roa': -0.022072162064969834}
+ {'company': 'S-Oil', 'naturalId': 'fred/companies/F2K/2025/3684', 'roa': -0.008460803059273422}
+ {'company': 'Viva Energy Group', 'naturalId': 'fred/companies/F2K/2025/108848', 'roa': -0.006700412947915279}
+ {'company': 'Top Frontier Investment Holdings', 'naturalId': 'fred/companies/F2K/2025/102058', 'roa': -0.003950652645361922}]","[{'company': 'PTT Global Chemical', 'naturalId': 'fred/companies/F2K/2025/80311', 'profit_margin': -0.04900255161215495}
+ {'company': 'SK Innovation ', 'naturalId': 'fred/companies/F2K/2025/90899', 'profit_margin': -0.030245843295431733}
+ {'company': 'Top Frontier Investment Holdings', 'naturalId': 'fred/companies/F2K/2025/102058', 'profit_margin': -0.007013656835682116}
+ {'company': 'S-Oil', 'naturalId': 'fred/companies/F2K/2025/3684', 'profit_margin': -0.005270602248194744}
+ {'company': 'Viva Energy Group', 'naturalId': 'fred/companies/F2K/2025/108848', 'profit_margin': -0.0025299265667437882}]","[{'company': 'Top Frontier Investment Holdings', 'marketValue': 380.0, 'naturalId': 'fred/companies/F2K/2025/102058'}
+ {'company': 'Viva Energy Group', 'marketValue': 1697.0, 'naturalId': 'fred/companies/F2K/2025/108848'}
+ {'company': 'Korea Gas', 'marketValue': 2296.0, 'naturalId': 'fred/companies/F2K/2025/2512'}
+ {'company': 'PTT Global Chemical', 'marketValue': 2378.0, 'naturalId': 'fred/companies/F2K/2025/80311'}
+ {'company': 'Cosmo Energy Holdings', 'marketValue': 3404.0, 'naturalId': 'fred/companies/F2K/2025/103706'}]"
+Oil & Gas Operations,Americas,44,1703482.0,152750.3,2168826.0,0.11790198782304914,0.05329248403973193,0.46132930903631736,"[{'company': 'PBF Energy', 'naturalId': 'fred/companies/F2K/2025/98001', 'roa': -0.03916776750330251}
+ {'company': 'Expand Energy', 'naturalId': 'fred/companies/F2K/2025/892', 'roa': -0.025596902559690257}
+ {'company': 'EQT', 'naturalId': 'fred/companies/F2K/2025/1486', 'roa': 0.009299045412185477}
+ {'company': 'HF Sinclair', 'naturalId': 'fred/companies/F2K/2025/2024', 'roa': 0.010229484986136511}
+ {'company': 'Valero Energy', 'naturalId': 'fred/companies/F2K/2025/4570', 'roa': 0.015614174425874918}]","[{'company': 'PBF Energy', 'naturalId': 'fred/companies/F2K/2025/98001', 'roa': -0.03916776750330251}
+ {'company': 'Expand Energy', 'naturalId': 'fred/companies/F2K/2025/892', 'roa': -0.025596902559690257}
+ {'company': 'EQT', 'naturalId': 'fred/companies/F2K/2025/1486', 'roa': 0.009299045412185477}
+ {'company': 'HF Sinclair', 'naturalId': 'fred/companies/F2K/2025/2024', 'roa': 0.010229484986136511}
+ {'company': 'Valero Energy', 'naturalId': 'fred/companies/F2K/2025/4570', 'roa': 0.015614174425874918}]","[{'company': 'Expand Energy', 'naturalId': 'fred/companies/F2K/2025/892', 'profit_margin': -0.16780258519388955}
+ {'company': 'PBF Energy', 'naturalId': 'fred/companies/F2K/2025/98001', 'profit_margin': -0.01611656349086517}
+ {'company': 'HF Sinclair', 'naturalId': 'fred/companies/F2K/2025/2024', 'profit_margin': 0.006066118593668008}
+ {'company': 'Valero Energy', 'naturalId': 'fred/companies/F2K/2025/4570', 'profit_margin': 0.00720142157932475}
+ {'company': 'Phillips 66', 'naturalId': 'fred/companies/F2K/2025/98024', 'profit_margin': 0.013415697674418605}]","[{'company': 'PBF Energy', 'marketValue': 1885.0, 'naturalId': 'fred/companies/F2K/2025/98001'}
+ {'company': 'NOV', 'marketValue': 4669.0, 'naturalId': 'fred/companies/F2K/2025/116588'}
+ {'company': 'Prio', 'marketValue': 5045.0, 'naturalId': 'fred/companies/F2K/2025/125213'}
+ {'company': 'HF Sinclair', 'marketValue': 5748.0, 'naturalId': 'fred/companies/F2K/2025/2024'}
+ {'company': 'APA', 'marketValue': 5952.0, 'naturalId': 'fred/companies/F2K/2025/116486'}]"
+Oil & Gas Operations,Europe,16,1239698.0,55452.1,636155.0,0.038280234414941244,0.035795087863915456,0.7899081198764452,"[{'company': 'Neste', 'naturalId': 'fred/companies/F2K/2025/3033', 'roa': -0.006104441776710685}
+ {'company': 'Koç Holding', 'naturalId': 'fred/companies/F2K/2025/2482', 'roa': 0.0002886277064502411}
+ {'company': 'BP', 'naturalId': 'fred/companies/F2K/2025/676', 'roa': 0.0014144592315432911}
+ {'company': 'Eni', 'naturalId': 'fred/companies/F2K/2025/1468', 'roa': 0.017901590597403264}
+ {'company': 'OMV Group', 'naturalId': 'fred/companies/F2K/2025/3234', 'roa': 0.028664023181332925}]","[{'company': 'Neste', 'naturalId': 'fred/companies/F2K/2025/3033', 'roa': -0.006104441776710685}
+ {'company': 'Koç Holding', 'naturalId': 'fred/companies/F2K/2025/2482', 'roa': 0.0002886277064502411}
+ {'company': 'BP', 'naturalId': 'fred/companies/F2K/2025/676', 'roa': 0.0014144592315432911}
+ {'company': 'Eni', 'naturalId': 'fred/companies/F2K/2025/1468', 'roa': 0.017901590597403264}
+ {'company': 'OMV Group', 'naturalId': 'fred/companies/F2K/2025/3234', 'roa': 0.028664023181332925}]","[{'company': 'Neste', 'naturalId': 'fred/companies/F2K/2025/3033', 'profit_margin': -0.004556247479951615}
+ {'company': 'Koç Holding', 'naturalId': 'fred/companies/F2K/2025/2482', 'profit_margin': 0.00047879206315852666}
+ {'company': 'BP', 'naturalId': 'fred/companies/F2K/2025/676', 'profit_margin': 0.0021096466658915795}
+ {'company': 'DCC', 'naturalId': 'fred/companies/F2K/2025/1251', 'profit_margin': 0.016854159106487642}
+ {'company': 'ORLEN Spolka Akcyjna', 'naturalId': 'fred/companies/F2K/2025/3409', 'profit_margin': 0.025630302786601795}]","[{'company': 'MOL Hungarian Oil', 'marketValue': 5461.0, 'naturalId': 'fred/companies/F2K/2025/2929'}
+ {'company': 'DCC', 'marketValue': 6312.0, 'naturalId': 'fred/companies/F2K/2025/1251'}
+ {'company': 'Neste', 'marketValue': 6968.0, 'naturalId': 'fred/companies/F2K/2025/3033'}
+ {'company': 'Koç Holding', 'marketValue': 9600.0, 'naturalId': 'fred/companies/F2K/2025/2482'}
+ {'company': 'Centrica', 'marketValue': 10351.0, 'naturalId': 'fred/companies/F2K/2025/853'}]"
+Oil & Gas Operations,MEA/Other,1,480146.0,104971.8,1663384.0,0.21862475163804343,0.1627399120658328,1.0,"[{'company': 'Saudi Arabian Oil Company (Saudi Aramco)', 'naturalId': 'fred/companies/F2K/2025/111716', 'roa': 0.1627399120658328}]","[{'company': 'Saudi Arabian Oil Company (Saudi Aramco)', 'naturalId': 'fred/companies/F2K/2025/111716', 'roa': 0.1627399120658328}]","[{'company': 'Saudi Arabian Oil Company (Saudi Aramco)', 'naturalId': 'fred/companies/F2K/2025/111716', 'profit_margin': 0.21862475163804343}]","[{'company': 'Saudi Arabian Oil Company (Saudi Aramco)', 'marketValue': 1663384.0, 'naturalId': 'fred/companies/F2K/2025/111716'}]"
+Retail and Wholesale,Americas,1,637959.0,59248.0,2005638.0,0.09287117197186653,0.09481288026449286,1.0,"[{'company': 'Amazon', 'naturalId': 'fred/companies/F2K/2025/196', 'roa': 0.09481288026449286}]","[{'company': 'Amazon', 'naturalId': 'fred/companies/F2K/2025/196', 'roa': 0.09481288026449286}]","[{'company': 'Amazon', 'naturalId': 'fred/companies/F2K/2025/196', 'profit_margin': 0.09287117197186653}]","[{'company': 'Amazon', 'marketValue': 2005638.0, 'naturalId': 'fred/companies/F2K/2025/196'}]"
+Retailing,APAC,17,534032.0,32177.399999999998,651719.0,0.057929240022978404,0.060056660185243256,0.7982075096782509,"[{'company': 'Lotte Shopping', 'naturalId': 'fred/companies/F2K/2025/2666', 'roa': -0.027749679172642865}
+ {'company': 'E-mart ', 'naturalId': 'fred/companies/F2K/2025/90807', 'roa': -0.01895609163484901}
+ {'company': 'Rakuten', 'naturalId': 'fred/companies/F2K/2025/3541', 'roa': -0.006355801602731281}
+ {'company': 'Bangchak', 'naturalId': 'fred/companies/F2K/2025/106923', 'roa': 0.005827229642395519}
+ {'company': 'CK Hutchison', 'naturalId': 'fred/companies/F2K/2025/102718', 'roa': 0.015290248704807921}]","[{'company': 'Lotte Shopping', 'naturalId': 'fred/companies/F2K/2025/2666', 'roa': -0.027749679172642865}
+ {'company': 'E-mart ', 'naturalId': 'fred/companies/F2K/2025/90807', 'roa': -0.01895609163484901}
+ {'company': 'Rakuten', 'naturalId': 'fred/companies/F2K/2025/3541', 'roa': -0.006355801602731281}
+ {'company': 'Bangchak', 'naturalId': 'fred/companies/F2K/2025/106923', 'roa': 0.005827229642395519}
+ {'company': 'CK Hutchison', 'naturalId': 'fred/companies/F2K/2025/102718', 'roa': 0.015290248704807921}]","[{'company': 'Lotte Shopping', 'naturalId': 'fred/companies/F2K/2025/2666', 'profit_margin': -0.07168486739469579}
+ {'company': 'Rakuten', 'naturalId': 'fred/companies/F2K/2025/3541', 'profit_margin': -0.07127284812229977}
+ {'company': 'E-mart ', 'naturalId': 'fred/companies/F2K/2025/90807', 'profit_margin': -0.020530050279592125}
+ {'company': 'Bangchak', 'naturalId': 'fred/companies/F2K/2025/106923', 'profit_margin': 0.0032101109594730908}
+ {'company': 'Zhongsheng Group Holdings', 'naturalId': 'fred/companies/F2K/2025/90937', 'profit_margin': 0.019104490389966183}]","[{'company': 'Lotte Shopping', 'marketValue': 1318.0, 'naturalId': 'fred/companies/F2K/2025/2666'}
+ {'company': 'Bangchak', 'marketValue': 1436.0, 'naturalId': 'fred/companies/F2K/2025/106923'}
+ {'company': 'E-mart ', 'marketValue': 1702.0, 'naturalId': 'fred/companies/F2K/2025/90807'}
+ {'company': 'Zhongsheng Group Holdings', 'marketValue': 3553.0, 'naturalId': 'fred/companies/F2K/2025/90937'}
+ {'company': 'Vipshop Holdings', 'marketValue': 5758.0, 'naturalId': 'fred/companies/F2K/2025/102715'}]"
+Retailing,Americas,52,2752516.0,92345.2,2852196.0,0.03594977441089854,0.07099619383381796,0.6368093216595213,"[{'company': 'Dollar Tree', 'naturalId': 'fred/companies/F2K/2025/1324', 'roa': -0.16252413645140526}
+ {'company': 'Walgreens Boots Alliance', 'naturalId': 'fred/companies/F2K/2025/102716', 'roa': -0.08231742053093312}
+ {'company': 'Grupo Elektra', 'naturalId': 'fred/companies/F2K/2025/1422', 'roa': -0.02634769430612687}
+ {'company': 'Raizen', 'naturalId': 'fred/companies/F2K/2025/118513', 'roa': -0.020705205291187082}
+ {'company': ""Kohl's"", 'naturalId': 'fred/companies/F2K/2025/2485', 'roa': 0.008038940924846964}]","[{'company': 'Dollar Tree', 'naturalId': 'fred/companies/F2K/2025/1324', 'roa': -0.16252413645140526}
+ {'company': 'Walgreens Boots Alliance', 'naturalId': 'fred/companies/F2K/2025/102716', 'roa': -0.08231742053093312}
+ {'company': 'Grupo Elektra', 'naturalId': 'fred/companies/F2K/2025/1422', 'roa': -0.02634769430612687}
+ {'company': 'Raizen', 'naturalId': 'fred/companies/F2K/2025/118513', 'roa': -0.020705205291187082}
+ {'company': ""Kohl's"", 'naturalId': 'fred/companies/F2K/2025/2485', 'roa': 0.008038940924846964}]","[{'company': 'Dollar Tree', 'naturalId': 'fred/companies/F2K/2025/1324', 'profit_margin': -0.1098658448150834}
+ {'company': 'Grupo Elektra', 'naturalId': 'fred/companies/F2K/2025/1422', 'profit_margin': -0.055403805881817356}
+ {'company': 'Walgreens Boots Alliance', 'naturalId': 'fred/companies/F2K/2025/102716', 'profit_margin': -0.038040080292210995}
+ {'company': 'Raizen', 'naturalId': 'fred/companies/F2K/2025/118513', 'profit_margin': -0.01034504956868804}
+ {'company': 'Coupang', 'naturalId': 'fred/companies/F2K/2025/116510', 'profit_margin': 0.005087881591119334}]","[{'company': 'Americanas', 'marketValue': 207.0, 'naturalId': 'fred/companies/F2K/2025/134576'}
+ {'company': ""Kohl's"", 'marketValue': 786.0, 'naturalId': 'fred/companies/F2K/2025/2485'}
+ {'company': ""Macy's"", 'marketValue': 3114.0, 'naturalId': 'fred/companies/F2K/2025/1562'}
+ {'company': 'Raizen', 'marketValue': 3276.0, 'naturalId': 'fred/companies/F2K/2025/118513'}
+ {'company': 'Ultrapar Participacoes', 'marketValue': 3432.0, 'naturalId': 'fred/companies/F2K/2025/4484'}]"
+Retailing,Europe,10,305869.0,26034.3,404270.0,0.030746709252058597,0.043304541561034464,0.9135231404754248,"[{'company': 'Avolta', 'naturalId': 'fred/companies/F2K/2025/80196', 'roa': 0.00609375}
+ {'company': 'Ceconomy', 'naturalId': 'fred/companies/F2K/2025/2834', 'roa': 0.006141256266588027}
+ {'company': 'Carrefour', 'naturalId': 'fred/companies/F2K/2025/803', 'roa': 0.013166888331453392}
+ {'company': 'Kingfisher', 'naturalId': 'fred/companies/F2K/2025/2456', 'roa': 0.01658461105640737}
+ {'company': 'Zalando', 'naturalId': 'fred/companies/F2K/2025/102783', 'roa': 0.03161080074487896}]","[{'company': 'Avolta', 'naturalId': 'fred/companies/F2K/2025/80196', 'roa': 0.00609375}
+ {'company': 'Ceconomy', 'naturalId': 'fred/companies/F2K/2025/2834', 'roa': 0.006141256266588027}
+ {'company': 'Carrefour', 'naturalId': 'fred/companies/F2K/2025/803', 'roa': 0.013166888331453392}
+ {'company': 'Kingfisher', 'naturalId': 'fred/companies/F2K/2025/2456', 'roa': 0.01658461105640737}
+ {'company': 'Zalando', 'naturalId': 'fred/companies/F2K/2025/102783', 'roa': 0.03161080074487896}]","[{'company': 'Ceconomy', 'naturalId': 'fred/companies/F2K/2025/2834', 'profit_margin': 0.0033441727889517844}
+ {'company': 'Avolta', 'naturalId': 'fred/companies/F2K/2025/80196', 'profit_margin': 0.007507218479307026}
+ {'company': 'Carrefour', 'naturalId': 'fred/companies/F2K/2025/803', 'profit_margin': 0.008285045392430005}
+ {'company': 'Kingfisher', 'naturalId': 'fred/companies/F2K/2025/2456', 'profit_margin': 0.014469808541973491}
+ {'company': 'Zalando', 'naturalId': 'fred/companies/F2K/2025/102783', 'profit_margin': 0.023749562784190277}]","[{'company': 'Ceconomy', 'marketValue': 1793.0, 'naturalId': 'fred/companies/F2K/2025/2834'}
+ {'company': 'Kingfisher', 'marketValue': 6387.0, 'naturalId': 'fred/companies/F2K/2025/2456'}
+ {'company': 'Avolta', 'marketValue': 6506.0, 'naturalId': 'fred/companies/F2K/2025/80196'}
+ {'company': 'Carrefour', 'marketValue': 10095.0, 'naturalId': 'fred/companies/F2K/2025/803'}
+ {'company': 'Zalando', 'marketValue': 10179.0, 'naturalId': 'fred/companies/F2K/2025/102783'}]"
+Semiconductors,APAC,13,252097.0,68461.9,1089150.0,0.12935574229691876,0.079469200903981,0.8722829729605656,"[{'company': 'Longi Green Energy Technology', 'naturalId': 'fred/companies/F2K/2025/106784', 'roa': -0.04671549346715493}
+ {'company': 'Kyocera', 'naturalId': 'fred/companies/F2K/2025/2544', 'roa': 0.006561248588150733}
+ {'company': 'Semiconductor Manufacturing International', 'naturalId': 'fred/companies/F2K/2025/105147', 'roa': 0.01060969061092982}
+ {'company': 'Cambricon Technologies ', 'naturalId': 'fred/companies/F2K/2025/125147', 'roa': 0.018789144050104383}
+ {'company': 'Renesas Electronics', 'naturalId': 'fred/companies/F2K/2025/80319', 'roa': 0.03862988309096094}]","[{'company': 'Longi Green Energy Technology', 'naturalId': 'fred/companies/F2K/2025/106784', 'roa': -0.04671549346715493}
+ {'company': 'Kyocera', 'naturalId': 'fred/companies/F2K/2025/2544', 'roa': 0.006561248588150733}
+ {'company': 'Semiconductor Manufacturing International', 'naturalId': 'fred/companies/F2K/2025/105147', 'roa': 0.01060969061092982}
+ {'company': 'Cambricon Technologies ', 'naturalId': 'fred/companies/F2K/2025/125147', 'roa': 0.018789144050104383}
+ {'company': 'Renesas Electronics', 'naturalId': 'fred/companies/F2K/2025/80319', 'roa': 0.03862988309096094}]","[{'company': 'Longi Green Energy Technology', 'naturalId': 'fred/companies/F2K/2025/106784', 'profit_margin': -0.07960095524227717}
+ {'company': 'Kyocera', 'naturalId': 'fred/companies/F2K/2025/2544', 'profit_margin': 0.014494178133978526}
+ {'company': 'ASE Technology Holding', 'naturalId': 'fred/companies/F2K/2025/61', 'profit_margin': 0.05460135936994282}
+ {'company': 'Cambricon Technologies ', 'naturalId': 'fred/companies/F2K/2025/125147', 'profit_margin': 0.057692307692307696}
+ {'company': 'Semiconductor Manufacturing International', 'naturalId': 'fred/companies/F2K/2025/105147', 'profit_margin': 0.06427677677677678}]","[{'company': 'Zhongji Innolight', 'marketValue': 12662.0, 'naturalId': 'fred/companies/F2K/2025/111622'}
+ {'company': 'Longi Green Energy Technology', 'marketValue': 15450.0, 'naturalId': 'fred/companies/F2K/2025/106784'}
+ {'company': 'Kyocera', 'marketValue': 16424.0, 'naturalId': 'fred/companies/F2K/2025/2544'}
+ {'company': 'Sungrow Power Supply  ', 'marketValue': 16742.0, 'naturalId': 'fred/companies/F2K/2025/103847'}
+ {'company': 'United Microelectronics', 'marketValue': 17247.0, 'naturalId': 'fred/companies/F2K/2025/4520'}]"
+Semiconductors,Americas,14,392029.0,90847.2,4511130.0,0.17610218428064953,0.06243494143107073,0.904958181209586,"[{'company': 'Intel', 'naturalId': 'fred/companies/F2K/2025/2207', 'roa': -0.09985330989065865}
+ {'company': 'Marvell Technology', 'naturalId': 'fred/companies/F2K/2025/2751', 'roa': -0.043803207285686}
+ {'company': 'Globalfoundries', 'naturalId': 'fred/companies/F2K/2025/103369', 'roa': -0.015774748496934343}
+ {'company': 'Microchip Technology', 'naturalId': 'fred/companies/F2K/2025/2851', 'roa': 0.019754350051177073}
+ {'company': 'Advanced Micro Devices (AMD)', 'naturalId': 'fred/companies/F2K/2025/60', 'roa': 0.02370496634212579}]","[{'company': 'Intel', 'naturalId': 'fred/companies/F2K/2025/2207', 'roa': -0.09985330989065865}
+ {'company': 'Marvell Technology', 'naturalId': 'fred/companies/F2K/2025/2751', 'roa': -0.043803207285686}
+ {'company': 'Globalfoundries', 'naturalId': 'fred/companies/F2K/2025/103369', 'roa': -0.015774748496934343}
+ {'company': 'Microchip Technology', 'naturalId': 'fred/companies/F2K/2025/2851', 'roa': 0.019754350051177073}
+ {'company': 'Advanced Micro Devices (AMD)', 'naturalId': 'fred/companies/F2K/2025/60', 'roa': 0.02370496634212579}]","[{'company': 'Intel', 'naturalId': 'fred/companies/F2K/2025/2207', 'profit_margin': -0.3618882437221929}
+ {'company': 'Marvell Technology', 'naturalId': 'fred/companies/F2K/2025/2751', 'profit_margin': -0.15345933761054276}
+ {'company': 'Globalfoundries', 'naturalId': 'fred/companies/F2K/2025/103369', 'profit_margin': -0.03925925925925926}
+ {'company': 'Advanced Micro Devices (AMD)', 'naturalId': 'fred/companies/F2K/2025/60', 'profit_margin': 0.06364165212332752}
+ {'company': 'Microchip Technology', 'naturalId': 'fred/companies/F2K/2025/2851', 'profit_margin': 0.06491486230817743}]","[{'company': 'First Solar', 'marketValue': 15213.0, 'naturalId': 'fred/companies/F2K/2025/1615'}
+ {'company': 'ON Semiconductor ', 'marketValue': 16726.0, 'naturalId': 'fred/companies/F2K/2025/3235'}
+ {'company': 'Globalfoundries', 'marketValue': 19512.0, 'naturalId': 'fred/companies/F2K/2025/103369'}
+ {'company': 'Microchip Technology', 'marketValue': 25218.0, 'naturalId': 'fred/companies/F2K/2025/2851'}
+ {'company': 'Monolithic Power Systems', 'marketValue': 27947.0, 'naturalId': 'fred/companies/F2K/2025/108752'}]"
+Semiconductors,Europe,5,89800.0,15375.7,420528.0,0.08898456539398863,0.0587588772404464,1.0,"[{'company': 'Infineon Technologies', 'naturalId': 'fred/companies/F2K/2025/2184', 'roa': 0.03369498132207244}
+ {'company': 'STMicroelectronics', 'naturalId': 'fred/companies/F2K/2025/4086', 'roa': 0.04395137022027846}
+ {'company': 'TE Connectivity', 'naturalId': 'fred/companies/F2K/2025/80367', 'roa': 0.0587588772404464}
+ {'company': 'NXP Semiconductors', 'naturalId': 'fred/companies/F2K/2025/80296', 'roa': 0.10293213040803773}
+ {'company': 'ASML Holding', 'naturalId': 'fred/companies/F2K/2025/337', 'roa': 0.19018442372674346}]","[{'company': 'Infineon Technologies', 'naturalId': 'fred/companies/F2K/2025/2184', 'roa': 0.03369498132207244}
+ {'company': 'STMicroelectronics', 'naturalId': 'fred/companies/F2K/2025/4086', 'roa': 0.04395137022027846}
+ {'company': 'TE Connectivity', 'naturalId': 'fred/companies/F2K/2025/80367', 'roa': 0.0587588772404464}
+ {'company': 'NXP Semiconductors', 'naturalId': 'fred/companies/F2K/2025/80296', 'roa': 0.10293213040803773}
+ {'company': 'ASML Holding', 'naturalId': 'fred/companies/F2K/2025/337', 'roa': 0.19018442372674346}]","[{'company': 'Infineon Technologies', 'naturalId': 'fred/companies/F2K/2025/2184', 'profit_margin': 0.06533761652809271}
+ {'company': 'TE Connectivity', 'naturalId': 'fred/companies/F2K/2025/80367', 'profit_margin': 0.08673405715711968}
+ {'company': 'STMicroelectronics', 'naturalId': 'fred/companies/F2K/2025/4086', 'profit_margin': 0.08898456539398863}
+ {'company': 'NXP Semiconductors', 'naturalId': 'fred/companies/F2K/2025/80296', 'profit_margin': 0.19898525447915016}
+ {'company': 'ASML Holding', 'naturalId': 'fred/companies/F2K/2025/337', 'profit_margin': 0.2833444532055559}]","[{'company': 'STMicroelectronics', 'marketValue': 20566.0, 'naturalId': 'fred/companies/F2K/2025/4086'}
+ {'company': 'TE Connectivity', 'marketValue': 43073.0, 'naturalId': 'fred/companies/F2K/2025/80367'}
+ {'company': 'Infineon Technologies', 'marketValue': 44501.0, 'naturalId': 'fred/companies/F2K/2025/2184'}
+ {'company': 'NXP Semiconductors', 'marketValue': 49088.0, 'naturalId': 'fred/companies/F2K/2025/80296'}
+ {'company': 'ASML Holding', 'marketValue': 263300.0, 'naturalId': 'fred/companies/F2K/2025/337'}]"
+Technology Hardware & Equipment,APAC,34,1177537.0,62463.8,1152992.0,0.03290982778719376,0.03535609551267521,0.628604534983764,"[{'company': 'LG Display', 'naturalId': 'fred/companies/F2K/2025/2612', 'roa': -0.06483132476143541}
+ {'company': 'Doosan', 'naturalId': 'fred/companies/F2K/2025/1335', 'roa': -0.008102168392264115}
+ {'company': 'TCL ', 'naturalId': 'fred/companies/F2K/2025/4231', 'roa': 0.005263064122436617}
+ {'company': 'BOE Technology Group', 'naturalId': 'fred/companies/F2K/2025/90780', 'roa': 0.012536650678779047}
+ {'company': 'Digital China Group', 'naturalId': 'fred/companies/F2K/2025/106770', 'roa': 0.01632456703014753}]","[{'company': 'LG Display', 'naturalId': 'fred/companies/F2K/2025/2612', 'roa': -0.06483132476143541}
+ {'company': 'Doosan', 'naturalId': 'fred/companies/F2K/2025/1335', 'roa': -0.008102168392264115}
+ {'company': 'TCL ', 'naturalId': 'fred/companies/F2K/2025/4231', 'roa': 0.005263064122436617}
+ {'company': 'BOE Technology Group', 'naturalId': 'fred/companies/F2K/2025/90780', 'roa': 0.012536650678779047}
+ {'company': 'Digital China Group', 'naturalId': 'fred/companies/F2K/2025/106770', 'roa': 0.01632456703014753}]","[{'company': 'LG Display', 'naturalId': 'fred/companies/F2K/2025/2612', 'profit_margin': -0.0735202967027384}
+ {'company': 'Doosan', 'naturalId': 'fred/companies/F2K/2025/1335', 'profit_margin': -0.012476498458298865}
+ {'company': 'Digital China Group', 'naturalId': 'fred/companies/F2K/2025/106770', 'profit_margin': 0.005633646928610957}
+ {'company': 'Compal Electronics', 'naturalId': 'fred/companies/F2K/2025/1064', 'profit_margin': 0.01103348505698458}
+ {'company': 'Inventec', 'naturalId': 'fred/companies/F2K/2025/2241', 'profit_margin': 0.011246396978431567}]","[{'company': 'LG Innotek Co.,', 'marketValue': 2337.0, 'naturalId': 'fred/companies/F2K/2025/80265'}
+ {'company': 'LG Display', 'marketValue': 2951.0, 'naturalId': 'fred/companies/F2K/2025/2612'}
+ {'company': 'Compal Electronics', 'marketValue': 3632.0, 'naturalId': 'fred/companies/F2K/2025/1064'}
+ {'company': 'Digital China Group', 'marketValue': 3636.0, 'naturalId': 'fred/companies/F2K/2025/106770'}
+ {'company': 'Doosan', 'marketValue': 3830.0, 'naturalId': 'fred/companies/F2K/2025/1335'}]"
+Technology Hardware & Equipment,Americas,19,741210.0,127842.0,3940262.0,0.13364890885750963,0.07244215938303342,0.8889951987964252,"[{'company': 'Corning', 'naturalId': 'fred/companies/F2K/2025/1104', 'roa': 0.018244095907697856}
+ {'company': 'Fortive', 'naturalId': 'fred/companies/F2K/2025/104368', 'roa': 0.0489480488951575}
+ {'company': 'Flex', 'naturalId': 'fred/companies/F2K/2025/1631', 'roa': 0.055330560420315235}
+ {'company': 'Dell Technologies', 'naturalId': 'fred/companies/F2K/2025/1260', 'roa': 0.05606550798786146}
+ {'company': 'Emerson Electric', 'naturalId': 'fred/companies/F2K/2025/1445', 'roa': 0.056582961746069}]","[{'company': 'Corning', 'naturalId': 'fred/companies/F2K/2025/1104', 'roa': 0.018244095907697856}
+ {'company': 'Fortive', 'naturalId': 'fred/companies/F2K/2025/104368', 'roa': 0.0489480488951575}
+ {'company': 'Flex', 'naturalId': 'fred/companies/F2K/2025/1631', 'roa': 0.055330560420315235}
+ {'company': 'Dell Technologies', 'naturalId': 'fred/companies/F2K/2025/1260', 'roa': 0.05606550798786146}
+ {'company': 'Emerson Electric', 'naturalId': 'fred/companies/F2K/2025/1445', 'roa': 0.056582961746069}]","[{'company': 'Corning', 'naturalId': 'fred/companies/F2K/2025/1104', 'profit_margin': 0.038572953194084464}
+ {'company': 'Flex', 'naturalId': 'fred/companies/F2K/2025/1631', 'profit_margin': 0.039516885553470917}
+ {'company': 'Celestica', 'naturalId': 'fred/companies/F2K/2025/96901', 'profit_margin': 0.041868066561014265}
+ {'company': 'Dell Technologies', 'naturalId': 'fred/companies/F2K/2025/1260', 'profit_margin': 0.046832937035834375}
+ {'company': 'HP', 'naturalId': 'fred/companies/F2K/2025/103732', 'profit_margin': 0.05070706316928473}]","[{'company': 'Celestica', 'marketValue': 10326.0, 'naturalId': 'fred/companies/F2K/2025/96901'}
+ {'company': 'Flex', 'marketValue': 13493.0, 'naturalId': 'fred/companies/F2K/2025/1631'}
+ {'company': 'Western Digital', 'marketValue': 14184.0, 'naturalId': 'fred/companies/F2K/2025/4698'}
+ {'company': 'NetApp', 'marketValue': 18254.0, 'naturalId': 'fred/companies/F2K/2025/3039'}
+ {'company': 'Ubiquiti', 'marketValue': 18939.0, 'naturalId': 'fred/companies/F2K/2025/111728'}]"
+Technology Hardware & Equipment,Europe,7,78116.0,6578.0,175625.0,0.14371020856201977,0.07579598702390965,0.8349266903914591,"[{'company': 'Ericsson', 'naturalId': 'fred/companies/F2K/2025/1494', 'roa': 0.005467423120008673}
+ {'company': 'Nokia', 'naturalId': 'fred/companies/F2K/2025/3134', 'roa': 0.019162933270455082}
+ {'company': 'Hexagon ', 'naturalId': 'fred/companies/F2K/2025/5704', 'roa': 0.05990586453148669}
+ {'company': 'Legrand', 'naturalId': 'fred/companies/F2K/2025/2590', 'roa': 0.07579598702390965}
+ {'company': 'Garmin', 'naturalId': 'fred/companies/F2K/2025/1733', 'roa': 0.14654760668674074}]","[{'company': 'Ericsson', 'naturalId': 'fred/companies/F2K/2025/1494', 'roa': 0.005467423120008673}
+ {'company': 'Nokia', 'naturalId': 'fred/companies/F2K/2025/3134', 'roa': 0.019162933270455082}
+ {'company': 'Hexagon ', 'naturalId': 'fred/companies/F2K/2025/5704', 'roa': 0.05990586453148669}
+ {'company': 'Legrand', 'naturalId': 'fred/companies/F2K/2025/2590', 'roa': 0.07579598702390965}
+ {'company': 'Garmin', 'naturalId': 'fred/companies/F2K/2025/1733', 'roa': 0.14654760668674074}]","[{'company': 'Ericsson', 'naturalId': 'fred/companies/F2K/2025/1494', 'profit_margin': 0.00645037517053206}
+ {'company': 'Nokia', 'naturalId': 'fred/companies/F2K/2025/3134', 'profit_margin': 0.03949939246658567}
+ {'company': 'Legrand', 'naturalId': 'fred/companies/F2K/2025/2590', 'profit_margin': 0.1348690539818279}
+ {'company': 'Logitech International', 'naturalId': 'fred/companies/F2K/2025/106919', 'profit_margin': 0.14371020856201977}
+ {'company': 'Seagate Technology', 'naturalId': 'fred/companies/F2K/2025/3803', 'profit_margin': 0.14673304293714998}]","[{'company': 'Logitech International', 'marketValue': 11483.0, 'naturalId': 'fred/companies/F2K/2025/106919'}
+ {'company': 'Seagate Technology', 'marketValue': 17508.0, 'naturalId': 'fred/companies/F2K/2025/3803'}
+ {'company': 'Hexagon ', 'marketValue': 25880.0, 'naturalId': 'fred/companies/F2K/2025/5704'}
+ {'company': 'Nokia', 'marketValue': 26058.0, 'naturalId': 'fred/companies/F2K/2025/3134'}
+ {'company': 'Ericsson', 'marketValue': 27491.0, 'naturalId': 'fred/companies/F2K/2025/1494'}]"
+Telecommunications Services,APAC,15,560354.0,54270.9,1028564.0,0.10743923588641834,0.03936109930585069,0.6744033429130322,"[{'company': 'SingTel', 'naturalId': 'fred/companies/F2K/2025/3942', 'roa': -0.0023249212251965825}
+ {'company': 'KT ', 'naturalId': 'fred/companies/F2K/2025/2528', 'roa': 0.012095753655793027}
+ {'company': 'Softbank', 'naturalId': 'fred/companies/F2K/2025/3996', 'roa': 0.01870446859419069}
+ {'company': 'China Unicom', 'naturalId': 'fred/companies/F2K/2025/935', 'roa': 0.031139625924314917}
+ {'company': 'China Tower Corp.', 'naturalId': 'fred/companies/F2K/2025/108798', 'roa': 0.032694416421772884}]","[{'company': 'SingTel', 'naturalId': 'fred/companies/F2K/2025/3942', 'roa': -0.0023249212251965825}
+ {'company': 'KT ', 'naturalId': 'fred/companies/F2K/2025/2528', 'roa': 0.012095753655793027}
+ {'company': 'Softbank', 'naturalId': 'fred/companies/F2K/2025/3996', 'roa': 0.01870446859419069}
+ {'company': 'China Unicom', 'naturalId': 'fred/companies/F2K/2025/935', 'roa': 0.031139625924314917}
+ {'company': 'China Tower Corp.', 'naturalId': 'fred/companies/F2K/2025/108798', 'roa': 0.032694416421772884}]","[{'company': 'SingTel', 'naturalId': 'fred/companies/F2K/2025/3942', 'profit_margin': -0.007793320011418785}
+ {'company': 'KT ', 'naturalId': 'fred/companies/F2K/2025/2528', 'profit_margin': 0.017753585801258902}
+ {'company': 'China Unicom', 'naturalId': 'fred/companies/F2K/2025/935', 'profit_margin': 0.0528993405131805}
+ {'company': 'China Telecom', 'naturalId': 'fred/companies/F2K/2025/933', 'profit_margin': 0.06361565226996575}
+ {'company': 'SK Telecom', 'naturalId': 'fred/companies/F2K/2025/3961', 'profit_margin': 0.06885831559744603}]","[{'company': 'SK Telecom', 'marketValue': 8563.0, 'naturalId': 'fred/companies/F2K/2025/3961'}
+ {'company': 'KT ', 'marketValue': 8588.0, 'naturalId': 'fred/companies/F2K/2025/2528'}
+ {'company': 'Telkom Indonesia', 'marketValue': 15304.0, 'naturalId': 'fred/companies/F2K/2025/4264'}
+ {'company': 'Advanced Info Service', 'marketValue': 24549.0, 'naturalId': 'fred/companies/F2K/2025/58'}
+ {'company': 'Chunghwa Telecom', 'marketValue': 30183.0, 'naturalId': 'fred/companies/F2K/2025/958'}]"
+Telecommunications Services,Americas,11,392524.0,35795.5,501361.0,0.04930612244897959,0.017965496728138013,0.9255945316847541,"[{'company': 'Altice USA', 'naturalId': 'fred/companies/F2K/2025/108744', 'roa': -0.0031446733084774772}
+ {'company': 'Echostar', 'naturalId': 'fred/companies/F2K/2025/112417', 'roa': -0.0019609773708134364}
+ {'company': 'Lumen Technologies', 'naturalId': 'fred/companies/F2K/2025/855', 'roa': -0.0016419871029376642}
+ {'company': 'BCE', 'naturalId': 'fred/companies/F2K/2025/548', 'roa': 0.004914375183481749}
+ {'company': 'América Móvil', 'naturalId': 'fred/companies/F2K/2025/207', 'roa': 0.01777447832142076}]","[{'company': 'Altice USA', 'naturalId': 'fred/companies/F2K/2025/108744', 'roa': -0.0031446733084774772}
+ {'company': 'Echostar', 'naturalId': 'fred/companies/F2K/2025/112417', 'roa': -0.0019609773708134364}
+ {'company': 'Lumen Technologies', 'naturalId': 'fred/companies/F2K/2025/855', 'roa': -0.0016419871029376642}
+ {'company': 'BCE', 'naturalId': 'fred/companies/F2K/2025/548', 'roa': 0.004914375183481749}
+ {'company': 'América Móvil', 'naturalId': 'fred/companies/F2K/2025/207', 'roa': 0.01777447832142076}]","[{'company': 'Altice USA', 'naturalId': 'fred/companies/F2K/2025/108744', 'profit_margin': -0.011492070582979675}
+ {'company': 'Echostar', 'naturalId': 'fred/companies/F2K/2025/112417', 'profit_margin': -0.0075508656640970555}
+ {'company': 'Lumen Technologies', 'naturalId': 'fred/companies/F2K/2025/855', 'profit_margin': -0.004195910894110467}
+ {'company': 'BCE', 'naturalId': 'fred/companies/F2K/2025/548', 'profit_margin': 0.01409328169725543}
+ {'company': 'América Móvil', 'naturalId': 'fred/companies/F2K/2025/207', 'profit_margin': 0.03256642766765078}]","[{'company': 'Oi', 'marketValue': 416.0, 'naturalId': 'fred/companies/F2K/2025/101530'}
+ {'company': 'Altice USA', 'marketValue': 1093.0, 'naturalId': 'fred/companies/F2K/2025/108744'}
+ {'company': 'Lumen Technologies', 'marketValue': 3434.0, 'naturalId': 'fred/companies/F2K/2025/855'}
+ {'company': 'Echostar', 'marketValue': 6465.0, 'naturalId': 'fred/companies/F2K/2025/112417'}
+ {'company': 'Liberty Broadband', 'marketValue': 12355.0, 'naturalId': 'fred/companies/F2K/2025/103612'}]"
+Telecommunications Services,Europe,12,334395.0,24610.8,409055.0,0.07841605057677051,0.028257483881412637,0.7348058329564484,"[{'company': 'Telecom Italia', 'naturalId': 'fred/companies/F2K/2025/4254', 'roa': -0.011843589743589743}
+ {'company': 'Cellnex Telecom', 'naturalId': 'fred/companies/F2K/2025/108799', 'roa': -0.0007209358897808444}
+ {'company': 'Telefónica', 'naturalId': 'fred/companies/F2K/2025/4258', 'roa': -0.00013548573075814355}
+ {'company': 'BT Group', 'naturalId': 'fred/companies/F2K/2025/720', 'roa': 0.014233983286908078}
+ {'company': 'Vodafone', 'naturalId': 'fred/companies/F2K/2025/4624', 'roa': 0.017768931976501555}]","[{'company': 'Telecom Italia', 'naturalId': 'fred/companies/F2K/2025/4254', 'roa': -0.011843589743589743}
+ {'company': 'Cellnex Telecom', 'naturalId': 'fred/companies/F2K/2025/108799', 'roa': -0.0007209358897808444}
+ {'company': 'Telefónica', 'naturalId': 'fred/companies/F2K/2025/4258', 'roa': -0.00013548573075814355}
+ {'company': 'BT Group', 'naturalId': 'fred/companies/F2K/2025/720', 'roa': 0.014233983286908078}
+ {'company': 'Vodafone', 'naturalId': 'fred/companies/F2K/2025/4624', 'roa': 0.017768931976501555}]","[{'company': 'Telecom Italia', 'naturalId': 'fred/companies/F2K/2025/4254', 'profit_margin': -0.029567276917168095}
+ {'company': 'Cellnex Telecom', 'naturalId': 'fred/companies/F2K/2025/108799', 'profit_margin': -0.006479825084476248}
+ {'company': 'Telefónica', 'naturalId': 'fred/companies/F2K/2025/4258', 'profit_margin': -0.0003170106569539997}
+ {'company': 'BT Group', 'naturalId': 'fred/companies/F2K/2025/720', 'profit_margin': 0.03726062094638677}
+ {'company': 'Orange', 'naturalId': 'fred/companies/F2K/2025/1672', 'profit_margin': 0.058371030333647156}]","[{'company': 'Liberty Global', 'marketValue': 3777.0, 'naturalId': 'fred/companies/F2K/2025/2615'}
+ {'company': 'Telecom Italia', 'marketValue': 8189.0, 'naturalId': 'fred/companies/F2K/2025/4254'}
+ {'company': 'Telia', 'marketValue': 14326.0, 'naturalId': 'fred/companies/F2K/2025/4275'}
+ {'company': 'KPN', 'marketValue': 17354.0, 'naturalId': 'fred/companies/F2K/2025/3664'}
+ {'company': 'Telenor', 'marketValue': 19638.0, 'naturalId': 'fred/companies/F2K/2025/4265'}]"
+Telecommunications Services,MEA/Other,5,58065.0,7356.0,139875.0,0.15497093309685683,0.058774518661286114,1.0,"[{'company': 'MTN Group', 'naturalId': 'fred/companies/F2K/2025/2955', 'roa': -0.022909186443646555}
+ {'company': 'Ooredoo Q.P.S.C', 'naturalId': 'fred/companies/F2K/2025/5811', 'roa': 0.055469346969964146}
+ {'company': 'Etisalat', 'naturalId': 'fred/companies/F2K/2025/6039', 'roa': 0.058774518661286114}
+ {'company': 'Saudi Telecom', 'naturalId': 'fred/companies/F2K/2025/3770', 'roa': 0.07357784431137725}
+ {'company': 'Mobily', 'naturalId': 'fred/companies/F2K/2025/5656', 'roa': 0.08413658536585365}]","[{'company': 'MTN Group', 'naturalId': 'fred/companies/F2K/2025/2955', 'roa': -0.022909186443646555}
+ {'company': 'Ooredoo Q.P.S.C', 'naturalId': 'fred/companies/F2K/2025/5811', 'roa': 0.055469346969964146}
+ {'company': 'Etisalat', 'naturalId': 'fred/companies/F2K/2025/6039', 'roa': 0.058774518661286114}
+ {'company': 'Saudi Telecom', 'naturalId': 'fred/companies/F2K/2025/3770', 'roa': 0.07357784431137725}
+ {'company': 'Mobily', 'naturalId': 'fred/companies/F2K/2025/5656', 'roa': 0.08413658536585365}]","[{'company': 'MTN Group', 'naturalId': 'fred/companies/F2K/2025/2955', 'profit_margin': -0.05101901511457826}
+ {'company': 'Ooredoo Q.P.S.C', 'naturalId': 'fred/companies/F2K/2025/5811', 'profit_margin': 0.14563271604938272}
+ {'company': 'Saudi Telecom', 'naturalId': 'fred/companies/F2K/2025/3770', 'profit_margin': 0.15497093309685683}
+ {'company': 'Mobily', 'naturalId': 'fred/companies/F2K/2025/5656', 'profit_margin': 0.17553429676368817}
+ {'company': 'Etisalat', 'naturalId': 'fred/companies/F2K/2025/6039', 'profit_margin': 0.18161796637508532}]","[{'company': 'MTN Group', 'marketValue': 11139.0, 'naturalId': 'fred/companies/F2K/2025/2955'}
+ {'company': 'Ooredoo Q.P.S.C', 'marketValue': 11331.0, 'naturalId': 'fred/companies/F2K/2025/5811'}
+ {'company': 'Mobily', 'marketValue': 12870.0, 'naturalId': 'fred/companies/F2K/2025/5656'}
+ {'company': 'Etisalat', 'marketValue': 40725.0, 'naturalId': 'fred/companies/F2K/2025/6039'}
+ {'company': 'Saudi Telecom', 'marketValue': 63810.0, 'naturalId': 'fred/companies/F2K/2025/3770'}]"
+Trading Companies,APAC,17,593696.0,19485.2,230286.0,0.02083903045369795,0.034236132792174,0.7380952380952381,"[{'company': 'Rongsheng Petrochemical', 'naturalId': 'fred/companies/F2K/2025/80323', 'roa': 0.0019427028069836983}
+ {'company': 'Daou Data', 'naturalId': 'fred/companies/F2K/2025/106914', 'roa': 0.003071393979558025}
+ {'company': 'Zheshang Development Group', 'naturalId': 'fred/companies/F2K/2025/101583', 'roa': 0.014521499927609672}
+ {'company': 'Wuchan Zhongda Group', 'naturalId': 'fred/companies/F2K/2025/80391', 'roa': 0.015487783746317796}
+ {'company': 'WPG Holdings', 'naturalId': 'fred/companies/F2K/2025/5906', 'roa': 0.01821705426356589}]","[{'company': 'Rongsheng Petrochemical', 'naturalId': 'fred/companies/F2K/2025/80323', 'roa': 0.0019427028069836983}
+ {'company': 'Daou Data', 'naturalId': 'fred/companies/F2K/2025/106914', 'roa': 0.003071393979558025}
+ {'company': 'Zheshang Development Group', 'naturalId': 'fred/companies/F2K/2025/101583', 'roa': 0.014521499927609672}
+ {'company': 'Wuchan Zhongda Group', 'naturalId': 'fred/companies/F2K/2025/80391', 'roa': 0.015487783746317796}
+ {'company': 'WPG Holdings', 'naturalId': 'fred/companies/F2K/2025/5906', 'roa': 0.01821705426356589}]","[{'company': 'Rongsheng Petrochemical', 'naturalId': 'fred/companies/F2K/2025/80323', 'profit_margin': 0.0024031118747613596}
+ {'company': 'Zheshang Development Group', 'naturalId': 'fred/companies/F2K/2025/101583', 'profit_margin': 0.0035028288049172313}
+ {'company': 'China Aviation Oil', 'naturalId': 'fred/companies/F2K/2025/5506', 'profit_margin': 0.0050528486723382315}
+ {'company': 'Wuchan Zhongda Group', 'naturalId': 'fred/companies/F2K/2025/80391', 'profit_margin': 0.0055258114374034}
+ {'company': 'WPG Holdings', 'naturalId': 'fred/companies/F2K/2025/5906', 'profit_margin': 0.008228771520280129}]","[{'company': 'Daou Data', 'marketValue': 311.0, 'naturalId': 'fred/companies/F2K/2025/106914'}
+ {'company': 'China Aviation Oil', 'marketValue': 559.0, 'naturalId': 'fred/companies/F2K/2025/5506'}
+ {'company': 'Zheshang Development Group', 'marketValue': 612.0, 'naturalId': 'fred/companies/F2K/2025/101583'}
+ {'company': 'Hanwa', 'marketValue': 1310.0, 'naturalId': 'fred/companies/F2K/2025/1918'}
+ {'company': 'Sime Darby', 'marketValue': 3225.0, 'naturalId': 'fred/companies/F2K/2025/3930'}]"
+Trading Companies,Americas,10,279443.0,11832.5,272629.0,0.023509407352703723,0.03473681890884106,0.9124781296193728,"[{'company': 'World Fuel Services', 'naturalId': 'fred/companies/F2K/2025/4762', 'roa': 0.002868417058734254}
+ {'company': 'Parkland', 'naturalId': 'fred/companies/F2K/2025/116594', 'roa': 0.009493087557603686}
+ {'company': 'Arrow Electronics', 'naturalId': 'fred/companies/F2K/2025/315', 'roa': 0.018020957808622118}
+ {'company': 'TD SYNNEX', 'naturalId': 'fred/companies/F2K/2025/4176', 'roa': 0.02355535491040422}
+ {'company': 'Avnet', 'naturalId': 'fred/companies/F2K/2025/393', 'roa': 0.026601356443104747}]","[{'company': 'World Fuel Services', 'naturalId': 'fred/companies/F2K/2025/4762', 'roa': 0.002868417058734254}
+ {'company': 'Parkland', 'naturalId': 'fred/companies/F2K/2025/116594', 'roa': 0.009493087557603686}
+ {'company': 'Arrow Electronics', 'naturalId': 'fred/companies/F2K/2025/315', 'roa': 0.018020957808622118}
+ {'company': 'TD SYNNEX', 'naturalId': 'fred/companies/F2K/2025/4176', 'roa': 0.02355535491040422}
+ {'company': 'Avnet', 'naturalId': 'fred/companies/F2K/2025/393', 'roa': 0.026601356443104747}]","[{'company': 'World Fuel Services', 'naturalId': 'fred/companies/F2K/2025/4762', 'profit_margin': 0.00046431642304385206}
+ {'company': 'Parkland', 'naturalId': 'fred/companies/F2K/2025/116594', 'profit_margin': 0.004486931268151017}
+ {'company': 'TD SYNNEX', 'naturalId': 'fred/companies/F2K/2025/4176', 'profit_margin': 0.011494856716772016}
+ {'company': 'Arrow Electronics', 'naturalId': 'fred/companies/F2K/2025/315', 'profit_margin': 0.014042187444042547}
+ {'company': 'Avnet', 'naturalId': 'fred/companies/F2K/2025/393', 'profit_margin': 0.014130048034157622}]","[{'company': 'World Fuel Services', 'marketValue': 1370.0, 'naturalId': 'fred/companies/F2K/2025/4762'}
+ {'company': 'Parkland', 'marketValue': 4317.0, 'naturalId': 'fred/companies/F2K/2025/116594'}
+ {'company': 'Avnet', 'marketValue': 4493.0, 'naturalId': 'fred/companies/F2K/2025/393'}
+ {'company': 'Arrow Electronics', 'marketValue': 5795.0, 'naturalId': 'fred/companies/F2K/2025/315'}
+ {'company': 'WESCO International', 'marketValue': 7886.0, 'naturalId': 'fred/companies/F2K/2025/4690'}]"
+Trading Companies,Europe,7,349841.0,1537.4,107625.0,0.033022090639945344,0.04698258404212231,0.9656957026713124,"[{'company': 'BayWa', 'naturalId': 'fred/companies/F2K/2025/539', 'roa': -0.045071577691619444}
+ {'company': 'Glencore International', 'naturalId': 'fred/companies/F2K/2025/90817', 'roa': -0.012435229189023456}
+ {'company': 'Rexel', 'naturalId': 'fred/companies/F2K/2025/5822', 'roa': 0.024584450402144773}
+ {'company': 'Brenntag', 'naturalId': 'fred/companies/F2K/2025/80161', 'roa': 0.04698258404212231}
+ {'company': 'Bunzl', 'naturalId': 'fred/companies/F2K/2025/732', 'roa': 0.05249158525572613}]","[{'company': 'BayWa', 'naturalId': 'fred/companies/F2K/2025/539', 'roa': -0.045071577691619444}
+ {'company': 'Glencore International', 'naturalId': 'fred/companies/F2K/2025/90817', 'roa': -0.012435229189023456}
+ {'company': 'Rexel', 'naturalId': 'fred/companies/F2K/2025/5822', 'roa': 0.024584450402144773}
+ {'company': 'Brenntag', 'naturalId': 'fred/companies/F2K/2025/80161', 'roa': 0.04698258404212231}
+ {'company': 'Bunzl', 'naturalId': 'fred/companies/F2K/2025/732', 'roa': 0.05249158525572613}]","[{'company': 'BayWa', 'naturalId': 'fred/companies/F2K/2025/539', 'profit_margin': -0.02561115112485701}
+ {'company': 'Glencore International', 'naturalId': 'fred/companies/F2K/2025/90817', 'profit_margin': -0.00702200137643866}
+ {'company': 'Rexel', 'naturalId': 'fred/companies/F2K/2025/5822', 'profit_margin': 0.01758304970998514}
+ {'company': 'Brenntag', 'naturalId': 'fred/companies/F2K/2025/80161', 'profit_margin': 0.033022090639945344}
+ {'company': 'Bunzl', 'naturalId': 'fred/companies/F2K/2025/732', 'profit_margin': 0.04249069643806486}]","[{'company': 'BayWa', 'marketValue': 344.0, 'naturalId': 'fred/companies/F2K/2025/539'}
+ {'company': 'Inchcape', 'marketValue': 3348.0, 'naturalId': 'fred/companies/F2K/2025/2161'}
+ {'company': 'Rexel', 'marketValue': 7839.0, 'naturalId': 'fred/companies/F2K/2025/5822'}
+ {'company': 'Brenntag', 'marketValue': 9560.0, 'naturalId': 'fred/companies/F2K/2025/80161'}
+ {'company': 'Bunzl', 'marketValue': 9935.0, 'naturalId': 'fred/companies/F2K/2025/732'}]"
+Transportation,APAC,48,745720.0,62226.9,696431.0,0.10408830052366658,0.046320174966613364,0.32540050629567036,"[{'company': 'China Eastern Airlines', 'naturalId': 'fred/companies/F2K/2025/910', 'roa': -0.01536870762545483}
+ {'company': 'China Southern Airlines', 'naturalId': 'fred/companies/F2K/2025/931', 'roa': -0.005437211051385848}
+ {'company': 'Xiamen International Trade Group', 'naturalId': 'fred/companies/F2K/2025/90933', 'roa': 0.0007834236344999268}
+ {'company': 'Zall Smart Commerce Group', 'naturalId': 'fred/companies/F2K/2025/102181', 'roa': 0.001880449627061666}
+ {'company': 'Transurban Group', 'naturalId': 'fred/companies/F2K/2025/4435', 'roa': 0.002240630092341119}]","[{'company': 'China Eastern Airlines', 'naturalId': 'fred/companies/F2K/2025/910', 'roa': -0.01536870762545483}
+ {'company': 'China Southern Airlines', 'naturalId': 'fred/companies/F2K/2025/931', 'roa': -0.005437211051385848}
+ {'company': 'Xiamen International Trade Group', 'naturalId': 'fred/companies/F2K/2025/90933', 'roa': 0.0007834236344999268}
+ {'company': 'Zall Smart Commerce Group', 'naturalId': 'fred/companies/F2K/2025/102181', 'roa': 0.001880449627061666}
+ {'company': 'Transurban Group', 'naturalId': 'fred/companies/F2K/2025/4435', 'roa': 0.002240630092341119}]","[{'company': 'China Eastern Airlines', 'naturalId': 'fred/companies/F2K/2025/910', 'profit_margin': -0.03198060790935832}
+ {'company': 'China Southern Airlines', 'naturalId': 'fred/companies/F2K/2025/931', 'profit_margin': -0.010153248791771655}
+ {'company': 'Xiamen International Trade Group', 'naturalId': 'fred/companies/F2K/2025/90933', 'profit_margin': 0.0002175592696514985}
+ {'company': 'Zall Smart Commerce Group', 'naturalId': 'fred/companies/F2K/2025/102181', 'profit_margin': 0.0007933342197402828}
+ {'company': 'Xiamen Xiangyu', 'naturalId': 'fred/companies/F2K/2025/101577', 'profit_margin': 0.0038737446197991392}]","[{'company': 'Zall Smart Commerce Group', 'marketValue': 330.0, 'naturalId': 'fred/companies/F2K/2025/102181'}
+ {'company': 'Xiamen International Trade Group', 'marketValue': 1815.0, 'naturalId': 'fred/companies/F2K/2025/90933'}
+ {'company': 'Xiamen Xiangyu', 'marketValue': 2414.0, 'naturalId': 'fred/companies/F2K/2025/101577'}
+ {'company': 'CJ Cheiljedang', 'marketValue': 2715.0, 'naturalId': 'fred/companies/F2K/2025/6322'}
+ {'company': 'Sinotrans Ltd.', 'marketValue': 3241.0, 'naturalId': 'fred/companies/F2K/2025/3952'}]"
+Transportation,Americas,21,651447.0,53473.0,900755.0,0.0636125596849077,0.0578598092077976,0.5780350927832762,"[{'company': 'DoorDash', 'naturalId': 'fred/companies/F2K/2025/114655', 'roa': 0.009575710393149086}
+ {'company': 'American Airlines Group', 'naturalId': 'fred/companies/F2K/2025/102024', 'roa': 0.010940919037199124}
+ {'company': 'Southwest Airlines', 'naturalId': 'fred/companies/F2K/2025/4025', 'roa': 0.016590389016018305}
+ {'company': 'Alaska Air Group', 'naturalId': 'fred/companies/F2K/2025/130', 'roa': 0.018215763447371077}
+ {'company': 'Performance Food Group', 'naturalId': 'fred/companies/F2K/2025/15294', 'roa': 0.0223730575934377}]","[{'company': 'DoorDash', 'naturalId': 'fred/companies/F2K/2025/114655', 'roa': 0.009575710393149086}
+ {'company': 'American Airlines Group', 'naturalId': 'fred/companies/F2K/2025/102024', 'roa': 0.010940919037199124}
+ {'company': 'Southwest Airlines', 'naturalId': 'fred/companies/F2K/2025/4025', 'roa': 0.016590389016018305}
+ {'company': 'Alaska Air Group', 'naturalId': 'fred/companies/F2K/2025/130', 'roa': 0.018215763447371077}
+ {'company': 'Performance Food Group', 'naturalId': 'fred/companies/F2K/2025/15294', 'roa': 0.0223730575934377}]","[{'company': 'Performance Food Group', 'naturalId': 'fred/companies/F2K/2025/15294', 'profit_margin': 0.006444152343555016}
+ {'company': 'DoorDash', 'naturalId': 'fred/companies/F2K/2025/114655', 'profit_margin': 0.011471740346950195}
+ {'company': 'American Airlines Group', 'naturalId': 'fred/companies/F2K/2025/102024', 'profit_margin': 0.0126402421021553}
+ {'company': 'Southwest Airlines', 'naturalId': 'fred/companies/F2K/2025/4025', 'profit_margin': 0.01997607221839539}
+ {'company': 'Alaska Air Group', 'naturalId': 'fred/companies/F2K/2025/130', 'profit_margin': 0.02856012658227848}]","[{'company': 'Air Canada', 'marketValue': 3449.0, 'naturalId': 'fred/companies/F2K/2025/6264'}
+ {'company': 'Alaska Air Group', 'marketValue': 5145.0, 'naturalId': 'fred/companies/F2K/2025/130'}
+ {'company': 'Ryder System', 'marketValue': 5673.0, 'naturalId': 'fred/companies/F2K/2025/3678'}
+ {'company': 'American Airlines Group', 'marketValue': 6430.0, 'naturalId': 'fred/companies/F2K/2025/102024'}
+ {'company': 'Latam Airlines', 'marketValue': 9233.0, 'naturalId': 'fred/companies/F2K/2025/2564'}]"
+Transportation,Europe,14,406812.0,28289.9,276479.0,0.058012861935368504,0.046010810759583104,0.6681809468350218,"[{'company': 'Air France-KLM', 'naturalId': 'fred/companies/F2K/2025/109', 'roa': 0.0070489876595972}
+ {'company': 'Aeroports de Paris', 'naturalId': 'fred/companies/F2K/2025/70', 'roa': 0.01770279971284996}
+ {'company': 'International Distributions Services', 'naturalId': 'fred/companies/F2K/2025/103715', 'roa': 0.02874370050395968}
+ {'company': 'Deutsche Lufthansa', 'naturalId': 'fred/companies/F2K/2025/1284', 'roa': 0.029933023181198365}
+ {'company': ""Compagnie de l'Odet"", 'naturalId': 'fred/companies/F2K/2025/1578', 'roa': 0.03802416379734382}]","[{'company': 'Air France-KLM', 'naturalId': 'fred/companies/F2K/2025/109', 'roa': 0.0070489876595972}
+ {'company': 'Aeroports de Paris', 'naturalId': 'fred/companies/F2K/2025/70', 'roa': 0.01770279971284996}
+ {'company': 'International Distributions Services', 'naturalId': 'fred/companies/F2K/2025/103715', 'roa': 0.02874370050395968}
+ {'company': 'Deutsche Lufthansa', 'naturalId': 'fred/companies/F2K/2025/1284', 'roa': 0.029933023181198365}
+ {'company': ""Compagnie de l'Odet"", 'naturalId': 'fred/companies/F2K/2025/1578', 'roa': 0.03802416379734382}]","[{'company': 'Air France-KLM', 'naturalId': 'fred/companies/F2K/2025/109', 'profit_margin': 0.007754922127534528}
+ {'company': 'International Distributions Services', 'naturalId': 'fred/companies/F2K/2025/103715', 'profit_margin': 0.019148681055155874}
+ {'company': 'Deutsche Lufthansa', 'naturalId': 'fred/companies/F2K/2025/1284', 'profit_margin': 0.03671988388969521}
+ {'company': 'Deutsche Post', 'naturalId': 'fred/companies/F2K/2025/1287', 'profit_margin': 0.03961433293434216}
+ {'company': 'Kuehne & Nagel International', 'naturalId': 'fred/companies/F2K/2025/2533', 'profit_margin': 0.04761566594467919}]","[{'company': 'Air France-KLM', 'marketValue': 2287.0, 'naturalId': 'fred/companies/F2K/2025/109'}
+ {'company': 'International Distributions Services', 'marketValue': 4666.0, 'naturalId': 'fred/companies/F2K/2025/103715'}
+ {'company': 'EasyJet', 'marketValue': 4886.0, 'naturalId': 'fred/companies/F2K/2025/1383'}
+ {'company': ""Compagnie de l'Odet"", 'marketValue': 6420.0, 'naturalId': 'fred/companies/F2K/2025/1578'}
+ {'company': 'Deutsche Lufthansa', 'marketValue': 8846.0, 'naturalId': 'fred/companies/F2K/2025/1284'}]"
+Transportation,MEA/Other,1,8427.0,2147.7,1727.0,0.25485938056247776,0.18856014047410008,1.0,"[{'company': 'ZIM Integrated Shipping Services', 'naturalId': 'fred/companies/F2K/2025/116661', 'roa': 0.18856014047410008}]","[{'company': 'ZIM Integrated Shipping Services', 'naturalId': 'fred/companies/F2K/2025/116661', 'roa': 0.18856014047410008}]","[{'company': 'ZIM Integrated Shipping Services', 'naturalId': 'fred/companies/F2K/2025/116661', 'profit_margin': 0.25485938056247776}]","[{'company': 'ZIM Integrated Shipping Services', 'marketValue': 1727.0, 'naturalId': 'fred/companies/F2K/2025/116661'}]"
+Utilities,APAC,32,488353.0,39989.4,490834.0,0.09015544157228295,0.02558713060313931,0.4565087178149843,"[{'company': 'Jiangsu Eastern Shenghong', 'naturalId': 'fred/companies/F2K/2025/116555', 'roa': -0.01515345699831366}
+ {'company': 'Datang International Power', 'naturalId': 'fred/companies/F2K/2025/1245', 'roa': 0.0035046236685005263}
+ {'company': 'China Power International Development', 'naturalId': 'fred/companies/F2K/2025/80176', 'roa': 0.010018652316531956}
+ {'company': 'Tokyo Electric Power', 'naturalId': 'fred/companies/F2K/2025/4364', 'roa': 0.011382342139940809}
+ {'company': 'Huaneng Power International', 'naturalId': 'fred/companies/F2K/2025/2067', 'roa': 0.012267938392661621}]","[{'company': 'Jiangsu Eastern Shenghong', 'naturalId': 'fred/companies/F2K/2025/116555', 'roa': -0.01515345699831366}
+ {'company': 'Datang International Power', 'naturalId': 'fred/companies/F2K/2025/1245', 'roa': 0.0035046236685005263}
+ {'company': 'China Power International Development', 'naturalId': 'fred/companies/F2K/2025/80176', 'roa': 0.010018652316531956}
+ {'company': 'Tokyo Electric Power', 'naturalId': 'fred/companies/F2K/2025/4364', 'roa': 0.011382342139940809}
+ {'company': 'Huaneng Power International', 'naturalId': 'fred/companies/F2K/2025/2067', 'roa': 0.012267938392661621}]","[{'company': 'Jiangsu Eastern Shenghong', 'naturalId': 'fred/companies/F2K/2025/116555', 'profit_margin': -0.02327979274611399}
+ {'company': 'Datang International Power', 'naturalId': 'fred/companies/F2K/2025/1245', 'profit_margin': 0.008924526052223679}
+ {'company': 'Tokyo Electric Power', 'naturalId': 'fred/companies/F2K/2025/4364', 'profit_margin': 0.02355807922739873}
+ {'company': 'Huaneng Power International', 'naturalId': 'fred/companies/F2K/2025/2067', 'profit_margin': 0.02979817381283059}
+ {'company': 'Korea Electric Power', 'naturalId': 'fred/companies/F2K/2025/2509', 'profit_margin': 0.0373850197109067}]","[{'company': 'RattanIndia Power', 'marketValue': 667.0, 'naturalId': 'fred/companies/F2K/2025/134634'}
+ {'company': 'Chugoku Electric Power', 'marketValue': 2098.0, 'naturalId': 'fred/companies/F2K/2025/955'}
+ {'company': 'Electric Power Development', 'marketValue': 3194.0, 'naturalId': 'fred/companies/F2K/2025/1415'}
+ {'company': 'Tohoku Electric Power', 'marketValue': 3509.0, 'naturalId': 'fred/companies/F2K/2025/4357'}
+ {'company': 'Kyushu Electric Power', 'marketValue': 4209.0, 'naturalId': 'fred/companies/F2K/2025/2549'}]"
+Utilities,Americas,40,486042.0,65898.0,1286599.0,0.1392241963817827,0.02808301756650706,0.35593141297327296,"[{'company': 'Brookfield Renewable Holdings', 'naturalId': 'fred/companies/F2K/2025/116499', 'roa': 0.0046308259540541385}
+ {'company': 'Eversource Energy', 'naturalId': 'fred/companies/F2K/2025/102734', 'roa': 0.013620270156892357}
+ {'company': 'Emera', 'naturalId': 'fred/companies/F2K/2025/1444', 'roa': 0.01385949638360568}
+ {'company': 'Edison International', 'naturalId': 'fred/companies/F2K/2025/1395', 'roa': 0.016020285350378013}
+ {'company': 'Entergy', 'naturalId': 'fred/companies/F2K/2025/1475', 'roa': 0.01637907084426609}]","[{'company': 'Brookfield Renewable Holdings', 'naturalId': 'fred/companies/F2K/2025/116499', 'roa': 0.0046308259540541385}
+ {'company': 'Eversource Energy', 'naturalId': 'fred/companies/F2K/2025/102734', 'roa': 0.013620270156892357}
+ {'company': 'Emera', 'naturalId': 'fred/companies/F2K/2025/1444', 'roa': 0.01385949638360568}
+ {'company': 'Edison International', 'naturalId': 'fred/companies/F2K/2025/1395', 'roa': 0.016020285350378013}
+ {'company': 'Entergy', 'naturalId': 'fred/companies/F2K/2025/1475', 'roa': 0.01637907084426609}]","[{'company': 'NRG Energy', 'naturalId': 'fred/companies/F2K/2025/3172', 'profit_margin': 0.0400355871886121}
+ {'company': 'Brookfield Renewable Holdings', 'naturalId': 'fred/companies/F2K/2025/116499', 'profit_margin': 0.0598087098087098}
+ {'company': 'Equatorial Energia', 'naturalId': 'fred/companies/F2K/2025/102850', 'profit_margin': 0.061984551396316104}
+ {'company': 'Eversource Energy', 'naturalId': 'fred/companies/F2K/2025/102734', 'profit_margin': 0.06820435257541384}
+ {'company': 'FirstEnergy', 'naturalId': 'fred/companies/F2K/2025/1618', 'profit_margin': 0.07777777777777778}]","[{'company': 'Companhia Energetica de Minas Gerais', 'marketValue': 5506.0, 'naturalId': 'fred/companies/F2K/2025/102808'}
+ {'company': 'AES', 'marketValue': 7155.0, 'naturalId': 'fred/companies/F2K/2025/71'}
+ {'company': 'CPFL Energia', 'marketValue': 7922.0, 'naturalId': 'fred/companies/F2K/2025/1136'}
+ {'company': 'Equatorial Energia', 'marketValue': 7925.0, 'naturalId': 'fred/companies/F2K/2025/102850'}
+ {'company': 'Talen Energy', 'marketValue': 9628.0, 'naturalId': 'fred/companies/F2K/2025/103649'}]"
+Utilities,Europe,21,580624.0,45632.9,642684.0,0.0916453356086462,0.03474123989218329,0.5591425957391191,"[{'company': 'PGE Polska Grupa Energetyczna', 'naturalId': 'fred/companies/F2K/2025/6438', 'roa': -0.03156577693040991}
+ {'company': 'Orsted', 'naturalId': 'fred/companies/F2K/2025/105162', 'roa': -0.003227361469305117}
+ {'company': 'Public Power', 'naturalId': 'fred/companies/F2K/2025/3501', 'roa': 0.005807911202234084}
+ {'company': 'Edp-energias De Portugal', 'naturalId': 'fred/companies/F2K/2025/1397', 'roa': 0.014837252284628812}
+ {'company': 'Veolia Environnement', 'naturalId': 'fred/companies/F2K/2025/4593', 'roa': 0.015706362757945173}]","[{'company': 'PGE Polska Grupa Energetyczna', 'naturalId': 'fred/companies/F2K/2025/6438', 'roa': -0.03156577693040991}
+ {'company': 'Orsted', 'naturalId': 'fred/companies/F2K/2025/105162', 'roa': -0.003227361469305117}
+ {'company': 'Public Power', 'naturalId': 'fred/companies/F2K/2025/3501', 'roa': 0.005807911202234084}
+ {'company': 'Edp-energias De Portugal', 'naturalId': 'fred/companies/F2K/2025/1397', 'roa': 0.014837252284628812}
+ {'company': 'Veolia Environnement', 'naturalId': 'fred/companies/F2K/2025/4593', 'roa': 0.015706362757945173}]","[{'company': 'PGE Polska Grupa Energetyczna', 'naturalId': 'fred/companies/F2K/2025/6438', 'profit_margin': -0.049052527621751746}
+ {'company': 'Orsted', 'naturalId': 'fred/companies/F2K/2025/105162', 'profit_margin': -0.015693858415377404}
+ {'company': 'Public Power', 'naturalId': 'fred/companies/F2K/2025/3501', 'profit_margin': 0.016917215815485998}
+ {'company': 'Veolia Environnement', 'naturalId': 'fred/companies/F2K/2025/4593', 'profit_margin': 0.024545435740438118}
+ {'company': 'EnBW Energie Baden-Wurttemberg', 'naturalId': 'fred/companies/F2K/2025/1456', 'profit_margin': 0.03602356406480118}]","[{'company': 'PGE Polska Grupa Energetyczna', 'marketValue': 4771.0, 'naturalId': 'fred/companies/F2K/2025/6438'}
+ {'company': 'Public Power', 'marketValue': 5388.0, 'naturalId': 'fred/companies/F2K/2025/3501'}
+ {'company': 'Hera', 'marketValue': 6655.0, 'naturalId': 'fred/companies/F2K/2025/1974'}
+ {'company': 'A2A', 'marketValue': 7697.0, 'naturalId': 'fred/companies/F2K/2025/66'}
+ {'company': 'Elia System Operator', 'marketValue': 11094.0, 'naturalId': 'fred/companies/F2K/2025/1429'}]"
+Utilities,MEA/Other,3,40438.0,1879.7,177798.0,0.12813103402357015,0.030728346456692913,1.0,"[{'company': 'Saudi Electricity', 'naturalId': 'fred/companies/F2K/2025/3769', 'roa': -0.00352376307673286}
+ {'company': 'ACWA Power', 'naturalId': 'fred/companies/F2K/2025/118388', 'roa': 0.030728346456692913}
+ {'company': 'TAQA', 'naturalId': 'fred/companies/F2K/2025/5944', 'roa': 0.03260147726502677}]","[{'company': 'Saudi Electricity', 'naturalId': 'fred/companies/F2K/2025/3769', 'roa': -0.00352376307673286}
+ {'company': 'ACWA Power', 'naturalId': 'fred/companies/F2K/2025/118388', 'roa': 0.030728346456692913}
+ {'company': 'TAQA', 'naturalId': 'fred/companies/F2K/2025/5944', 'roa': 0.03260147726502677}]","[{'company': 'Saudi Electricity', 'naturalId': 'fred/companies/F2K/2025/3769', 'profit_margin': -0.021710609843835965}
+ {'company': 'TAQA', 'naturalId': 'fred/companies/F2K/2025/5944', 'profit_margin': 0.12813103402357015}
+ {'company': 'ACWA Power', 'naturalId': 'fred/companies/F2K/2025/118388', 'profit_margin': 0.2616201117318436}]","[{'company': 'Saudi Electricity', 'marketValue': 16816.0, 'naturalId': 'fred/companies/F2K/2025/3769'}
+ {'company': 'ACWA Power', 'marketValue': 64253.0, 'naturalId': 'fred/companies/F2K/2025/118388'}
+ {'company': 'TAQA', 'marketValue': 96729.0, 'naturalId': 'fred/companies/F2K/2025/5944'}]"

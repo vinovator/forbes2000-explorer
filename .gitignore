@@ -1,0 +1,63 @@
+# --- Python basics ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+
+# --- Build & packaging ---
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# --- Virtual envs ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Editors & OS cruft ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Tests & coverage ---
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+# (keep config.toml out of git if it contains local-only tweaks)
+.streamlit/config.toml
+
+# --- Data (keep only temp/cache out; DO NOT ignore Parquet datasets) ---
+data/tmp/
+data/cache/
+
+# --- Models (keep FAISS artifacts; ignore only temp/cache) ---
+models/tmp/
+models/cache/
+
+# --- Keep required runtime artifacts explicitly (parquet + faiss) ---
+!data/parquet/
+!data/parquet/*.parquet
+!models/faiss/
+!models/faiss/*.index
+!models/faiss/*.parquet
+
+# Ignore environment files
+.env
