@@ -1,5 +1,7 @@
 # Forbes 2000 Explorer
 
+**🌐 Live app:** https://forbes2000explorer.streamlit.app/
+
 A fast, local-first Streamlit app to explore the **Forbes Global 2000** universe.  
 Filter by country/industry, screen slices, open a company profile with KPIs & 10-year trends, and (optionally) generate short AI commentary.
 
